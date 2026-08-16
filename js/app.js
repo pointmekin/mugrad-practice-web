@@ -1,5 +1,5 @@
 import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState } from "./storage.js";
-import { filterSets } from "./sets.js";
+import { filterSets, solutionAnswer } from "./sets.js";
 
 const app = document.querySelector("#app");
 const data = { sets:[], topics:[] };
@@ -23,8 +23,8 @@ async function boot() {
 function ok(response) { if (!response.ok) throw new Error(`${response.status} ${response.statusText}`); return response.json(); }
 function route() {
   const [page="sets", param] = location.hash.slice(2).split("/");
-  document.querySelectorAll("[data-nav]").forEach(link => link.classList.toggle("active", link.dataset.nav === (page === "practice" ? "sets" : page)));
-  if (page === "practice") renderPractice(param); else if (page === "grammar") renderGrammar(param); else if (page === "dashboard") renderDashboard(); else renderSets();
+  document.querySelectorAll("[data-nav]").forEach(link => link.classList.toggle("active", link.dataset.nav === (["practice","solutions"].includes(page) ? "sets" : page)));
+  if (page === "practice") renderPractice(param); else if (page === "solutions") renderSolutions(param); else if (page === "grammar") renderGrammar(param); else if (page === "dashboard") renderDashboard(); else renderSets();
   app.focus({preventScroll:true}); window.scrollTo({top:0,behavior:"instant"});
 }
 function progressFor(set, state=loadState()) { return set.questions.filter(q => state.attempts[q.id]).length; }
@@ -37,13 +37,17 @@ function renderSets() {
 }
 function setCard(set,index,state) {
   const done=progressFor(set,state), percent=Math.round(done/set.questions.length*100);
-  return `<article class="set-card"><div class="meta"><span>${typeLabel[set.type]}</span><span>•</span><span>${set.difficulty}</span></div><div class="number">${String(index+1).padStart(2,"0")}</div><h3>${escapeHtml(set.title)}</h3><div class="progress-track" aria-label="${percent}% complete"><span style="width:${percent}%"></span></div><a class="button" href="#/practice/${set.id}">${done ? "Continue set" : "Start set"} <span aria-hidden="true">→</span></a></article>`;
+  return `<article class="set-card"><div class="meta"><span>${typeLabel[set.type]}</span><span>•</span><span>${set.difficulty}</span></div><div class="number">${String(index+1).padStart(2,"0")}</div><h3>${escapeHtml(set.title)}</h3><div class="progress-track" aria-label="${percent}% complete"><span style="width:${percent}%"></span></div><div class="set-actions"><a class="button" href="#/practice/${set.id}">${done ? "Continue set" : "Start set"} <span aria-hidden="true">→</span></a><a class="solution-link" href="#/solutions/${set.id}">Review solutions</a></div></article>`;
 }
 function answerOptions(question) {
   if (question.choices) return question.choices;
   return question.segments.filter(segment => segment.underlined).map(segment => ({id:segment.id,text:segment.text}));
 }
 function correctId(question) { return question.correctChoiceId || question.correctSegmentId; }
+function renderSolutions(setId) {
+  const set = data.sets.find(item => item.id === setId); if (!set) { location.hash="#/sets"; return; }
+  app.innerHTML=`<section class="solution-header"><a href="#/sets">← All sets</a><div class="eyebrow">Complete solutions</div><h1>${escapeHtml(set.title)}</h1><p class="lede">All ${set.questions.length} questions, answers, and explanations in one place for quick review.</p></section><ol class="solutions-list">${set.questions.map((question,index)=>`<li class="solution-item"><div class="meta">Question ${index+1}</div><h2>${questionPrompt(question)}</h2><p class="solution-answer"><strong>Answer:</strong> ${escapeHtml(solutionAnswer(question))}</p><p lang="th"><strong>Explanation:</strong> ${escapeHtml(question.explanationTh)}</p></li>`).join("")}</ol>`;
+}
 function renderPractice(setId) {
   const set = data.sets.find(item => item.id === setId); if (!set) { location.hash="#/sets"; return; }
   if (practice.set?.id !== set.id) practice={set,index:0,selected:null,submitted:false}; else practice.set=set;

@@ -22,3 +22,9 @@ test("resetState clears attempts and question and topic flags", async () => {
   resetState();
   assert.deepEqual(loadState(), { attempts:{}, flags:{ questions:[], topics:[] } });
 });
+
+test("solutionAnswer resolves multiple-choice and corrected error answers", async () => {
+  const { solutionAnswer } = await import("../js/sets.js");
+  assert.equal(solutionAnswer({ choices:[{ id:"A", text:"clarify" }], correctChoiceId:"A" }), "A — clarify");
+  assert.equal(solutionAnswer({ segments:[{ id:"B", text:"has", underlined:true }], correctSegmentId:"B", correction:"have" }), "B — have");
+});
