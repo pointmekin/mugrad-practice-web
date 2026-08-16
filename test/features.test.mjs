@@ -1,5 +1,6 @@
 import test from "node:test";
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 
 const values = new Map();
 globalThis.localStorage = {
@@ -36,4 +37,10 @@ test("solutionChoices includes a definition for every vocabulary choice", async 
     { id:"A", text:"clarify", definition:"อธิบายให้ชัดเจน" },
     { id:"B", text:"conceal", definition:"ปกปิด" }
   ]);
+});
+
+test("entry assets are versioned so deployments replace cached files", async () => {
+  const html = await readFile(new URL("../index.html", import.meta.url), "utf8");
+  assert.match(html, /href="assets\/styles\.css\?v=[^"]+"/);
+  assert.match(html, /src="js\/app\.js\?v=[^"]+"/);
 });
