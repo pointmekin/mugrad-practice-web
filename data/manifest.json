@@ -1,0 +1,7 @@
+{
+  "sets": [
+    "synonyms-16.json", "synonyms-17.json",
+    "fill-in-14.json", "fill-in-15.json",
+    "error-recognition-14.json", "error-recognition-15.json"
+  ]
+}
