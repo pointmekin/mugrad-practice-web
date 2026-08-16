@@ -8,6 +8,7 @@ export function loadState() {
   } catch { return structuredClone(EMPTY); }
 }
 export function saveState(state) { localStorage.setItem(KEY, JSON.stringify(state)); }
+export function resetState() { localStorage.removeItem(KEY); }
 export function toggleFlag(kind, id) {
   const state = loadState();
   const list = state.flags[kind];

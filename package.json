@@ -2,8 +2,10 @@
   "name": "mugrad-practice-web",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "serve": "python3 -m http.server 4173",
+    "test": "node --test",
     "validate": "node scripts/validate-data.mjs"
   }
 }
