@@ -45,9 +45,13 @@ function answerOptions(question) {
   return question.segments.filter(segment => segment.underlined).map(segment => ({id:segment.id,text:segment.text}));
 }
 function correctId(question) { return question.correctChoiceId || question.correctSegmentId; }
+function choiceDefinitionsMarkup(question) {
+  if (!question.choices) return "";
+  return `<dl class="choice-definitions">${solutionChoices(question,data.definitions).map(choice=>`<div><dt>${choice.id}. ${escapeHtml(choice.text)}</dt><dd lang="th">${escapeHtml(choice.definition)}</dd></div>`).join("")}</dl>`;
+}
 function renderSolutions(setId) {
   const set = data.sets.find(item => item.id === setId); if (!set) { location.hash="#/sets"; return; }
-  app.innerHTML=`<section class="solution-header"><a href="#/sets">← All sets</a><div class="eyebrow">Complete solutions</div><h1>${escapeHtml(set.title)}</h1><p class="lede">All ${set.questions.length} questions, answers, and explanations in one place for quick review.</p></section><ol class="solutions-list">${set.questions.map((question,index)=>`<li class="solution-item"><div class="meta">Question ${index+1}</div><h2>${questionPrompt(question)}</h2>${question.choices?`<dl class="choice-definitions">${solutionChoices(question,data.definitions).map(choice=>`<div><dt>${choice.id}. ${escapeHtml(choice.text)}</dt><dd lang="th">${escapeHtml(choice.definition)}</dd></div>`).join("")}</dl>`:""}<p class="solution-answer"><strong>Answer:</strong> ${escapeHtml(solutionAnswer(question))}</p><p lang="th"><strong>Explanation:</strong> ${escapeHtml(question.explanationTh)}</p></li>`).join("")}</ol>`;
+  app.innerHTML=`<section class="solution-header"><a href="#/sets">← All sets</a><div class="eyebrow">Complete solutions</div><h1>${escapeHtml(set.title)}</h1><p class="lede">All ${set.questions.length} questions, answers, and explanations in one place for quick review.</p></section><ol class="solutions-list">${set.questions.map((question,index)=>`<li class="solution-item"><div class="meta">Question ${index+1}</div><h2>${questionPrompt(question)}</h2>${choiceDefinitionsMarkup(question)}<p class="solution-answer"><strong>Answer:</strong> ${escapeHtml(solutionAnswer(question))}</p><p lang="th"><strong>Explanation:</strong> ${escapeHtml(question.explanationTh)}</p></li>`).join("")}</ol>`;
 }
 function renderPractice(setId) {
   const set = data.sets.find(item => item.id === setId); if (!set) { location.hash="#/sets"; return; }
@@ -64,7 +68,7 @@ function choiceButton(option,answer) {
 }
 function feedback(q,isCorrect) {
   const answer=answerOptions(q).find(option=>option.id===correctId(q));
-  return `<div class="feedback ${isCorrect?"":"incorrect"}" role="status"><h3>${isCorrect?"✓ Correct — nicely reasoned.":"✕ Not quite. Review this one."}</h3><p><strong>Answer:</strong> ${answer.id} — ${escapeHtml(q.correction||answer.text)}</p><p lang="th">${escapeHtml(q.explanationTh)}</p>${q.grammarTopicIds.map(id=>{const t=data.topics.find(x=>x.id===id);return t?`<a class="topic-link" href="#/grammar/${id}">${escapeHtml(t.name)} →</a>`:""}).join("")}</div>`;
+  return `<div class="feedback ${isCorrect?"":"incorrect"}" role="status"><h3>${isCorrect?"✓ Correct — nicely reasoned.":"✕ Not quite. Review this one."}</h3><p><strong>Answer:</strong> ${answer.id} — ${escapeHtml(q.correction||answer.text)}</p><p lang="th">${escapeHtml(q.explanationTh)}</p>${q.choices?`<h4>Choice meanings</h4>${choiceDefinitionsMarkup(q)}`:""}${q.grammarTopicIds.map(id=>{const t=data.topics.find(x=>x.id===id);return t?`<a class="topic-link" href="#/grammar/${id}">${escapeHtml(t.name)} →</a>`:""}).join("")}</div>`;
 }
 function bindPractice(q,set) {
   document.querySelectorAll("[data-choice]").forEach(button=>button.addEventListener("click",()=>{practice.selected=button.dataset.choice;renderPractice(set.id)}));

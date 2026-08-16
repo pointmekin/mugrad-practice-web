@@ -9,7 +9,7 @@ Use browser `localStorage` for attempts and flags. The app cannot write state to
 ## Pages and routes
 
 - `#/sets`: landing page, progress per set, and filters for all/synonym/fill-in/error-recognition sets.
-- `#/practice/:setId`: one question at a time, locked submission, immediate answer, Thai explanation, grammar links, flags, and question navigation.
+- `#/practice/:setId`: one question at a time, locked submission, immediate answer, Thai explanation, grammar links, flags, and question navigation. After submission, synonym and fill-in feedback shows Thai definitions for all four choices.
 - `#/solutions/:setId`: read-only all-in-one review with every question, answer, and Thai explanation. Synonym and fill-in items also show all four choice definitions.
 - `#/grammar` and `#/grammar/:topicId`: searchable Thai grammar reference, examples, topic flags, and focused topic routing.
 - `#/dashboard`: attempts, accuracy, minimum-three-attempt proficiency labels, flagged items, JSON backup/restore, and progress reset.
