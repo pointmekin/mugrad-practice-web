@@ -52,6 +52,10 @@ Use vanilla HTML, CSS, and ES modules. Extend the existing warm editorial design
 
 Route links must use the `#/page/parameter` format understood by `js/app.js`; plain fragment links such as `#topic-id` are interpreted as routes and will fall back to the landing page.
 
+## Deployment cache
+
+When changing `index.html`, `assets/styles.css`, or `js/*.js`, bump the `?v=` query string for each changed CSS/JS asset in `index.html` before publishing. Verify the deployed `index.html` references the new version; if an HTML cache or proxy serves an older entry document, purge it or configure it to revalidate.
+
 ## Adding a set
 
 1. Author a 20-question JSON file under `data/problem-sets/` using the matching type contract.
