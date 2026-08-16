@@ -76,7 +76,7 @@ function bindPractice(q,set) {
   document.querySelector("#flag-question").addEventListener("click",()=>{toggleFlag("questions",q.id);renderPractice(set.id)});
   document.querySelector("#previous").addEventListener("click",()=>move(-1)); document.querySelector("#next").addEventListener("click",()=>move(1));
   document.querySelectorAll("[data-jump]").forEach(button=>button.addEventListener("click",()=>jump(Number(button.dataset.jump))));
-  function move(delta){jump(practice.index+delta)} function jump(index){practice.index=index;practice.selected=null;practice.submitted=false;renderPractice(set.id)}
+  function move(delta){jump(practice.index+delta)} function jump(index){practice.index=index;practice.selected=null;practice.submitted=false;renderPractice(set.id);window.scrollTo({top:0,behavior:"instant"})}
 }
 function renderGrammar(focusId="") {
   const state=loadState(); const topics=focusId?[...data.topics].sort((a,b)=>a.id===focusId?-1:b.id===focusId?1:0):data.topics;
