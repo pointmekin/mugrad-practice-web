@@ -1,8 +1,8 @@
 import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState } from "./storage.js";
-import { filterSets, solutionAnswer } from "./sets.js";
+import { filterSets, solutionAnswer, solutionChoices } from "./sets.js";
 
 const app = document.querySelector("#app");
-const data = { sets:[], topics:[] };
+const data = { sets:[], topics:[], definitions:{} };
 let practice = { set:null, index:0, selected:null, submitted:false };
 let activeSetFilter = "all";
 
@@ -14,8 +14,9 @@ const questionPrompt = question => question.prompt
 
 async function boot() {
   try {
-    const [manifest, grammar] = await Promise.all([fetch("data/manifest.json").then(ok), fetch("data/grammar-topics.json").then(ok)]);
+    const [manifest, grammar, glossary] = await Promise.all([fetch("data/manifest.json").then(ok), fetch("data/grammar-topics.json").then(ok), fetch("data/choice-definitions.json").then(ok)]);
     data.topics = grammar.topics;
+    data.definitions = glossary.definitions;
     data.sets = await Promise.all(manifest.sets.map(file => fetch(`data/problem-sets/${file}`).then(ok)));
     window.addEventListener("hashchange", route); route();
   } catch (error) { app.innerHTML = `<div class="empty"><h2>Could not load practice data</h2><p>${escapeHtml(error.message)}. Open this app through a local web server, not as a file.</p></div>`; }
@@ -46,7 +47,7 @@ function answerOptions(question) {
 function correctId(question) { return question.correctChoiceId || question.correctSegmentId; }
 function renderSolutions(setId) {
   const set = data.sets.find(item => item.id === setId); if (!set) { location.hash="#/sets"; return; }
-  app.innerHTML=`<section class="solution-header"><a href="#/sets">← All sets</a><div class="eyebrow">Complete solutions</div><h1>${escapeHtml(set.title)}</h1><p class="lede">All ${set.questions.length} questions, answers, and explanations in one place for quick review.</p></section><ol class="solutions-list">${set.questions.map((question,index)=>`<li class="solution-item"><div class="meta">Question ${index+1}</div><h2>${questionPrompt(question)}</h2><p class="solution-answer"><strong>Answer:</strong> ${escapeHtml(solutionAnswer(question))}</p><p lang="th"><strong>Explanation:</strong> ${escapeHtml(question.explanationTh)}</p></li>`).join("")}</ol>`;
+  app.innerHTML=`<section class="solution-header"><a href="#/sets">← All sets</a><div class="eyebrow">Complete solutions</div><h1>${escapeHtml(set.title)}</h1><p class="lede">All ${set.questions.length} questions, answers, and explanations in one place for quick review.</p></section><ol class="solutions-list">${set.questions.map((question,index)=>`<li class="solution-item"><div class="meta">Question ${index+1}</div><h2>${questionPrompt(question)}</h2>${question.choices?`<dl class="choice-definitions">${solutionChoices(question,data.definitions).map(choice=>`<div><dt>${choice.id}. ${escapeHtml(choice.text)}</dt><dd lang="th">${escapeHtml(choice.definition)}</dd></div>`).join("")}</dl>`:""}<p class="solution-answer"><strong>Answer:</strong> ${escapeHtml(solutionAnswer(question))}</p><p lang="th"><strong>Explanation:</strong> ${escapeHtml(question.explanationTh)}</p></li>`).join("")}</ol>`;
 }
 function renderPractice(setId) {
   const set = data.sets.find(item => item.id === setId); if (!set) { location.hash="#/sets"; return; }

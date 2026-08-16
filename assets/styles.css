@@ -102,7 +102,11 @@ p { max-width:720px; }
 .solution-item h2 { max-width:900px; margin:12px 0 20px; font:600 clamp(1.3rem,2.5vw,1.8rem)/1.4 "Fraunces",serif; }
 .solution-item p { margin:8px 0; }
 .solution-answer { color:var(--green); font-size:1.05rem; }
+.choice-definitions { display:grid; grid-template-columns:1fr 1fr; gap:8px 24px; max-width:900px; margin:0 0 22px; padding:18px; background:rgba(244,240,232,.72); border-left:3px solid var(--line); }
+.choice-definitions div { display:grid; grid-template-columns:minmax(110px,.7fr) 1.3fr; gap:10px; }
+.choice-definitions dt { font-weight:700; }
+.choice-definitions dd { margin:0; color:var(--muted); }
 .visually-hidden { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
 @media (max-width:850px) { .set-grid { grid-template-columns:1fr 1fr; } .practice-shell,.grammar-layout { grid-template-columns:1fr; } .question-map,.topic-nav { position:static; } .topic-nav { grid-template-columns:repeat(2,1fr); } .stats { grid-template-columns:1fr 1fr; } }
-@media (max-width:580px) { .site-header { align-items:flex-start; } .brand { font-size:0; } nav { gap:0; } nav a { padding:9px 8px; font-size:.8rem; } main { width:min(100% - 28px,1160px); padding-top:45px; } h1 { font-size:2.8rem; } .set-grid,.dashboard-grid { grid-template-columns:1fr; } .section-head { align-items:start; flex-direction:column; } .question-card { padding:22px; border-radius:4px 28px 4px 4px; } .stats { gap:8px; } .stat { padding:16px; } .stat strong { font-size:2rem; } footer { flex-direction:column; gap:5px; } }
+@media (max-width:580px) { .site-header { align-items:flex-start; } .brand { font-size:0; } nav { gap:0; } nav a { padding:9px 8px; font-size:.8rem; } main { width:min(100% - 28px,1160px); padding-top:45px; } h1 { font-size:2.8rem; } .set-grid,.dashboard-grid,.choice-definitions { grid-template-columns:1fr; } .section-head { align-items:start; flex-direction:column; } .question-card { padding:22px; border-radius:4px 28px 4px 4px; } .stats { gap:8px; } .stat { padding:16px; } .stat strong { font-size:2rem; } footer { flex-direction:column; gap:5px; } }
 @media (prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto!important; transition:none!important; } }

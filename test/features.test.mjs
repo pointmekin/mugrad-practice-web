@@ -28,3 +28,12 @@ test("solutionAnswer resolves multiple-choice and corrected error answers", asyn
   assert.equal(solutionAnswer({ choices:[{ id:"A", text:"clarify" }], correctChoiceId:"A" }), "A — clarify");
   assert.equal(solutionAnswer({ segments:[{ id:"B", text:"has", underlined:true }], correctSegmentId:"B", correction:"have" }), "B — have");
 });
+
+test("solutionChoices includes a definition for every vocabulary choice", async () => {
+  const { solutionChoices } = await import("../js/sets.js");
+  const question = { choices:[{ id:"A", text:"clarify" }, { id:"B", text:"conceal" }] };
+  assert.deepEqual(solutionChoices(question, { clarify:"อธิบายให้ชัดเจน", conceal:"ปกปิด" }), [
+    { id:"A", text:"clarify", definition:"อธิบายให้ชัดเจน" },
+    { id:"B", text:"conceal", definition:"ปกปิด" }
+  ]);
+});
