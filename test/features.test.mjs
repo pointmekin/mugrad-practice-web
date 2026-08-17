@@ -73,6 +73,8 @@ test("solutionChoices includes a definition for every vocabulary choice", async 
 
 test("entry assets are versioned so deployments replace cached files", async () => {
   const html = await readFile(new URL("../index.html", import.meta.url), "utf8");
+  const app = await readFile(new URL("../js/app.js", import.meta.url), "utf8");
   assert.match(html, /href="assets\/styles\.css\?v=[^"]+"/);
   assert.match(html, /src="js\/app\.js\?v=[^"]+"/);
+  assert.match(app, /from "\.\/sets\.js\?v=[^"]+"/);
 });
