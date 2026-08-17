@@ -1,4 +1,4 @@
-import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState } from "./storage.js?v=20260818-2";
+import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState } from "./storage.js?v=20260818-3";
 import { filterSets, setResults, solutionAnswer, solutionChoices } from "./sets.js";
 
 const app = document.querySelector("#app");
@@ -6,7 +6,7 @@ const data = { sets:[], topics:[], definitions:{} };
 let practice = { set:null, index:0, selected:null, submitted:false };
 let activeSetFilter = "all";
 
-const versioned = path => `${path}?v=20260817-4`;
+const versioned = path => `${path}?v=20260818-3`;
 const escapeHtml = value => String(value).replace(/[&<>"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
 const typeLabel = { synonym:"Synonyms", "fill-in":"Fill in the blank", "error-recognition":"Error recognition" };
 const questionPrompt = question => question.prompt
