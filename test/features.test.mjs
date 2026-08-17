@@ -17,6 +17,17 @@ test("filterSets returns all sets or only the selected type", async () => {
   assert.deepEqual(filterSets(sets, "fill-in"), [sets[1]]);
 });
 
+test("setResults reports correct and incorrect attempts for each set", async () => {
+  const { setResults } = await import("../js/sets.js");
+  const sets = [{ id:"set-a" }, { id:"set-b" }];
+  const results = setResults(sets, [
+    { setId:"set-a", correct:true }, { setId:"set-a", correct:false }, { setId:"set-b", correct:false }
+  ]);
+  assert.deepEqual(results.map(({ set, correct, incorrect }) => ({ id:set.id, correct, incorrect })), [
+    { id:"set-a", correct:1, incorrect:1 }, { id:"set-b", correct:0, incorrect:1 }
+  ]);
+});
+
 test("resetState clears attempts and question and topic flags", async () => {
   const { saveState, loadState, resetState } = await import("../js/storage.js");
   saveState({ attempts:{ q1:{ correct:true } }, flags:{ questions:["q1"], topics:["tenses"] } });

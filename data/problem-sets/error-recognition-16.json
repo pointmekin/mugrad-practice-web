@@ -5,26 +5,25 @@
   "difficulty": "B2–C1 Upper-Advanced",
   "questions": [
     {
-      "id": "error-recognition-16-q01",
       "segments": [
         {
           "id": "x1",
-          "text": "A series of follow-up interviews ",
+          "text": "The data ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "were conducted",
+          "text": "will be released",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": " after the pilot to determine ",
+          "text": " only if ",
           "underlined": false
         },
         {
           "id": "B",
-          "text": "whether participants",
+          "text": "the reviewers",
           "underlined": true
         },
         {
@@ -34,7 +33,7 @@
         },
         {
           "id": "C",
-          "text": "had altered",
+          "text": "will approve",
           "underlined": true
         },
         {
@@ -44,47 +43,108 @@
         },
         {
           "id": "D",
-          "text": "their initial views",
+          "text": "the revised protocol",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "approve",
+      "explanationTh": "หลัง only if ใช้ present simple จึงใช้ reviewers approve ไม่ใช้ will approve",
+      "grammarTopicIds": [
+        "conditionals",
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q11"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The final version of the report ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "were approved",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " by the board after it ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "had addressed",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the reviewers’ concerns",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "in full",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
       "correctSegmentId": "A",
-      "correction": "was conducted",
-      "explanationTh": "ประธาน a series เป็นเอกพจน์ จึงใช้ was conducted",
+      "correction": "was approved",
+      "explanationTh": "ประธานคือ version ซึ่งเป็นเอกพจน์ จึงใช้ was approved",
       "grammarTopicIds": [
         "subject-verb-agreement"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q01"
     },
     {
-      "id": "error-recognition-16-q02",
       "segments": [
         {
           "id": "x1",
-          "text": "The researchers obtained ",
+          "text": "The revised criteria ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "a useful information",
+          "text": "are designed to",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": " from ",
+          "text": " ",
           "underlined": false
         },
         {
           "id": "B",
-          "text": "the open-ended questions",
+          "text": "encourage applicants",
           "underlined": true
         },
         {
@@ -94,7 +154,7 @@
         },
         {
           "id": "C",
-          "text": "included at the end",
+          "text": "who are likely",
           "underlined": true
         },
         {
@@ -104,18 +164,320 @@
         },
         {
           "id": "D",
-          "text": "of the survey",
+          "text": "disclosing conflicts",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "to disclose conflicts",
+      "explanationTh": "encourage + object + to-infinitive",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q16"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The panel suggested ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the applicants to submit",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " supplementary evidence before ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the deadline",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "was extended",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "by one week",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "that the applicants submit",
+      "explanationTh": "suggest ใช้ that-clause หรือ gerund ไม่ใช้ object + to-infinitive",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q06"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The extent of the disruption ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "have become",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " clearer since the university ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "released",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the complete records",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "last month",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
       "correctSegmentId": "A",
-      "correction": "useful information",
-      "explanationTh": "information เป็นนามนับไม่ได้ จึงไม่ใช้ a",
+      "correction": "has become",
+      "explanationTh": "ประธานคือ extent เอกพจน์ จึงใช้ has become",
+      "grammarTopicIds": [
+        "subject-verb-agreement",
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q02"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The researchers ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "attributed the variation",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to regional differences",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "with access",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " to ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "specialist services",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "in access",
+      "explanationTh": "collocation คือ access to จึงใช้ in access to ไม่ใช้ with access to",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q12"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The sample ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "was smaller than",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the target size",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the team",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "had originally anticipated",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "originally anticipated",
+      "explanationTh": "หลัง than ใช้ past simple เมื่อเปรียบกับการคาดการณ์ในอดีต ไม่ใช้ had",
+      "grammarTopicIds": [
+        "tenses",
+        "comparatives"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q17"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The report contains ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "many useful informations",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " that were not available ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to the public",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "during the consultation",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "phase",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "much useful information",
+      "explanationTh": "information เป็นนามนับไม่ได้ จึงไม่ใช้ many หรือรูปพหูพจน์",
       "grammarTopicIds": [
         "articles",
         "noun-forms"
@@ -123,39 +485,39 @@
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q07"
     },
     {
-      "id": "error-recognition-16-q03",
       "segments": [
         {
           "id": "x1",
-          "text": "The institution ",
+          "text": "Each recommendation in the draft ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "has introduced",
+          "text": "were evaluated",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": " the scholarship in 2019 and ",
+          "text": " against criteria that ",
           "underlined": false
         },
         {
           "id": "B",
-          "text": "has supported",
+          "text": "had been agreed",
           "underlined": true
         },
         {
           "id": "x3",
-          "text": " more than ",
+          "text": " ",
           "underlined": false
         },
         {
           "id": "C",
-          "text": "two hundred students",
+          "text": "by the committee",
           "underlined": true
         },
         {
@@ -165,37 +527,37 @@
         },
         {
           "id": "D",
-          "text": "since then",
+          "text": "in advance",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
       "correctSegmentId": "A",
-      "correction": "introduced",
-      "explanationTh": "in 2019 เป็นเวลาที่จบแล้ว จึงใช้ past simple",
+      "correction": "was evaluated",
+      "explanationTh": "each recommendation เป็นเอกพจน์ จึงใช้ was evaluated",
       "grammarTopicIds": [
-        "tenses"
+        "subject-verb-agreement"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q03"
     },
     {
-      "id": "error-recognition-16-q04",
       "segments": [
         {
           "id": "x1",
-          "text": "The funding body expects ",
+          "text": "The programme ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "the university demonstrating",
+          "text": "provides students",
           "underlined": true
         },
         {
@@ -205,17 +567,17 @@
         },
         {
           "id": "B",
-          "text": "measurable progress",
+          "text": "with opportunities",
           "underlined": true
         },
         {
           "id": "x3",
-          "text": " before releasing ",
+          "text": " ",
           "underlined": false
         },
         {
           "id": "C",
-          "text": "the final payment",
+          "text": "each semester",
           "underlined": true
         },
         {
@@ -225,47 +587,47 @@
         },
         {
           "id": "D",
-          "text": "to the project",
+          "text": "to attending seminars",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
-      "correctSegmentId": "A",
-      "correction": "the university to demonstrate",
-      "explanationTh": "expect + object + to-infinitive",
+      "correctSegmentId": "D",
+      "correction": "to attend seminars",
+      "explanationTh": "opportunity to + infinitive ไม่ใช้ to + -ing",
       "grammarTopicIds": [
         "verb-patterns"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q18"
     },
     {
-      "id": "error-recognition-16-q05",
       "segments": [
         {
           "id": "x1",
-          "text": "The completion rate at the urban campus was ",
+          "text": "Neither the evidence ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "substantially higher",
+          "text": "nor the testimony",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": " than ",
+          "text": " submitted by ",
           "underlined": false
         },
         {
           "id": "B",
-          "text": "the rural campus",
+          "text": "the witnesses",
           "underlined": true
         },
         {
@@ -275,67 +637,67 @@
         },
         {
           "id": "C",
-          "text": "during the same period",
+          "text": "were sufficiently conclusive",
           "underlined": true
         },
         {
           "id": "x4",
-          "text": " ",
+          "text": " to justify ",
           "underlined": false
         },
         {
           "id": "D",
-          "text": "of observation",
+          "text": "a change",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
-      "correctSegmentId": "B",
-      "correction": "that at the rural campus",
-      "explanationTh": "ต้องเปรียบเทียบ completion rate กับ rate",
+      "correctSegmentId": "C",
+      "correction": "was sufficiently conclusive",
+      "explanationTh": "neither...nor สอดคล้องกับประธานใกล้กริยา คือ testimony เอกพจน์",
       "grammarTopicIds": [
-        "comparatives"
+        "subject-verb-agreement"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q13"
     },
     {
-      "id": "error-recognition-16-q06",
       "segments": [
         {
           "id": "x1",
-          "text": "The initiative seeks to ",
+          "text": "By the time the inspection began, ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "reduce inequality",
+          "text": "the team has completed",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": ", ",
+          "text": " the preliminary checks ",
           "underlined": false
         },
         {
           "id": "B",
-          "text": "improving access",
+          "text": "required by",
           "underlined": true
         },
         {
           "id": "x3",
-          "text": ", and ",
+          "text": " ",
           "underlined": false
         },
         {
           "id": "C",
-          "text": "strengthen collaboration",
+          "text": "the external auditor",
           "underlined": true
         },
         {
@@ -345,47 +707,289 @@
         },
         {
           "id": "D",
-          "text": "between institutions",
+          "text": "in writing",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
       "correctSegmentId": "B",
-      "correction": "improve access",
-      "explanationTh": "กริยาในรายการหลัง to ต้องขนานกัน",
+      "correction": "the team had completed",
+      "explanationTh": "เหตุการณ์ที่เสร็จก่อนอีกเหตุการณ์ในอดีตใช้ past perfect",
       "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q08"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The long-term relevance of the findings ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "depend on",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " whether future studies ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "can reproduce",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the same pattern",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "reliably",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "depends on",
+      "explanationTh": "ประธานคือ relevance เอกพจน์ จึงใช้ depends on",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q04"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The committee ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "is considering",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "whether the proposal",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "would require revising",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " before it ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "is implemented",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "would require revision",
+      "explanationTh": "require ตามด้วยคำนาม จึงใช้ would require revision",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q14"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The data ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "were obtained",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "from sources",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "across several regions",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "which was unreliable",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "which were unreliable",
+      "explanationTh": "sources เป็นพหูพจน์ จึงใช้ which were unreliable",
+      "grammarTopicIds": [
+        "relative-clauses",
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ],
+      "id": "error-recognition-16-q19"
+    },
+    {
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The strategy aims to ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "reducing delays",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " in the approval process ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "while preserving",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "appropriate oversight",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "at every stage",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This item reflects an institutional policy review.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "reduce delays",
+      "explanationTh": "หลัง aims to ต้องใช้กริยารูป infinitive",
+      "grammarTopicIds": [
+        "verb-patterns",
         "parallelism"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q09"
     },
     {
-      "id": "error-recognition-16-q07",
       "segments": [
         {
           "id": "x1",
-          "text": "The lecturer ",
+          "text": "A substantial proportion of the evidence ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "which developed",
+          "text": "have declined",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": " the assessment ",
+          "text": " in reliability after the archive ",
           "underlined": false
         },
         {
           "id": "B",
-          "text": "has agreed",
+          "text": "was relocated",
           "underlined": true
         },
         {
@@ -395,127 +999,7 @@
         },
         {
           "id": "C",
-          "text": "to revise it",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "before next semester",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "A",
-      "correction": "who developed",
-      "explanationTh": "lecturer เป็นคน จึงใช้ who",
-      "grammarTopicIds": [
-        "relative-clauses"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q08",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "The success of the scheme depends ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "in whether",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " local employers ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "are willing",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "to provide",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "meaningful placements",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "A",
-      "correction": "on whether",
-      "explanationTh": "collocation คือ depend on",
-      "grammarTopicIds": [
-        "prepositions"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q09",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "If the institution ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "had acted sooner",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": ", fewer records ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "would be lost",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " during ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "the system failure",
+          "text": "without climate control",
           "underlined": true
         },
         {
@@ -530,223 +1014,42 @@
         },
         {
           "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "B",
-      "correction": "would have been lost",
-      "explanationTh": "ผลที่ตรงข้ามกับอดีตใช้ would have been",
-      "grammarTopicIds": [
-        "conditionals",
-        "tenses"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q10",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "The revised rubric enables assessors to judge ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "more objective",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " whether ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "each submission",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "meets the stated criteria",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "for distinction",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
       "correctSegmentId": "A",
-      "correction": "more objectively",
-      "explanationTh": "ขยาย judge จึงใช้ adverb",
-      "grammarTopicIds": [
-        "word-forms"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q11",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "Either the department heads or the vice-president ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "have to approve",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " the request ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "before funds",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "can be transferred",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "to the project",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "A",
-      "correction": "has to approve",
-      "explanationTh": "กริยาสอดคล้องกับ vice-president",
+      "correction": "has declined",
+      "explanationTh": "proportion เป็นประธานเอกพจน์ จึงใช้ has declined",
       "grammarTopicIds": [
         "subject-verb-agreement"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q05"
     },
     {
-      "id": "error-recognition-16-q12",
       "segments": [
         {
           "id": "x1",
-          "text": "The article offers ",
+          "text": "The author ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "an insightful analysis",
+          "text": "recommended",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": " of ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "the poverty",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " in ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "rapidly urbanising regions",
-          "underlined": true
-        },
-        {
-          "id": "x4",
           "text": " ",
           "underlined": false
         },
         {
-          "id": "D",
-          "text": "of Southeast Asia",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "B",
-      "correction": "poverty",
-      "explanationTh": "poverty โดยทั่วไปไม่ใช้ the",
-      "grammarTopicIds": [
-        "articles"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q13",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "At present, the committee ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "reviewed",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " whether the existing rules ",
-          "underlined": false
-        },
-        {
           "id": "B",
-          "text": "remain appropriate",
+          "text": "that the chapter",
           "underlined": true
         },
         {
@@ -756,7 +1059,7 @@
         },
         {
           "id": "C",
-          "text": "for research involving",
+          "text": "about the methodology",
           "underlined": true
         },
         {
@@ -766,168 +1069,107 @@
         },
         {
           "id": "D",
-          "text": "artificial intelligence",
+          "text": "is revised",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
-      "correctSegmentId": "A",
-      "correction": "is reviewing",
-      "explanationTh": "at present ใช้ present continuous",
-      "grammarTopicIds": [
-        "tenses"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q14",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "The investigators denied ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "to have withheld",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " evidence ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "that might have altered",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "the committee’s decision",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "on the complaint",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "A",
-      "correction": "having withheld",
-      "explanationTh": "deny ตามด้วย gerund",
+      "correctSegmentId": "D",
+      "correction": "be revised",
+      "explanationTh": "recommend that + subject + base verb; ใน passive ใช้ be revised",
       "grammarTopicIds": [
         "verb-patterns"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q20"
     },
     {
-      "id": "error-recognition-16-q15",
       "segments": [
         {
           "id": "x1",
-          "text": "The role involves ",
+          "text": "The findings ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "evaluating proposals",
+          "text": "are too limited",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": ", ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "to monitor expenditure",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": ", and ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "reporting outcomes",
-          "underlined": true
-        },
-        {
-          "id": "x4",
           "text": " ",
           "underlined": false
         },
         {
+          "id": "B",
+          "text": "in scope",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "to generalise",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " across all institutions ",
+          "underlined": false
+        },
+        {
           "id": "D",
-          "text": "to senior management",
+          "text": "without further",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
-      "correctSegmentId": "B",
-      "correction": "monitoring expenditure",
-      "explanationTh": "รายการหลัง involves ต้องเป็น gerunds",
+      "correctSegmentId": "C",
+      "correction": "to be generalised",
+      "explanationTh": "findings เป็นสิ่งที่ถูกนำไป generalise จึงใช้ passive infinitive",
       "grammarTopicIds": [
-        "parallelism",
         "verb-patterns"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
+      ],
+      "id": "error-recognition-16-q15"
     },
     {
-      "id": "error-recognition-16-q16",
       "segments": [
         {
           "id": "x1",
-          "text": "Students ",
+          "text": "The revised explanation is ",
           "underlined": false
         },
         {
           "id": "A",
-          "text": "whom applications",
+          "text": "more clearer",
           "underlined": true
         },
         {
           "id": "x2",
-          "text": " arrive late ",
+          "text": " than the account originally ",
           "underlined": false
         },
         {
           "id": "B",
-          "text": "will not be considered",
+          "text": "offered by",
           "underlined": true
         },
         {
@@ -937,7 +1179,7 @@
         },
         {
           "id": "C",
-          "text": "for the scholarship",
+          "text": "the research team",
           "underlined": true
         },
         {
@@ -947,268 +1189,26 @@
         },
         {
           "id": "D",
-          "text": "under any circumstances",
+          "text": "last semester",
           "underlined": true
         },
         {
           "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "A",
-      "correction": "whose applications",
-      "explanationTh": "ใช้ whose แสดงความเป็นเจ้าของ",
-      "grammarTopicIds": [
-        "relative-clauses"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q17",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "The analysis distinguishes ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "between temporary fluctuations",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "to structural changes",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "in patterns",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "of student mobility",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
+          "text": ". This item reflects an institutional policy review.",
           "underlined": false
         }
       ],
       "correctSegmentId": "B",
-      "correction": "and structural changes",
-      "explanationTh": "distinguish between A and B",
+      "correction": "clearer",
+      "explanationTh": "ไม่ใช้ more ร่วมกับ comparative clearer",
       "grammarTopicIds": [
-        "prepositions",
-        "parallelism"
+        "comparatives"
       ],
       "tags": [
         "grammar-in-context",
         "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q18",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "Unless the data ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "will be anonymised",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": ", the archive ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "cannot release them",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "to external researchers",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "next year",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
       ],
-      "correctSegmentId": "A",
-      "correction": "are anonymised",
-      "explanationTh": "หลัง unless ใช้ present simple",
-      "grammarTopicIds": [
-        "conditionals",
-        "tenses"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q19",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "The authors responded ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "persuasive",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " to the criticism ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "but acknowledged",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " that ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "further evidence",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "was still needed",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "A",
-      "correction": "persuasively",
-      "explanationTh": "ขยาย responded จึงใช้ adverb",
-      "grammarTopicIds": [
-        "word-forms"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
-    },
-    {
-      "id": "error-recognition-16-q20",
-      "segments": [
-        {
-          "id": "x1",
-          "text": "The allocation of additional resources ",
-          "underlined": false
-        },
-        {
-          "id": "A",
-          "text": "have enabled",
-          "underlined": true
-        },
-        {
-          "id": "x2",
-          "text": " the faculty ",
-          "underlined": false
-        },
-        {
-          "id": "B",
-          "text": "to offer",
-          "underlined": true
-        },
-        {
-          "id": "x3",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "C",
-          "text": "more individual feedback",
-          "underlined": true
-        },
-        {
-          "id": "x4",
-          "text": " ",
-          "underlined": false
-        },
-        {
-          "id": "D",
-          "text": "to postgraduate students",
-          "underlined": true
-        },
-        {
-          "id": "x5",
-          "text": ".",
-          "underlined": false
-        }
-      ],
-      "correctSegmentId": "A",
-      "correction": "has enabled",
-      "explanationTh": "ประธาน allocation เป็นเอกพจน์",
-      "grammarTopicIds": [
-        "subject-verb-agreement"
-      ],
-      "tags": [
-        "grammar-in-context",
-        "b2-c1"
-      ]
+      "id": "error-recognition-16-q10"
     }
   ]
 }
-
