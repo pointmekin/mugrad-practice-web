@@ -1,0 +1,609 @@
+{
+  "id": "synonyms-19",
+  "type": "synonym",
+  "title": "Synonyms in Context — Set 19",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "synonyms-19-q01",
+      "prompt": "The methodological appendix was written to **explicate** how the researchers reconciled apparently inconsistent observations.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "condense"
+        },
+        {
+          "id": "B",
+          "text": "conceal"
+        },
+        {
+          "id": "C",
+          "text": "challenge"
+        },
+        {
+          "id": "D",
+          "text": "clarify"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "explicate ในบริบทนี้มีความหมายใกล้กับ clarify มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q02",
+      "prompt": "By selectively withholding the raw data, the report appeared designed to **obfuscate** the scale of the discrepancy.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "conceal"
+        },
+        {
+          "id": "B",
+          "text": "clarify"
+        },
+        {
+          "id": "C",
+          "text": "challenge"
+        },
+        {
+          "id": "D",
+          "text": "condense"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "obfuscate ในบริบทนี้มีความหมายใกล้กับ conceal มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q03",
+      "prompt": "Several historians chose to **dispute** the long-accepted interpretation after examining newly released correspondence.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "clarify"
+        },
+        {
+          "id": "B",
+          "text": "challenge"
+        },
+        {
+          "id": "C",
+          "text": "conceal"
+        },
+        {
+          "id": "D",
+          "text": "condense"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "dispute ในบริบทนี้มีความหมายใกล้กับ challenge มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q04",
+      "prompt": "The editor asked the author to **compress** the literature review without sacrificing its central analytical distinction.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "clarify"
+        },
+        {
+          "id": "B",
+          "text": "conceal"
+        },
+        {
+          "id": "C",
+          "text": "condense"
+        },
+        {
+          "id": "D",
+          "text": "challenge"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "compress ในบริบทนี้มีความหมายใกล้กับ condense มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q05",
+      "prompt": "The consortium intends to **institutionalise** its informal data-sharing arrangement before admitting additional partners.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "bypass"
+        },
+        {
+          "id": "B",
+          "text": "accelerate"
+        },
+        {
+          "id": "C",
+          "text": "evaluate"
+        },
+        {
+          "id": "D",
+          "text": "formalise"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "institutionalise ในบริบทนี้มีความหมายใกล้กับ formalise มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q06",
+      "prompt": "Targeted funding could **hasten** the translation of promising laboratory findings into clinical practice.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "accelerate"
+        },
+        {
+          "id": "B",
+          "text": "formalise"
+        },
+        {
+          "id": "C",
+          "text": "evaluate"
+        },
+        {
+          "id": "D",
+          "text": "bypass"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "hasten ในบริบทนี้มีความหมายใกล้กับ accelerate มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q07",
+      "prompt": "An independent panel was appointed to **assess** the proposal’s likely social and environmental consequences.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "formalise"
+        },
+        {
+          "id": "B",
+          "text": "evaluate"
+        },
+        {
+          "id": "C",
+          "text": "accelerate"
+        },
+        {
+          "id": "D",
+          "text": "bypass"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "assess ในบริบทนี้มีความหมายใกล้กับ evaluate มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q08",
+      "prompt": "Some firms tried to **evade** the new reporting requirements by outsourcing sensitive stages of production.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "formalise"
+        },
+        {
+          "id": "B",
+          "text": "accelerate"
+        },
+        {
+          "id": "C",
+          "text": "bypass"
+        },
+        {
+          "id": "D",
+          "text": "evaluate"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "evade ในบริบทนี้มีความหมายใกล้กับ bypass มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q09",
+      "prompt": "The replication study did not merely question the original claim; it helped **invalidate** it with a larger sample.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "replicate"
+        },
+        {
+          "id": "B",
+          "text": "reinforce"
+        },
+        {
+          "id": "C",
+          "text": "quantify"
+        },
+        {
+          "id": "D",
+          "text": "disprove"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "invalidate ในบริบทนี้มีความหมายใกล้กับ disprove มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q10",
+      "prompt": "The interviews were used to **consolidate** the statistical pattern rather than replace quantitative evidence.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "reinforce"
+        },
+        {
+          "id": "B",
+          "text": "disprove"
+        },
+        {
+          "id": "C",
+          "text": "quantify"
+        },
+        {
+          "id": "D",
+          "text": "replicate"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "consolidate ในบริบทนี้มีความหมายใกล้กับ reinforce มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q11",
+      "prompt": "Before allocating resources, the agency must **calculate** the administrative burden imposed on smaller institutions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "disprove"
+        },
+        {
+          "id": "B",
+          "text": "quantify"
+        },
+        {
+          "id": "C",
+          "text": "reinforce"
+        },
+        {
+          "id": "D",
+          "text": "replicate"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "calculate ในบริบทนี้มีความหมายใกล้กับ quantify มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q12",
+      "prompt": "A second research group attempted to **duplicate** the experiment under more controlled conditions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "disprove"
+        },
+        {
+          "id": "B",
+          "text": "reinforce"
+        },
+        {
+          "id": "C",
+          "text": "replicate"
+        },
+        {
+          "id": "D",
+          "text": "quantify"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "duplicate ในบริบทนี้มีความหมายใกล้กับ replicate มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q13",
+      "prompt": "The revised procedure was intended to **abolish** avoidable sources of bias in the selection process.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "expose"
+        },
+        {
+          "id": "B",
+          "text": "predict"
+        },
+        {
+          "id": "C",
+          "text": "document"
+        },
+        {
+          "id": "D",
+          "text": "eliminate"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "abolish ในบริบทนี้มีความหมายใกล้กับ eliminate มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q14",
+      "prompt": "The model can **forecast** broad demographic shifts, although it cannot account for sudden political shocks.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "predict"
+        },
+        {
+          "id": "B",
+          "text": "eliminate"
+        },
+        {
+          "id": "C",
+          "text": "document"
+        },
+        {
+          "id": "D",
+          "text": "expose"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "forecast ในบริบทนี้มีความหมายใกล้กับ predict มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q15",
+      "prompt": "The field notes **chronicle** subtle changes in local practice that were not visible in survey data.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "eliminate"
+        },
+        {
+          "id": "B",
+          "text": "document"
+        },
+        {
+          "id": "C",
+          "text": "predict"
+        },
+        {
+          "id": "D",
+          "text": "expose"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "chronicle ในบริบทนี้มีความหมายใกล้กับ document มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q16",
+      "prompt": "The audit was commissioned to **disclose** conflicts of interest that had not been declared.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "eliminate"
+        },
+        {
+          "id": "B",
+          "text": "predict"
+        },
+        {
+          "id": "C",
+          "text": "expose"
+        },
+        {
+          "id": "D",
+          "text": "document"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "disclose ในบริบทนี้มีความหมายใกล้กับ expose มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q17",
+      "prompt": "A robust regulatory framework must **withstand** reasonable disagreement while preventing harmful conduct.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "partial"
+        },
+        {
+          "id": "B",
+          "text": "correct"
+        },
+        {
+          "id": "C",
+          "text": "concise"
+        },
+        {
+          "id": "D",
+          "text": "tolerate"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "withstand ในบริบทนี้มีความหมายใกล้กับ tolerate มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q18",
+      "prompt": "The appeals process exists to **redress** procedural errors before a final decision is enforced.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "correct"
+        },
+        {
+          "id": "B",
+          "text": "tolerate"
+        },
+        {
+          "id": "C",
+          "text": "concise"
+        },
+        {
+          "id": "D",
+          "text": "partial"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "redress ในบริบทนี้มีความหมายใกล้กับ correct มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q19",
+      "prompt": "Despite the complexity of the evidence, the executive summary remained remarkably **terse** and accessible.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "tolerate"
+        },
+        {
+          "id": "B",
+          "text": "concise"
+        },
+        {
+          "id": "C",
+          "text": "correct"
+        },
+        {
+          "id": "D",
+          "text": "partial"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "terse ในบริบทนี้มีความหมายใกล้กับ concise มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-19-q20",
+      "prompt": "Any conclusion drawn from the surviving archive must remain **fragmentary**, because several key records are missing.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "tolerate"
+        },
+        {
+          "id": "B",
+          "text": "correct"
+        },
+        {
+          "id": "C",
+          "text": "partial"
+        },
+        {
+          "id": "D",
+          "text": "concise"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "fragmentary ในบริบทนี้มีความหมายใกล้กับ partial มากที่สุด",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    }
+  ]
+}
+

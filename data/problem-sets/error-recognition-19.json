@@ -1,0 +1,1213 @@
+{
+  "id": "error-recognition-19",
+  "type": "error-recognition",
+  "title": "Mixed Error Recognition — Set 19",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "error-recognition-19-q01",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "A series of follow-up interviews ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "were conducted",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " after the pilot to determine ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "whether participants",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "had altered",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "their initial views",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "was conducted",
+      "explanationTh": "ประธาน a series เป็นเอกพจน์ จึงใช้ was conducted",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q02",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The researchers obtained ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "a useful information",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " from ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the open-ended questions",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "included at the end",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "of the survey",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "useful information",
+      "explanationTh": "information เป็นนามนับไม่ได้ จึงไม่ใช้ a",
+      "grammarTopicIds": [
+        "articles",
+        "noun-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q03",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The institution ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "has introduced",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " the scholarship in 2019 and ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "has supported",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " more than ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "two hundred students",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "since then",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "introduced",
+      "explanationTh": "in 2019 เป็นเวลาที่จบแล้ว จึงใช้ past simple",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q04",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The funding body expects ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the university demonstrating",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "measurable progress",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " before releasing ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the final payment",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "to the project",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "the university to demonstrate",
+      "explanationTh": "expect + object + to-infinitive",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q05",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The completion rate at the urban campus was ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "substantially higher",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " than ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the rural campus",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "during the same period",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "of observation",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "that at the rural campus",
+      "explanationTh": "ต้องเปรียบเทียบ completion rate กับ rate",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q06",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The initiative seeks to ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "reduce inequality",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "improving access",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "strengthen collaboration",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "between institutions",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "improve access",
+      "explanationTh": "กริยาในรายการหลัง to ต้องขนานกัน",
+      "grammarTopicIds": [
+        "parallelism"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q07",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The lecturer ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "which developed",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " the assessment ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "has agreed",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "to revise it",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "before next semester",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "who developed",
+      "explanationTh": "lecturer เป็นคน จึงใช้ who",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q08",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The success of the scheme depends ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "in whether",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " local employers ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "are willing",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "to provide",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "meaningful placements",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "on whether",
+      "explanationTh": "collocation คือ depend on",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q09",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "If the institution ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "had acted sooner",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", fewer records ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "would be lost",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " during ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the system failure",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "last year",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "would have been lost",
+      "explanationTh": "ผลที่ตรงข้ามกับอดีตใช้ would have been",
+      "grammarTopicIds": [
+        "conditionals",
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q10",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The revised rubric enables assessors to judge ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "more objective",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " whether ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "each submission",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "meets the stated criteria",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "for distinction",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "more objectively",
+      "explanationTh": "ขยาย judge จึงใช้ adverb",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q11",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Either the department heads or the vice-president ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "have to approve",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " the request ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "before funds",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "can be transferred",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "to the project",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "has to approve",
+      "explanationTh": "กริยาสอดคล้องกับ vice-president",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q12",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The article offers ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "an insightful analysis",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the poverty",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "rapidly urbanising regions",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "of Southeast Asia",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "poverty",
+      "explanationTh": "poverty โดยทั่วไปไม่ใช้ the",
+      "grammarTopicIds": [
+        "articles"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q13",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "At present, the committee ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "reviewed",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " whether the existing rules ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "remain appropriate",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "for research involving",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "artificial intelligence",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "is reviewing",
+      "explanationTh": "at present ใช้ present continuous",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q14",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The investigators denied ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "to have withheld",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " evidence ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "that might have altered",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the committee’s decision",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "on the complaint",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "having withheld",
+      "explanationTh": "deny ตามด้วย gerund",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q15",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The role involves ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "evaluating proposals",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to monitor expenditure",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", and ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "reporting outcomes",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "to senior management",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "monitoring expenditure",
+      "explanationTh": "รายการหลัง involves ต้องเป็น gerunds",
+      "grammarTopicIds": [
+        "parallelism",
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q16",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Students ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "whom applications",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " arrive late ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "will not be considered",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "for the scholarship",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "under any circumstances",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "whose applications",
+      "explanationTh": "ใช้ whose แสดงความเป็นเจ้าของ",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q17",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The analysis distinguishes ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "between temporary fluctuations",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to structural changes",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "in patterns",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "of student mobility",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "and structural changes",
+      "explanationTh": "distinguish between A and B",
+      "grammarTopicIds": [
+        "prepositions",
+        "parallelism"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q18",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Unless the data ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "will be anonymised",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", the archive ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "cannot release them",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "to external researchers",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "next year",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "are anonymised",
+      "explanationTh": "หลัง unless ใช้ present simple",
+      "grammarTopicIds": [
+        "conditionals",
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q19",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The authors responded ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "persuasive",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " to the criticism ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "but acknowledged",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " that ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "further evidence",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "was still needed",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "persuasively",
+      "explanationTh": "ขยาย responded จึงใช้ adverb",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "error-recognition-19-q20",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The allocation of additional resources ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "have enabled",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " the faculty ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to offer",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "more individual feedback",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "to postgraduate students",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ". This wording was discussed during the final policy consultation.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "has enabled",
+      "explanationTh": "ประธาน allocation เป็นเอกพจน์",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    }
+  ]
+}

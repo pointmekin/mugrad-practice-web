@@ -1,0 +1,632 @@
+{
+  "id": "fill-in-19",
+  "type": "fill-in",
+  "title": "Precision Fill-in — Set 19",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "fill-in-19-q01",
+      "prompt": "The review panel considered the argument theoretically __, even though it requested stronger empirical support before publication The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "coherence"
+        },
+        {
+          "id": "B",
+          "text": "coherently"
+        },
+        {
+          "id": "C",
+          "text": "cohere"
+        },
+        {
+          "id": "D",
+          "text": "coherent"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "ต้องใช้ adjective ขยาย argument: coherent",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q02",
+      "prompt": "By the time the external audit began, the research centre __ the same internal protocol for several years The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "uses"
+        },
+        {
+          "id": "B",
+          "text": "has used"
+        },
+        {
+          "id": "C",
+          "text": "had been using"
+        },
+        {
+          "id": "D",
+          "text": "would use"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "เหตุการณ์ดำเนินต่อเนื่องก่อนจุดหนึ่งในอดีต จึงใช้ past perfect continuous",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q03",
+      "prompt": "Several participants described the repeated requests for biometric data as increasingly __, despite institutional assurances The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "intruded"
+        },
+        {
+          "id": "B",
+          "text": "intrusive"
+        },
+        {
+          "id": "C",
+          "text": "intrusion"
+        },
+        {
+          "id": "D",
+          "text": "intrusively"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง described ... as ใช้ adjective: intrusive",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q04",
+      "prompt": "The policy was communicated so __ that even experienced administrators interpreted its scope differently The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "hasty"
+        },
+        {
+          "id": "B",
+          "text": "haste"
+        },
+        {
+          "id": "C",
+          "text": "hastily"
+        },
+        {
+          "id": "D",
+          "text": "hastened"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยาย communicated จึงใช้ adverb: hastily",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q05",
+      "prompt": "The ethics committee advised the team against __ applicants from vulnerable groups without additional safeguards The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "recruit"
+        },
+        {
+          "id": "B",
+          "text": "recruited"
+        },
+        {
+          "id": "C",
+          "text": "to recruit"
+        },
+        {
+          "id": "D",
+          "text": "recruiting"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "against เป็น preposition จึงตามด้วย gerund",
+      "grammarTopicIds": [
+        "verb-patterns",
+        "prepositions"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q06",
+      "prompt": "Although the difference reached statistical significance, its practical effect was largely __ for most students The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "consequence"
+        },
+        {
+          "id": "B",
+          "text": "inconsequential"
+        },
+        {
+          "id": "C",
+          "text": "inconsequentially"
+        },
+        {
+          "id": "D",
+          "text": "consequently"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง was ต้องใช้ adjective: inconsequential",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q07",
+      "prompt": "No final recommendation __ until the independent reviewers have examined the revised evidence The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "will make"
+        },
+        {
+          "id": "B",
+          "text": "will be made"
+        },
+        {
+          "id": "C",
+          "text": "has made"
+        },
+        {
+          "id": "D",
+          "text": "was made"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "recommendation เป็นสิ่งที่ถูกทำ จึงใช้ future passive",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q08",
+      "prompt": "The chair questioned the __ of applying a single criterion to disciplines with different conventions The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appropriate"
+        },
+        {
+          "id": "B",
+          "text": "appropriately"
+        },
+        {
+          "id": "C",
+          "text": "appropriateness"
+        },
+        {
+          "id": "D",
+          "text": "appropriation"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง the ต้องเป็นคำนาม: appropriateness",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q09",
+      "prompt": "The updated guidance is deliberately less __ than the provisional version circulated during the pilot The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ambiguity"
+        },
+        {
+          "id": "B",
+          "text": "ambiguously"
+        },
+        {
+          "id": "C",
+          "text": "ambivalent"
+        },
+        {
+          "id": "D",
+          "text": "ambiguous"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "หลัง less ใช้ adjective: ambiguous",
+      "grammarTopicIds": [
+        "word-forms",
+        "comparatives"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q10",
+      "prompt": "If the archive had been catalogued earlier, researchers __ the missing correspondence much sooner The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "would identify"
+        },
+        {
+          "id": "B",
+          "text": "will have identified"
+        },
+        {
+          "id": "C",
+          "text": "would have identified"
+        },
+        {
+          "id": "D",
+          "text": "had identified"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "third conditional ใช้ would have + past participle",
+      "grammarTopicIds": [
+        "conditionals",
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q11",
+      "prompt": "The audience was visibly __ by the speaker’s account of how the evidence had been reconstructed The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "fascinating"
+        },
+        {
+          "id": "B",
+          "text": "fascinated"
+        },
+        {
+          "id": "C",
+          "text": "fascination"
+        },
+        {
+          "id": "D",
+          "text": "fascinatingly"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "ผู้รับความรู้สึกใช้ -ed adjective: fascinated",
+      "grammarTopicIds": [
+        "participles"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q12",
+      "prompt": "Greater transparency may improve public __ of how decisions affecting applicants are reached The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "perceive"
+        },
+        {
+          "id": "B",
+          "text": "perceptive"
+        },
+        {
+          "id": "C",
+          "text": "perceptively"
+        },
+        {
+          "id": "D",
+          "text": "perception"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "หลัง public ต้องเป็นคำนาม: perception",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q13",
+      "prompt": "The agreement permits participating institutions __ anonymised records under clearly defined conditions The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "sharing"
+        },
+        {
+          "id": "B",
+          "text": "share"
+        },
+        {
+          "id": "C",
+          "text": "to share"
+        },
+        {
+          "id": "D",
+          "text": "shared"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "permit + object + to-infinitive",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q14",
+      "prompt": "Throughout the hearing, the witnesses __ distinguished between observed facts and subsequent inference The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "consistent"
+        },
+        {
+          "id": "B",
+          "text": "consistency"
+        },
+        {
+          "id": "C",
+          "text": "consistently"
+        },
+        {
+          "id": "D",
+          "text": "consist"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยายกริยา distinguished จึงใช้ adverb",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q15",
+      "prompt": "Unless the projected shortfall is addressed, the programme __ before the final phase can be completed The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "will cease"
+        },
+        {
+          "id": "B",
+          "text": "would cease"
+        },
+        {
+          "id": "C",
+          "text": "ceased"
+        },
+        {
+          "id": "D",
+          "text": "has ceased"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "unless + present ใช้ผลในอนาคตด้วย will",
+      "grammarTopicIds": [
+        "conditionals",
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q16",
+      "prompt": "The committee found the decision to exclude the evidence without explanation entirely __ The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "defend"
+        },
+        {
+          "id": "B",
+          "text": "defensible"
+        },
+        {
+          "id": "C",
+          "text": "indefensible"
+        },
+        {
+          "id": "D",
+          "text": "indefensibly"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "บริบทต้องการ adjective ที่แปลว่าไม่อาจปกป้องได้",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q17",
+      "prompt": "The authors postponed __ their conclusions until they had checked the anomalous cases independently The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "publish"
+        },
+        {
+          "id": "B",
+          "text": "to publish"
+        },
+        {
+          "id": "C",
+          "text": "published"
+        },
+        {
+          "id": "D",
+          "text": "publishing"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "postpone ตามด้วย gerund",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q18",
+      "prompt": "As the interview shifted towards sensitive topics, several respondents became noticeably __ The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "guarding"
+        },
+        {
+          "id": "B",
+          "text": "guardedly"
+        },
+        {
+          "id": "C",
+          "text": "guarded"
+        },
+        {
+          "id": "D",
+          "text": "guard"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง became ใช้ adjective: guarded",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q19",
+      "prompt": "The apparent __ between the two datasets disappeared once the collection dates were aligned The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "contradict"
+        },
+        {
+          "id": "B",
+          "text": "contradictory"
+        },
+        {
+          "id": "C",
+          "text": "contradiction"
+        },
+        {
+          "id": "D",
+          "text": "contradictorily"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง apparent ต้องเป็นคำนาม: contradiction",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-19-q20",
+      "prompt": "The revised consent form is intended to be informative rather than unnecessarily __ to prospective participants The point was examined again in the final implementation report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "intimidated"
+        },
+        {
+          "id": "B",
+          "text": "intimidating"
+        },
+        {
+          "id": "C",
+          "text": "intimidation"
+        },
+        {
+          "id": "D",
+          "text": "intimidatingly"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "form เป็นสิ่งที่ก่อความรู้สึก จึงใช้ -ing adjective",
+      "grammarTopicIds": [
+        "participles"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1"
+      ]
+    }
+  ]
+}
