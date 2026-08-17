@@ -95,6 +95,8 @@ p { max-width:720px; }
 .panel { padding:26px; }
 .data-row { display:grid; grid-template-columns:1fr auto; gap:20px; padding:12px 0; border-bottom:1px solid var(--line); }
 .data-row:last-child { border-bottom:0; }
+.result-correct { color:var(--green); }
+.result-incorrect { color:var(--accent); }
 .empty { padding:36px; border:1px dashed var(--line); color:var(--muted); text-align:center; }
 .backup { display:flex; gap:10px; flex-wrap:wrap; margin-top:22px; }
 .solution-header { padding-bottom:38px; border-bottom:1px solid var(--line); }
