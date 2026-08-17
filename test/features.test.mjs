@@ -35,6 +35,27 @@ test("resetState clears attempts and question and topic flags", async () => {
   assert.deepEqual(loadState(), { attempts:{}, flags:{ questions:[], topics:[] } });
 });
 
+test("loadState works when structuredClone is unavailable", async () => {
+  const originalStructuredClone = globalThis.structuredClone;
+  globalThis.structuredClone = undefined;
+  try {
+    const { loadState, resetState } = await import("../js/storage.js");
+    resetState();
+    assert.deepEqual(loadState(), { attempts:{}, flags:{ questions:[], topics:[] } });
+  } finally {
+    globalThis.structuredClone = originalStructuredClone;
+  }
+});
+
+test("loadState preserves and normalizes legacy progress", async () => {
+  const { saveState, loadState } = await import("../js/storage.js");
+  saveState({ attempts:{ legacy:{ questionId:"legacy", setId:"synonyms-16", correct:true, note:"keep me" } }, flags:{} });
+  assert.deepEqual(loadState(), {
+    attempts:{ legacy:{ questionId:"legacy", setId:"synonyms-16", correct:true, note:"keep me", grammarTopicIds:[], tags:[] } },
+    flags:{ questions:[], topics:[] }
+  });
+});
+
 test("solutionAnswer resolves multiple-choice and corrected error answers", async () => {
   const { solutionAnswer } = await import("../js/sets.js");
   assert.equal(solutionAnswer({ choices:[{ id:"A", text:"clarify" }], correctChoiceId:"A" }), "A — clarify");

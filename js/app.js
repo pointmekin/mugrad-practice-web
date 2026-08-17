@@ -1,4 +1,4 @@
-import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState } from "./storage.js";
+import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState } from "./storage.js?v=20260818-2";
 import { filterSets, setResults, solutionAnswer, solutionChoices } from "./sets.js";
 
 const app = document.querySelector("#app");

@@ -1,11 +1,21 @@
 const KEY = "mugrad-practice-state-v1";
-const EMPTY = { attempts: {}, flags: { questions: [], topics: [] } };
+const emptyState = () => ({ attempts: {}, flags: { questions: [], topics: [] } });
+const isRecord = value => value && typeof value === "object" && !Array.isArray(value);
+
+function normalizeState(parsed) {
+  if (!isRecord(parsed)) return emptyState();
+  const attempts = isRecord(parsed.attempts) ? Object.fromEntries(Object.entries(parsed.attempts).map(([id, attempt]) => {
+    if (!isRecord(attempt)) return [id, { questionId:id, correct:false, grammarTopicIds:[], tags:[], legacyAttempt:attempt }];
+    return [id, { ...attempt, grammarTopicIds:Array.isArray(attempt.grammarTopicIds) ? attempt.grammarTopicIds : [], tags:Array.isArray(attempt.tags) ? attempt.tags : [] }];
+  })) : {};
+  const flags = isRecord(parsed.flags) ? parsed.flags : {};
+  return { attempts, flags:{ questions:Array.isArray(flags.questions) ? flags.questions : [], topics:Array.isArray(flags.topics) ? flags.topics : [] } };
+}
 
 export function loadState() {
   try {
-    const parsed = JSON.parse(localStorage.getItem(KEY));
-    return parsed?.attempts && parsed?.flags ? parsed : structuredClone(EMPTY);
-  } catch { return structuredClone(EMPTY); }
+    return normalizeState(JSON.parse(localStorage.getItem(KEY)));
+  } catch { return emptyState(); }
 }
 export function saveState(state) { localStorage.setItem(KEY, JSON.stringify(state)); }
 export function resetState() { localStorage.removeItem(KEY); }
