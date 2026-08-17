@@ -6,6 +6,7 @@ const data = { sets:[], topics:[], definitions:{} };
 let practice = { set:null, index:0, selected:null, submitted:false };
 let activeSetFilter = "all";
 
+const versioned = path => `${path}?v=20260817-4`;
 const escapeHtml = value => String(value).replace(/[&<>"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
 const typeLabel = { synonym:"Synonyms", "fill-in":"Fill in the blank", "error-recognition":"Error recognition" };
 const questionPrompt = question => question.prompt
@@ -14,10 +15,10 @@ const questionPrompt = question => question.prompt
 
 async function boot() {
   try {
-    const [manifest, grammar, glossary] = await Promise.all([fetch("data/manifest.json").then(ok), fetch("data/grammar-topics.json").then(ok), fetch("data/choice-definitions.json").then(ok)]);
+    const [manifest, grammar, glossary] = await Promise.all([fetch(versioned("data/manifest.json")).then(ok), fetch(versioned("data/grammar-topics.json")).then(ok), fetch(versioned("data/choice-definitions.json")).then(ok)]);
     data.topics = grammar.topics;
     data.definitions = glossary.definitions;
-    data.sets = await Promise.all(manifest.sets.map(file => fetch(`data/problem-sets/${file}`).then(ok)));
+    data.sets = await Promise.all(manifest.sets.map(file => fetch(versioned(`data/problem-sets/${file}`)).then(ok)));
     window.addEventListener("hashchange", route); route();
   } catch (error) { app.innerHTML = `<div class="empty"><h2>Could not load practice data</h2><p>${escapeHtml(error.message)}. Open this app through a local web server, not as a file.</p></div>`; }
 }
