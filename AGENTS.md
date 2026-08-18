@@ -22,7 +22,8 @@ Authored problem sets live in `data/problem-sets/`; one JSON file equals one 20-
 
 - Use `type: "synonym"` and exactly four choices.
 - Bold the target word in `prompt` with `**word**`.
-- Use C1 academic vocabulary without repeatedly recycling a narrow word pool.
+- Write original, varied B2–C1 contexts. A new question must not be a rewritten version of an existing prompt with a substituted target word.
+- Use a fresh target-word and choice pool for each newly generated batch; do not recycle a small group of words or repackage the same question stem.
 - Set `correctChoiceId`, a Thai explanation, and suitable tags.
 
 ### Fill in
@@ -62,8 +63,11 @@ When changing `index.html`, `assets/styles.css`, or `js/*.js`, bump the `?v=` qu
 2. Add all new vocabulary-choice glosses to `data/choice-definitions.json`.
 3. Add any genuinely required grammar topics to `data/grammar-topics.json`.
 4. Add the filename to `data/manifest.json`.
-5. Run `npm test` and `npm run validate`; both must pass.
-6. Serve locally and verify set card → practice submission → explanation/grammar link → flag → refresh → dashboard, plus set card → complete solutions.
+5. For a newly generated set, review every item individually: the prompt must be original, one option must be unambiguously correct in context, the other three must be plausible but incorrect, and every solution and Thai explanation must exist and be accurate.
+6. Randomize correct-answer positions genuinely. In a 20-question set, distribute A–D evenly (five each), shuffle their order rather than grouping or cycling them, and avoid runs longer than two of the same answer. Do not concentrate answers in only one or two positions.
+7. Check the new batch for recycled prompts, target words, and choice families before publishing; each set should have creative contexts and a distinct vocabulary focus while staying around B2–C1.
+8. Run `npm test` and `npm run validate`; both must pass.
+9. Serve locally and verify set card → practice submission → explanation/grammar link → flag → refresh → dashboard, plus set card → complete solutions.
 
 ## Completion gate
 

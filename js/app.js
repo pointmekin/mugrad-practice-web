@@ -6,7 +6,7 @@ const data = { sets:[], topics:[], definitions:{} };
 let practice = { set:null, index:0, selected:null, submitted:false };
 let activeSetFilter = "all";
 
-const versioned = path => `${path}?v=20260818-6`;
+const versioned = path => `${path}?v=20260818-7`;
 const escapeHtml = value => String(value).replace(/[&<>"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
 const typeLabel = { synonym:"Synonyms", "fill-in":"Fill in the blank", "error-recognition":"Error recognition" };
 const questionPrompt = question => question.prompt
@@ -34,7 +34,7 @@ function renderSets() {
   const state = loadState(); const totalDone = data.sets.reduce((n,set) => n + progressFor(set,state),0); const total = data.sets.reduce((n,set) => n + set.questions.length,0);
   const visibleSets = filterSets(data.sets, activeSetFilter);
   const filters = [["all","All sets"],["synonym","Synonyms"],["fill-in","Fill in"],["error-recognition","Error recognition"]];
-  app.innerHTML = `<section class="hero"><div class="eyebrow">MUGRAD English practice</div><h1>Make every answer count.</h1><p class="lede">Six focused C1-level sets. Answer one question at a time, understand the reason in Thai, and return to the exact grammar that needs work.</p><div class="chips"><span class="chip">${total} questions</span><span class="chip">${totalDone} completed</span><span class="chip">Saved on this device</span></div></section><section><div class="section-head"><div><div class="eyebrow">Choose your session</div><h2>Problem sets</h2></div><p class="lede">Two fresh sets for each MUGRAD topic.</p></div><div class="filter-bar" role="group" aria-label="Filter problem sets by type">${filters.map(([value,label])=>`<button class="filter-button" data-set-filter="${value}" aria-pressed="${activeSetFilter===value}">${label}</button>`).join("")}</div><div class="set-grid">${visibleSets.map(set => setCard(set,data.sets.indexOf(set),state)).join("")}</div></section>`;
+  app.innerHTML = `<section class="hero"><div class="eyebrow">MUGRAD English practice</div><h1>Make every answer count.</h1><p class="lede">Focused B2–C1 practice sets. Answer one question at a time, understand the reason in Thai, and return to the exact grammar that needs work.</p><div class="chips"><span class="chip">${total} questions</span><span class="chip">${totalDone} completed</span><span class="chip">Saved on this device</span></div></section><section><div class="section-head"><div><div class="eyebrow">Choose your session</div><h2>Problem sets</h2></div><p class="lede">Choose a focused set for each MUGRAD question type.</p></div><div class="filter-bar" role="group" aria-label="Filter problem sets by type">${filters.map(([value,label])=>`<button class="filter-button" data-set-filter="${value}" aria-pressed="${activeSetFilter===value}">${label}</button>`).join("")}</div><div class="set-grid">${visibleSets.map(set => setCard(set,data.sets.indexOf(set),state)).join("")}</div></section>`;
   document.querySelectorAll("[data-set-filter]").forEach(button=>button.addEventListener("click",()=>{activeSetFilter=button.dataset.setFilter;renderSets()}));
 }
 function setCard(set,index,state) {
