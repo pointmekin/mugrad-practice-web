@@ -71,7 +71,7 @@ p { max-width:720px; }
 .feedback p { margin:6px 0; }
 .feedback .choice-definitions { margin:0; background:rgba(255,255,255,.42); }
 .topic-link { display:inline-block; margin:8px 6px 0 0; font-weight:700; }
-.practice-actions { display:flex; gap:10px; margin-top:24px; }
+.practice-actions { display:flex; flex-wrap:wrap; gap:10px; margin-top:24px; }
 .question-map { position:sticky; top:105px; }
 .question-map h2 { font-size:1.3rem; }
 .number-grid { display:grid; grid-template-columns:repeat(5,1fr); gap:7px; }

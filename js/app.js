@@ -1,4 +1,4 @@
-import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState } from "./storage.js?v=20260818-5";
+import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState, resetSetProgress } from "./storage.js?v=20260818-6";
 import { filterSets, setResults, solutionAnswer, solutionChoices } from "./sets.js?v=20260818-5";
 
 const app = document.querySelector("#app");
@@ -6,7 +6,7 @@ const data = { sets:[], topics:[], definitions:{} };
 let practice = { set:null, index:0, selected:null, submitted:false };
 let activeSetFilter = "all";
 
-const versioned = path => `${path}?v=20260818-5`;
+const versioned = path => `${path}?v=20260818-6`;
 const escapeHtml = value => String(value).replace(/[&<>"]/g, char => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[char]));
 const typeLabel = { synonym:"Synonyms", "fill-in":"Fill in the blank", "error-recognition":"Error recognition" };
 const questionPrompt = question => question.prompt
@@ -60,7 +60,7 @@ function renderPractice(setId) {
   const q=set.questions[practice.index], state=loadState(), attempt=state.attempts[q.id], flagged=state.flags.questions.includes(q.id);
   if (attempt && !practice.selected) { practice.selected=attempt.choiceId; practice.submitted=true; }
   const answer=correctId(q), options=answerOptions(q);
-  app.innerHTML=`<div class="practice-shell"><section><div class="practice-top"><a href="#/sets">← All sets</a><div class="meta"><span>${escapeHtml(set.title)}</span><span>•</span><span>Question ${practice.index+1} of ${set.questions.length}</span></div></div><article class="question-card"><button class="flag-button ${flagged?"flagged":""}" id="flag-question" aria-pressed="${flagged}">${flagged?"★ Flagged":"☆ Flag"}</button><div class="eyebrow">Choose the best answer</div><h1>${questionPrompt(q)}</h1><fieldset class="choices"><legend class="visually-hidden">Answer choices</legend>${options.map(option=>choiceButton(option,answer)).join("")}</fieldset><button class="button" id="submit-answer" ${!practice.selected||practice.submitted?"disabled":""}>Check answer</button>${practice.submitted?feedback(q,practice.selected===answer):""}</article><div class="practice-actions"><button class="button secondary" id="previous" ${practice.index===0?"disabled":""}>← Previous</button><button class="button" id="next" ${practice.index===set.questions.length-1?"disabled":""}>Next →</button></div></section><aside class="question-map"><h2>Your route</h2><p class="meta">Answered questions have a green mark.</p><div class="number-grid">${set.questions.map((item,index)=>`<button data-jump="${index}" class="${index===practice.index?"current":""} ${state.attempts[item.id]?"done":""} ${state.flags.questions.includes(item.id)?"flagged":""}" aria-label="Question ${index+1}">${index+1}</button>`).join("")}</div></aside></div>`;
+  app.innerHTML=`<div class="practice-shell"><section><div class="practice-top"><a href="#/sets">← All sets</a><div class="meta"><span>${escapeHtml(set.title)}</span><span>•</span><span>Question ${practice.index+1} of ${set.questions.length}</span></div></div><article class="question-card"><button class="flag-button ${flagged?"flagged":""}" id="flag-question" aria-pressed="${flagged}">${flagged?"★ Flagged":"☆ Flag"}</button><div class="eyebrow">Choose the best answer</div><h1>${questionPrompt(q)}</h1><fieldset class="choices"><legend class="visually-hidden">Answer choices</legend>${options.map(option=>choiceButton(option,answer)).join("")}</fieldset><button class="button" id="submit-answer" ${!practice.selected||practice.submitted?"disabled":""}>Check answer</button>${practice.submitted?feedback(q,practice.selected===answer):""}</article><div class="practice-actions"><button class="button secondary" id="previous" ${practice.index===0?"disabled":""}>← Previous</button><button class="button" id="next" ${practice.index===set.questions.length-1?"disabled":""}>Next →</button><button class="button danger" id="retake-set">Retake this set</button></div></section><aside class="question-map"><h2>Your route</h2><p class="meta">Answered questions have a green mark.</p><div class="number-grid">${set.questions.map((item,index)=>`<button data-jump="${index}" class="${index===practice.index?"current":""} ${state.attempts[item.id]?"done":""} ${state.flags.questions.includes(item.id)?"flagged":""}" aria-label="Question ${index+1}">${index+1}</button>`).join("")}</div></aside></div>`;
   bindPractice(q,set);
 }
 function choiceButton(option,answer) {
@@ -75,6 +75,7 @@ function bindPractice(q,set) {
   document.querySelectorAll("[data-choice]").forEach(button=>button.addEventListener("click",()=>{practice.selected=button.dataset.choice;renderPractice(set.id)}));
   document.querySelector("#submit-answer").addEventListener("click",()=>{practice.submitted=true;recordAttempt(q,set,practice.selected,practice.selected===correctId(q));renderPractice(set.id)});
   document.querySelector("#flag-question").addEventListener("click",()=>{toggleFlag("questions",q.id);renderPractice(set.id)});
+  document.querySelector("#retake-set").addEventListener("click",()=>{if(window.confirm(`Clear all answers in ${set.title} and start again? Flags will be kept.`)){resetSetProgress(set.id);practice={set,index:0,selected:null,submitted:false};renderPractice(set.id)}});
   document.querySelector("#previous").addEventListener("click",()=>move(-1)); document.querySelector("#next").addEventListener("click",()=>move(1));
   document.querySelectorAll("[data-jump]").forEach(button=>button.addEventListener("click",()=>jump(Number(button.dataset.jump))));
   function move(delta){jump(practice.index+delta)} function jump(index){practice.index=index;practice.selected=null;practice.submitted=false;renderPractice(set.id);window.scrollTo({top:0,behavior:"instant"})}

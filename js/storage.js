@@ -19,6 +19,11 @@ export function loadState() {
 }
 export function saveState(state) { localStorage.setItem(KEY, JSON.stringify(state)); }
 export function resetState() { localStorage.removeItem(KEY); }
+export function resetSetProgress(setId) {
+  const state = loadState();
+  state.attempts = Object.fromEntries(Object.entries(state.attempts).filter(([, attempt]) => attempt.setId !== setId));
+  saveState(state);
+}
 export function toggleFlag(kind, id) {
   const state = loadState();
   const list = state.flags[kind];

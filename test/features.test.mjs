@@ -35,6 +35,19 @@ test("resetState clears attempts and question and topic flags", async () => {
   assert.deepEqual(loadState(), { attempts:{}, flags:{ questions:[], topics:[] } });
 });
 
+test("resetSetProgress clears only the selected set's attempts", async () => {
+  const { saveState, loadState, resetSetProgress } = await import("../js/storage.js");
+  saveState({
+    attempts:{ first:{ setId:"set-a", correct:true }, second:{ setId:"set-a", correct:false }, other:{ setId:"set-b", correct:true } },
+    flags:{ questions:["first"], topics:["tenses"] }
+  });
+  resetSetProgress("set-a");
+  assert.deepEqual(loadState(), {
+    attempts:{ other:{ setId:"set-b", correct:true, grammarTopicIds:[], tags:[] } },
+    flags:{ questions:["first"], topics:["tenses"] }
+  });
+});
+
 test("loadState works when structuredClone is unavailable", async () => {
   const originalStructuredClone = globalThis.structuredClone;
   globalThis.structuredClone = undefined;
