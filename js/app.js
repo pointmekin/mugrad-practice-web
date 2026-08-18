@@ -1,5 +1,5 @@
-import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState, resetSetProgress } from "./storage.js?v=20260818-7";
-import { filterSets, setResults, solutionAnswer, solutionChoices } from "./sets.js?v=20260818-7";
+import { loadState, toggleFlag, recordAttempt, exportState, importState, resetState, resetSetProgress } from "./storage.js?v=20260818-8";
+import { filterSets, setResults, solutionAnswer, solutionChoices } from "./sets.js?v=20260818-8";
 
 const app = document.querySelector("#app");
 const data = { sets:[], topics:[], definitions:{} };
