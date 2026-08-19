@@ -1,0 +1,628 @@
+{
+  "id": "fill-in-21",
+  "type": "fill-in",
+  "title": "Academic Grammar in Context — Set 21",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "fill-in-21-q01",
+      "prompt": "The board insisted that the contractor __ a revised drainage plan.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "provide"
+        },
+        {
+          "id": "B",
+          "text": "provides"
+        },
+        {
+          "id": "C",
+          "text": "provided"
+        },
+        {
+          "id": "D",
+          "text": "providing"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "insist that + subject ใช้ base verb จึงใช้ provide",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q02",
+      "prompt": "Before the lecture began, the technician __ every microphone.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "was testing"
+        },
+        {
+          "id": "B",
+          "text": "had tested"
+        },
+        {
+          "id": "C",
+          "text": "tested"
+        },
+        {
+          "id": "D",
+          "text": "has tested"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "การทดสอบเสร็จก่อน lecture began จึงใช้ past perfect",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q03",
+      "prompt": "The map makes the evacuation routes __ at a glance.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "visibly"
+        },
+        {
+          "id": "B",
+          "text": "visualize"
+        },
+        {
+          "id": "C",
+          "text": "visible"
+        },
+        {
+          "id": "D",
+          "text": "vision"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "make + object + adjective จึงใช้ visible",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q04",
+      "prompt": "She succeeded in __ the data without changing its original format.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "preserve"
+        },
+        {
+          "id": "B",
+          "text": "to preserve"
+        },
+        {
+          "id": "C",
+          "text": "preserved"
+        },
+        {
+          "id": "D",
+          "text": "preserving"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "in เป็น preposition จึงตามด้วย gerund preserving",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q05",
+      "prompt": "If demand rises sharply, the workshop __ an extra evening class.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "has added"
+        },
+        {
+          "id": "B",
+          "text": "will add"
+        },
+        {
+          "id": "C",
+          "text": "adds"
+        },
+        {
+          "id": "D",
+          "text": "would add"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "first conditional ใช้ will + verb ใน main clause",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "conditionals",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q06",
+      "prompt": "The proposal offers a __ account of the likely costs.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "reality"
+        },
+        {
+          "id": "B",
+          "text": "realistically"
+        },
+        {
+          "id": "C",
+          "text": "realize"
+        },
+        {
+          "id": "D",
+          "text": "realistic"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "ขยาย account ใช้ adjective realistic",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q07",
+      "prompt": "The samples __ were stored overnight must be retested.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "where"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "อ้างถึง samples ใช้ that ใน defining clause",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "relative-clauses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q08",
+      "prompt": "The nurse reminded participants __ water before the scan.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "drinking"
+        },
+        {
+          "id": "B",
+          "text": "drank"
+        },
+        {
+          "id": "C",
+          "text": "to drink"
+        },
+        {
+          "id": "D",
+          "text": "drink"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "remind someone to + infinitive จึงใช้ to drink",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q09",
+      "prompt": "The updated form requires __ signatures than the previous one.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "less"
+        },
+        {
+          "id": "B",
+          "text": "little"
+        },
+        {
+          "id": "C",
+          "text": "few"
+        },
+        {
+          "id": "D",
+          "text": "fewer"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "signatures นับได้พหูพจน์ จึงใช้ fewer",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q10",
+      "prompt": "The guide explained that the gallery __ closed on Mondays.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "would be"
+        },
+        {
+          "id": "B",
+          "text": "will be"
+        },
+        {
+          "id": "C",
+          "text": "is"
+        },
+        {
+          "id": "D",
+          "text": "has been"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "reported speech จาก explained ใช้ would be",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q11",
+      "prompt": "The museum improved the __ of its online catalogue.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "search"
+        },
+        {
+          "id": "B",
+          "text": "searchability"
+        },
+        {
+          "id": "C",
+          "text": "searchable"
+        },
+        {
+          "id": "D",
+          "text": "searchably"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง the ใช้คำนาม searchability",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q12",
+      "prompt": "The project will continue __ funding is available.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "despite"
+        },
+        {
+          "id": "B",
+          "text": "because of"
+        },
+        {
+          "id": "C",
+          "text": "while"
+        },
+        {
+          "id": "D",
+          "text": "during"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ตามด้วย clause ใช้ while",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q13",
+      "prompt": "This approach is __ reliable than relying on memory alone.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "more"
+        },
+        {
+          "id": "B",
+          "text": "most"
+        },
+        {
+          "id": "C",
+          "text": "much"
+        },
+        {
+          "id": "D",
+          "text": "many"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "เปรียบเทียบ reliable ใช้ more reliable",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q14",
+      "prompt": "The tutor recommended __ unfamiliar terms in a vocabulary notebook.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "record"
+        },
+        {
+          "id": "B",
+          "text": "to record"
+        },
+        {
+          "id": "C",
+          "text": "recorded"
+        },
+        {
+          "id": "D",
+          "text": "recording"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "recommend ตามด้วย gerund ได้ จึงใช้ recording",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q15",
+      "prompt": "The most __ evidence came from the original land records.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "persuasively"
+        },
+        {
+          "id": "B",
+          "text": "persuaded"
+        },
+        {
+          "id": "C",
+          "text": "persuasive"
+        },
+        {
+          "id": "D",
+          "text": "persuade"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยาย evidence ใช้ adjective persuasive",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q16",
+      "prompt": "The translator, __ first language is Karen, checked the community notice.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "where"
+        },
+        {
+          "id": "B",
+          "text": "whose"
+        },
+        {
+          "id": "C",
+          "text": "who"
+        },
+        {
+          "id": "D",
+          "text": "which"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "แสดงความเป็นเจ้าของ ใช้ whose",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "relative-clauses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q17",
+      "prompt": "The library would have stayed open if it __ enough staff.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "has"
+        },
+        {
+          "id": "B",
+          "text": "had"
+        },
+        {
+          "id": "C",
+          "text": "was having"
+        },
+        {
+          "id": "D",
+          "text": "had had"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "third conditional ใช้ if + past perfect; have ในอดีตสมบูรณ์เป็น had had",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "conditionals",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q18",
+      "prompt": "The instructor explained the procedure __ before anyone began.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "care"
+        },
+        {
+          "id": "B",
+          "text": "more careful"
+        },
+        {
+          "id": "C",
+          "text": "carefully"
+        },
+        {
+          "id": "D",
+          "text": "careful"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยาย explained ใช้ adverb carefully",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q19",
+      "prompt": "The interns are capable __ preparing the display independently.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "of"
+        },
+        {
+          "id": "B",
+          "text": "to"
+        },
+        {
+          "id": "C",
+          "text": "for"
+        },
+        {
+          "id": "D",
+          "text": "with"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "วลี fixed คือ capable of + gerund",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-21-q20",
+      "prompt": "Neither the diagrams nor the written guide __ sufficiently clear.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "have been"
+        },
+        {
+          "id": "B",
+          "text": "was"
+        },
+        {
+          "id": "C",
+          "text": "were"
+        },
+        {
+          "id": "D",
+          "text": "are"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "ประธานที่ใกล้กริยาคือ guide เอกพจน์ จึงใช้ was",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "subject-verb-agreement",
+        "b2-c1"
+      ]
+    }
+  ]
+}

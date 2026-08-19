@@ -1,0 +1,1228 @@
+{
+  "id": "error-recognition-22",
+  "type": "error-recognition",
+  "title": "Original Error Recognition — Set 22",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "error-recognition-22-q01",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the water-quality audit ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "were approved",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " by ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the committee",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " after ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the reviewers",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " checked ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "every figure",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "was approved",
+      "explanationTh": "ประธานคือ water-quality audit เอกพจน์ จึงใช้ was approved",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q02",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the chair suggested that ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "each applicant",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "submits",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " a summary before ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the deadline",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " on ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "Friday",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "submit",
+      "explanationTh": "suggest that + subject + base verb จึงใช้ submit",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q03",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the museum catalogue ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "will continue",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " once ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the supplier",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "will confirm",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "the order",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "confirms",
+      "explanationTh": "หลัง once ใช้ present simple จึงใช้ confirms",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q04",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the project requires ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "collecting samples",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "recording results",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", and sharing ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "findings",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "in local partners",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "with local partners",
+      "explanationTh": "ใช้ share findings with someone จึงแก้เป็น with local partners",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q05",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the energy pilot attracted ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "many feedback",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " from ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "local families",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " during ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the first week",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " of ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "opening",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "much feedback",
+      "explanationTh": "feedback เป็นนามนับไม่ได้ จึงใช้ much feedback",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q06",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, neither the map nor ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the written guide",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " was clear enough for ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "new visitors",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " to follow ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "a new visitors",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "alone",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "a new visitor",
+      "explanationTh": "หลัง a ใช้คำนามเอกพจน์ จึงใช้ a new visitor",
+      "grammarTopicIds": [
+        "articles"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q07",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the coordinator is responsible ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "to checking",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " the alarm before ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "each evening",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " performance at ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the theatre",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " begins ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "promptly",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "for checking",
+      "explanationTh": "วลี fixed คือ responsible for + gerund",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q08",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the instructor explained the language course ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "to the group",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "with diagrams",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "very clear",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "yesterday",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "very clearly",
+      "explanationTh": "ขยาย explained ใช้ adverb very clearly",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q09",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the archivist ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "found",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "a letter",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " in the archive ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "from 1926",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "who described the flood",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "that described the flood",
+      "explanationTh": "อ้างถึง letter ใช้ that ไม่ใช้ who",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q10",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, by the time the workshop started, ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the staff",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " had arranged ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "all materials",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " on ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the tables",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " near ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "the entrances",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "the entrance",
+      "explanationTh": "บริบทกล่าวถึงทางเข้าเดียว จึงใช้ the entrance",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q11",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the director asked ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the assistants",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " to prepare ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "name badges",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " before ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the guests",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "reaches the venue",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "reach the venue",
+      "explanationTh": "ประธานคือ guests พหูพจน์ จึงใช้ reach",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q12",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, if ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the report will be clear",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "more residents",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " would support ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "it",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " at ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "once",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "the report were clearer",
+      "explanationTh": "second conditional ใช้ if + past simple และ would + verb",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q13",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the new museum catalogue route is ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "more easier",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " to use than ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the older",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " path for ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "wheelchair users",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "winter",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "easier",
+      "explanationTh": "ไม่ใช้ more กับ comparative easier",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q14",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the director said that ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the results",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "will be shared",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " after ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the panel",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " reviewed ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "the evidence",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "would be shared",
+      "explanationTh": "reported speech ในอดีตใช้ would be shared",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q15",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the team ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "avoided",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to discuss",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " confidential cases during ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the open meeting",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " last ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "night",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "discussing",
+      "explanationTh": "avoid ตามด้วย gerund จึงใช้ discussing",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q16",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, each of ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the proposals",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " in the file ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "has",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "includes",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " a budget ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "estimate",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "include",
+      "explanationTh": "หลัง has ต้องใช้กริยารูป base คือ include",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q17",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the participants were ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "interested",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " in ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "learning more",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "in the local water project",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " during ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "the session",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "about the local water project",
+      "explanationTh": "learn more about + เรื่อง ใช้ about ไม่ใช้ in",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q18",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the lecturer gave a ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "very",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "detail",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " explanation of ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the sampling",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " process before ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "departure",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "detailed",
+      "explanationTh": "ขยาย explanation ใช้ adjective detailed",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q19",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the report highlights ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "several villages",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "in remote areas",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "that lack",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " reliable transport ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "which lasts each year",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "throughout each year",
+      "explanationTh": "ใช้ throughout each year เพื่อบอกช่วงเวลาให้ชัดเจน",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    },
+    {
+      "id": "error-recognition-22-q20",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During a water-quality audit, the volunteers would have arrived earlier if ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "they",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "left",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " the station before ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "the road",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " was closed ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "by flooding",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "had left",
+      "explanationTh": "third conditional ใช้ if + past perfect: had left",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "grammar-in-context",
+        "b2-c1",
+        "set-22"
+      ]
+    }
+  ]
+}

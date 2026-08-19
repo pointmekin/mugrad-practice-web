@@ -1,0 +1,628 @@
+{
+  "id": "fill-in-20",
+  "type": "fill-in",
+  "title": "Academic Grammar in Context — Set 20",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "fill-in-20-q01",
+      "prompt": "The dean recommended that every applicant __ a short statement of purpose.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "submit"
+        },
+        {
+          "id": "B",
+          "text": "submits"
+        },
+        {
+          "id": "C",
+          "text": "submitted"
+        },
+        {
+          "id": "D",
+          "text": "submitting"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "recommend that + subject ใช้ base verb จึงใช้ submit",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q02",
+      "prompt": "By the time the ferry arrived, the crew __ the safety briefing.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "was completing"
+        },
+        {
+          "id": "B",
+          "text": "had completed"
+        },
+        {
+          "id": "C",
+          "text": "completed"
+        },
+        {
+          "id": "D",
+          "text": "has completed"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "การบรรยายเสร็จก่อนเหตุการณ์อดีตอีกเหตุการณ์ จึงใช้ past perfect",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q03",
+      "prompt": "The workshop is designed to make technical advice __ to non-specialists.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "accessibly"
+        },
+        {
+          "id": "B",
+          "text": "accessing"
+        },
+        {
+          "id": "C",
+          "text": "accessible"
+        },
+        {
+          "id": "D",
+          "text": "access"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "make + object + adjective จึงใช้ accessible",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q04",
+      "prompt": "The editor objected to __ the interview before the participant had approved it.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "publish"
+        },
+        {
+          "id": "B",
+          "text": "to publish"
+        },
+        {
+          "id": "C",
+          "text": "published"
+        },
+        {
+          "id": "D",
+          "text": "publishing"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "to เป็น preposition ใน object to จึงตามด้วย gerund publishing",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q05",
+      "prompt": "If the sensors fail again, the team __ the measurements manually.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "has recorded"
+        },
+        {
+          "id": "B",
+          "text": "will record"
+        },
+        {
+          "id": "C",
+          "text": "records"
+        },
+        {
+          "id": "D",
+          "text": "would record"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "first conditional ใช้ if + present simple และ will + verb",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "conditionals",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q06",
+      "prompt": "The archive contains __ correspondence from the early railway project.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "extent"
+        },
+        {
+          "id": "B",
+          "text": "extensively"
+        },
+        {
+          "id": "C",
+          "text": "extend"
+        },
+        {
+          "id": "D",
+          "text": "extensive"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "ขยายคำนาม correspondence ใช้ adjective extensive",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q07",
+      "prompt": "The report identifies several factors __ influence household energy use.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "where"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "อ้างถึง factors ใน defining relative clause ใช้ that",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "relative-clauses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q08",
+      "prompt": "The curator asked visitors __ their bags in the lockers.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "leaving"
+        },
+        {
+          "id": "B",
+          "text": "left"
+        },
+        {
+          "id": "C",
+          "text": "to leave"
+        },
+        {
+          "id": "D",
+          "text": "leave"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ask someone to + infinitive จึงใช้ to leave",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q09",
+      "prompt": "The revised timetable has __ sessions than the draft version.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "less"
+        },
+        {
+          "id": "B",
+          "text": "little"
+        },
+        {
+          "id": "C",
+          "text": "few"
+        },
+        {
+          "id": "D",
+          "text": "fewer"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "sessions เป็นคำนามนับได้พหูพจน์ จึงใช้ fewer",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q10",
+      "prompt": "The spokesperson said that the findings __ published the following week.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "would be"
+        },
+        {
+          "id": "B",
+          "text": "will be"
+        },
+        {
+          "id": "C",
+          "text": "are"
+        },
+        {
+          "id": "D",
+          "text": "have been"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "reported speech ในอดีตใช้ would be",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q11",
+      "prompt": "The researchers were surprised by the __ of the volunteers’ response.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "speeding"
+        },
+        {
+          "id": "B",
+          "text": "speed"
+        },
+        {
+          "id": "C",
+          "text": "speedy"
+        },
+        {
+          "id": "D",
+          "text": "speedily"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง by the ต้องใช้คำนาม speed",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q12",
+      "prompt": "The permit is valid __ the end of the calendar year.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "since"
+        },
+        {
+          "id": "B",
+          "text": "despite"
+        },
+        {
+          "id": "C",
+          "text": "until"
+        },
+        {
+          "id": "D",
+          "text": "during"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ใช้ until เพื่อบอกจุดสิ้นสุดของช่วงเวลา",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q13",
+      "prompt": "The new route is __ direct than the old mountain road.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "more"
+        },
+        {
+          "id": "B",
+          "text": "most"
+        },
+        {
+          "id": "C",
+          "text": "much"
+        },
+        {
+          "id": "D",
+          "text": "many"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "เปรียบเทียบ adjective direct ใช้ more direct than",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q14",
+      "prompt": "The adviser suggested __ the survey with a smaller pilot group.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "test"
+        },
+        {
+          "id": "B",
+          "text": "to test"
+        },
+        {
+          "id": "C",
+          "text": "tested"
+        },
+        {
+          "id": "D",
+          "text": "testing"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "suggest ตามด้วย gerund ได้ จึงใช้ testing",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q15",
+      "prompt": "The evacuation drill was the most __ part of the training day.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "demanded"
+        },
+        {
+          "id": "B",
+          "text": "demandingly"
+        },
+        {
+          "id": "C",
+          "text": "demanding"
+        },
+        {
+          "id": "D",
+          "text": "demand"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง most ใช้ adjective จึงใช้ demanding",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q16",
+      "prompt": "The analyst, __ had worked in the region for a decade, checked the figures.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "where"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "which"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "อ้างถึงบุคคลใน non-defining clause ใช้ who",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "relative-clauses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q17",
+      "prompt": "The team would have finished earlier if it __ the spare parts sooner.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "orders"
+        },
+        {
+          "id": "B",
+          "text": "has ordered"
+        },
+        {
+          "id": "C",
+          "text": "was ordering"
+        },
+        {
+          "id": "D",
+          "text": "had ordered"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "third conditional ใช้ if + past perfect",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "conditionals",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q18",
+      "prompt": "The field notes were written __ enough for another team to repeat the method.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "clarity"
+        },
+        {
+          "id": "B",
+          "text": "clearest"
+        },
+        {
+          "id": "C",
+          "text": "clearly"
+        },
+        {
+          "id": "D",
+          "text": "clear"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยายกริยา written ใช้ adverb clearly",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q19",
+      "prompt": "The coordinator is responsible __ informing residents about the closure.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "for"
+        },
+        {
+          "id": "B",
+          "text": "to"
+        },
+        {
+          "id": "C",
+          "text": "at"
+        },
+        {
+          "id": "D",
+          "text": "of"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "วลี fixed คือ responsible for + gerund",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-20-q20",
+      "prompt": "Not only the coordinator but also the volunteers __ ready for the briefing.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "has been"
+        },
+        {
+          "id": "B",
+          "text": "were"
+        },
+        {
+          "id": "C",
+          "text": "was"
+        },
+        {
+          "id": "D",
+          "text": "is"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "ประธานที่อยู่ใกล้กริยาคือ volunteers พหูพจน์ จึงใช้ were",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "subject-verb-agreement",
+        "b2-c1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,628 @@
+{
+  "id": "fill-in-22",
+  "type": "fill-in",
+  "title": "Academic Grammar in Context — Set 22",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "fill-in-22-q01",
+      "prompt": "The policy requires that each laboratory __ its waste records monthly.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "update"
+        },
+        {
+          "id": "B",
+          "text": "updates"
+        },
+        {
+          "id": "C",
+          "text": "updated"
+        },
+        {
+          "id": "D",
+          "text": "updating"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "require that + subject ใช้ base verb จึงใช้ update",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q02",
+      "prompt": "By sunset, the volunteers __ every seedling in the trial plot.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "were labelling"
+        },
+        {
+          "id": "B",
+          "text": "had labelled"
+        },
+        {
+          "id": "C",
+          "text": "labelled"
+        },
+        {
+          "id": "D",
+          "text": "have labelled"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "เสร็จก่อนจุดเวลาในอดีต จึงใช้ had labelled",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q03",
+      "prompt": "The revised diagram makes the process __ for new staff.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "comprehensively"
+        },
+        {
+          "id": "B",
+          "text": "comprehend"
+        },
+        {
+          "id": "C",
+          "text": "comprehensible"
+        },
+        {
+          "id": "D",
+          "text": "comprehension"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง make + object ใช้ adjective comprehensible",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q04",
+      "prompt": "They apologised for __ the reservation number incorrectly.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "enter"
+        },
+        {
+          "id": "B",
+          "text": "to enter"
+        },
+        {
+          "id": "C",
+          "text": "entered"
+        },
+        {
+          "id": "D",
+          "text": "entering"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "for เป็น preposition จึงใช้ gerund entering",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q05",
+      "prompt": "If the rain stops, the surveyors __ the southern path tomorrow.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "have inspected"
+        },
+        {
+          "id": "B",
+          "text": "will inspect"
+        },
+        {
+          "id": "C",
+          "text": "inspect"
+        },
+        {
+          "id": "D",
+          "text": "would inspect"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "first conditional ใช้ will inspect",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "conditionals",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q06",
+      "prompt": "The committee needs a __ explanation of the proposed merger.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "coherence"
+        },
+        {
+          "id": "B",
+          "text": "coherently"
+        },
+        {
+          "id": "C",
+          "text": "cohere"
+        },
+        {
+          "id": "D",
+          "text": "coherent"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "ขยาย explanation ใช้ adjective coherent",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q07",
+      "prompt": "The protocol includes steps __ protect participants’ identities.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "where"
+        },
+        {
+          "id": "D",
+          "text": "whose"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "อ้างถึง steps ใช้ that ใน defining clause",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "relative-clauses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q08",
+      "prompt": "The reviewer encouraged the author __ a clearer conclusion.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "writing"
+        },
+        {
+          "id": "B",
+          "text": "wrote"
+        },
+        {
+          "id": "C",
+          "text": "to write"
+        },
+        {
+          "id": "D",
+          "text": "write"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "encourage someone to + infinitive จึงใช้ to write",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q09",
+      "prompt": "The new scheme has __ restrictions than the earlier pilot.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "less"
+        },
+        {
+          "id": "B",
+          "text": "little"
+        },
+        {
+          "id": "C",
+          "text": "few"
+        },
+        {
+          "id": "D",
+          "text": "fewer"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "restrictions นับได้พหูพจน์ จึงใช้ fewer",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q10",
+      "prompt": "The director confirmed that the results __ released in June.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "would be"
+        },
+        {
+          "id": "B",
+          "text": "will be"
+        },
+        {
+          "id": "C",
+          "text": "are"
+        },
+        {
+          "id": "D",
+          "text": "have been"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "reported statement ใช้ would be released",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q11",
+      "prompt": "The volunteers appreciated the __ of the instructions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "simplify"
+        },
+        {
+          "id": "B",
+          "text": "simplicity"
+        },
+        {
+          "id": "C",
+          "text": "simple"
+        },
+        {
+          "id": "D",
+          "text": "simply"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง the ใช้คำนาม simplicity",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q12",
+      "prompt": "The assistant remained at the desk __ the final caller had left.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "despite"
+        },
+        {
+          "id": "B",
+          "text": "because of"
+        },
+        {
+          "id": "C",
+          "text": "until"
+        },
+        {
+          "id": "D",
+          "text": "during"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ตามด้วย clause และบอกจุดสิ้นสุด ใช้ until",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q13",
+      "prompt": "The revised model is __ accurate than the first estimate.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "more"
+        },
+        {
+          "id": "B",
+          "text": "most"
+        },
+        {
+          "id": "C",
+          "text": "much"
+        },
+        {
+          "id": "D",
+          "text": "many"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "ใช้ more accurate than สำหรับ comparative",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q14",
+      "prompt": "The panel considered __ the deadline after the storm.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "extend"
+        },
+        {
+          "id": "B",
+          "text": "to extend"
+        },
+        {
+          "id": "C",
+          "text": "extended"
+        },
+        {
+          "id": "D",
+          "text": "extending"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "consider ตามด้วย gerund จึงใช้ extending",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q15",
+      "prompt": "The most __ feature of the proposal is its community partnership.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "innovatively"
+        },
+        {
+          "id": "B",
+          "text": "innovation"
+        },
+        {
+          "id": "C",
+          "text": "innovative"
+        },
+        {
+          "id": "D",
+          "text": "innovate"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยาย feature ใช้ adjective innovative",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q16",
+      "prompt": "The coordinator, __ office is beside the auditorium, will open the event.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "where"
+        },
+        {
+          "id": "B",
+          "text": "whose"
+        },
+        {
+          "id": "C",
+          "text": "who"
+        },
+        {
+          "id": "D",
+          "text": "which"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "ใช้ whose เพื่อแสดงความเป็นเจ้าของ office",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "relative-clauses",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q17",
+      "prompt": "The bridge would have reopened sooner if engineers __ the materials earlier.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "receive"
+        },
+        {
+          "id": "B",
+          "text": "have received"
+        },
+        {
+          "id": "C",
+          "text": "were receiving"
+        },
+        {
+          "id": "D",
+          "text": "had received"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "third conditional ใช้ had received",
+      "grammarTopicIds": [
+        "conditionals"
+      ],
+      "tags": [
+        "conditionals",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q18",
+      "prompt": "The guide spoke __ so that children could follow the instructions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "slowness"
+        },
+        {
+          "id": "B",
+          "text": "slower"
+        },
+        {
+          "id": "C",
+          "text": "slowly"
+        },
+        {
+          "id": "D",
+          "text": "slow"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยาย spoke ใช้ adverb slowly",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q19",
+      "prompt": "The grant is intended __ supporting small rural libraries.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "for"
+        },
+        {
+          "id": "B",
+          "text": "to"
+        },
+        {
+          "id": "C",
+          "text": "at"
+        },
+        {
+          "id": "D",
+          "text": "of"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "intended for + gerund/noun จึงใช้ for",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "b2-c1"
+      ]
+    },
+    {
+      "id": "fill-in-22-q20",
+      "prompt": "Each of the revised chapters __ a separate bibliography.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "were"
+        },
+        {
+          "id": "B",
+          "text": "has"
+        },
+        {
+          "id": "C",
+          "text": "have"
+        },
+        {
+          "id": "D",
+          "text": "are having"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "each เป็นเอกพจน์ จึงใช้ has",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "subject-verb-agreement",
+        "b2-c1"
+      ]
+    }
+  ]
+}

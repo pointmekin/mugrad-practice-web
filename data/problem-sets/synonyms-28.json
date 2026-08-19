@@ -1,0 +1,608 @@
+{
+  "id": "synonyms-28",
+  "type": "synonym",
+  "title": "Original Academic Vocabulary — Set 28",
+  "difficulty": "B2–C1 Upper-Advanced",
+  "questions": [
+    {
+      "id": "synonyms-28-q01",
+      "prompt": "The handbook **delineates** which repairs are the tenant’s responsibility.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "describe the limits clearly"
+        },
+        {
+          "id": "B",
+          "text": "question the stated method about delineate"
+        },
+        {
+          "id": "C",
+          "text": "publicize the local result about delineate"
+        },
+        {
+          "id": "D",
+          "text": "postpone the planned review about delineate"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "delineate หมายถึงกำหนดหรืออธิบายขอบเขตอย่างชัดเจน จึงใกล้กับ describe the limits clearly",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q02",
+      "prompt": "Several towns hope to **replicate** the library’s low-cost lending model.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "record the available evidence about replicate"
+        },
+        {
+          "id": "B",
+          "text": "reproduce a successful example"
+        },
+        {
+          "id": "C",
+          "text": "publicize the local result about replicate"
+        },
+        {
+          "id": "D",
+          "text": "postpone the planned review about replicate"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "replicate หมายถึงทำซ้ำตามแบบอย่างที่ประสบความสำเร็จ จึงใกล้กับ reproduce a successful example",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q03",
+      "prompt": "A shared calendar can **expedite** coordination among fieldwork teams.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "record the available evidence about expedite"
+        },
+        {
+          "id": "B",
+          "text": "question the stated method about expedite"
+        },
+        {
+          "id": "C",
+          "text": "make a process happen more quickly"
+        },
+        {
+          "id": "D",
+          "text": "postpone the planned review about expedite"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "expedite หมายถึงทำให้กระบวนการเสร็จเร็วขึ้น จึงใกล้กับ make a process happen more quickly",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q04",
+      "prompt": "Late permits continue to **hinder** the restoration of the old theatre.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "record the available evidence about hinder"
+        },
+        {
+          "id": "B",
+          "text": "question the stated method about hinder"
+        },
+        {
+          "id": "C",
+          "text": "publicize the local result about hinder"
+        },
+        {
+          "id": "D",
+          "text": "slow down or obstruct progress"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "hinder หมายถึงทำให้ความก้าวหน้าช้าลงหรือยากขึ้น จึงใกล้กับ slow down or obstruct progress",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q05",
+      "prompt": "The course will **integrate** local case studies into its economics module.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "postpone the planned review about integrate"
+        },
+        {
+          "id": "B",
+          "text": "combine parts into a whole"
+        },
+        {
+          "id": "C",
+          "text": "question the stated method about integrate"
+        },
+        {
+          "id": "D",
+          "text": "publicize the local result about integrate"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "integrate หมายถึงผสานส่วนต่าง ๆ เข้าด้วยกัน จึงใกล้กับ combine parts into a whole",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q06",
+      "prompt": "A neutral facilitator will **mediate** discussions between fishers and developers.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "publicize the local result about mediate"
+        },
+        {
+          "id": "B",
+          "text": "postpone the planned review about mediate"
+        },
+        {
+          "id": "C",
+          "text": "record the available evidence about mediate"
+        },
+        {
+          "id": "D",
+          "text": "act between sides to resolve a dispute"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "mediate หมายถึงช่วยเป็นคนกลางเพื่อลดข้อขัดแย้ง จึงใกล้กับ act between sides to resolve a dispute",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q07",
+      "prompt": "The clinic can **mobilize** volunteer interpreters during a public-health alert.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "organise people or resources for action"
+        },
+        {
+          "id": "B",
+          "text": "postpone the planned review about mobilize"
+        },
+        {
+          "id": "C",
+          "text": "record the available evidence about mobilize"
+        },
+        {
+          "id": "D",
+          "text": "question the stated method about mobilize"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "mobilize หมายถึงรวบรวมและจัดกำลังคนหรือทรัพยากรเพื่อปฏิบัติการ จึงใกล้กับ organise people or resources for action",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q08",
+      "prompt": "Regular feedback can **nurture** confidence in first-year writers.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "question the stated method about nurture"
+        },
+        {
+          "id": "B",
+          "text": "publicize the local result about nurture"
+        },
+        {
+          "id": "C",
+          "text": "care for and encourage growth"
+        },
+        {
+          "id": "D",
+          "text": "record the available evidence about nurture"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "nurture หมายถึงดูแลส่งเสริมให้เติบโตอย่างต่อเนื่อง จึงใกล้กับ care for and encourage growth",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q09",
+      "prompt": "Solar panels may **offset** part of the laboratory’s electricity use.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "question the stated method about offset"
+        },
+        {
+          "id": "B",
+          "text": "publicize the local result about offset"
+        },
+        {
+          "id": "C",
+          "text": "postpone the planned review about offset"
+        },
+        {
+          "id": "D",
+          "text": "compensate for an unwanted effect or cost"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "offset หมายถึงชดเชยผลเสียหรือค่าใช้จ่ายบางส่วน จึงใกล้กับ compensate for an unwanted effect or cost",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q10",
+      "prompt": "The missing consent forms **preclude** the team from sharing the interviews.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "prevent something from being possible"
+        },
+        {
+          "id": "B",
+          "text": "publicize the local result about preclude"
+        },
+        {
+          "id": "C",
+          "text": "postpone the planned review about preclude"
+        },
+        {
+          "id": "D",
+          "text": "record the available evidence about preclude"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "preclude หมายถึงทำให้บางสิ่งเป็นไปไม่ได้ จึงใกล้กับ prevent something from being possible",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q11",
+      "prompt": "The new examples **reinforce** the central argument of the report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "question the stated method about reinforce"
+        },
+        {
+          "id": "B",
+          "text": "make stronger by adding support"
+        },
+        {
+          "id": "C",
+          "text": "postpone the planned review about reinforce"
+        },
+        {
+          "id": "D",
+          "text": "record the available evidence about reinforce"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "reinforce หมายถึงเสริมหรือทำให้แข็งแรงยิ่งขึ้น จึงใกล้กับ make stronger by adding support",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q12",
+      "prompt": "Reviewers will **scrutinize** the model’s assumptions before approving the grant.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "question the stated method about scrutinize"
+        },
+        {
+          "id": "B",
+          "text": "publicize the local result about scrutinize"
+        },
+        {
+          "id": "C",
+          "text": "examine very carefully"
+        },
+        {
+          "id": "D",
+          "text": "record the available evidence about scrutinize"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "scrutinize หมายถึงตรวจสอบอย่างละเอียดรอบคอบ จึงใกล้กับ examine very carefully",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q13",
+      "prompt": "The final chapter **synthesizes** findings from interviews, archives, and surveys.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "combine information into a coherent whole"
+        },
+        {
+          "id": "B",
+          "text": "question the stated method about synthesize"
+        },
+        {
+          "id": "C",
+          "text": "publicize the local result about synthesize"
+        },
+        {
+          "id": "D",
+          "text": "postpone the planned review about synthesize"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "synthesize หมายถึงรวมข้อมูลหลายส่วนให้เป็นข้อสรุปเดียว จึงใกล้กับ combine information into a coherent whole",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q14",
+      "prompt": "The appeal panel must **uphold** the university’s commitment to fairness.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "publicize the local result about uphold"
+        },
+        {
+          "id": "B",
+          "text": "postpone the planned review about uphold"
+        },
+        {
+          "id": "C",
+          "text": "record the available evidence about uphold"
+        },
+        {
+          "id": "D",
+          "text": "support and maintain a principle"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "uphold หมายถึงสนับสนุนหรือรักษาหลักการและมาตรฐาน จึงใกล้กับ support and maintain a principle",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q15",
+      "prompt": "Applicants should **elucidate** how their project benefits the neighbourhood.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "record the available evidence about elucidate"
+        },
+        {
+          "id": "B",
+          "text": "question the stated method about elucidate"
+        },
+        {
+          "id": "C",
+          "text": "explain a complex idea clearly"
+        },
+        {
+          "id": "D",
+          "text": "postpone the planned review about elucidate"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "elucidate หมายถึงอธิบายเรื่องซับซ้อนให้ชัดเจน จึงใกล้กับ explain a complex idea clearly",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q16",
+      "prompt": "Technicians **standardize** the sensor settings before each week of air-quality monitoring.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "publicize the local result about standardize"
+        },
+        {
+          "id": "B",
+          "text": "make consistent with one standard"
+        },
+        {
+          "id": "C",
+          "text": "record the available evidence about standardize"
+        },
+        {
+          "id": "D",
+          "text": "question the stated method about standardize"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "standardize หมายถึงทำให้เป็นไปตามมาตรฐานเดียวกัน จึงใกล้กับ make consistent with one standard",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q17",
+      "prompt": "The author **concedes** that the proposal will require more funding.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "question the stated method about concede"
+        },
+        {
+          "id": "B",
+          "text": "publicize the local result about concede"
+        },
+        {
+          "id": "C",
+          "text": "postpone the planned review about concede"
+        },
+        {
+          "id": "D",
+          "text": "admit that a point is true"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "concede หมายถึงยอมรับว่าบางประเด็นเป็นจริง จึงใกล้กับ admit that a point is true",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q18",
+      "prompt": "The team **derived** its estimates from six years of rainfall records.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "postpone the planned review about derive"
+        },
+        {
+          "id": "B",
+          "text": "record the available evidence about derive"
+        },
+        {
+          "id": "C",
+          "text": "obtain or develop from a source"
+        },
+        {
+          "id": "D",
+          "text": "publicize the local result about derive"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "derive หมายถึงได้มาหรือสรุปมาจากแหล่งข้อมูล จึงใกล้กับ obtain or develop from a source",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q19",
+      "prompt": "The planners **envisage** a waterfront that remains accessible during floods.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "imagine a possible future situation"
+        },
+        {
+          "id": "B",
+          "text": "postpone the planned review about envisage"
+        },
+        {
+          "id": "C",
+          "text": "record the available evidence about envisage"
+        },
+        {
+          "id": "D",
+          "text": "question the stated method about envisage"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "envisage หมายถึงจินตนาการหรือวางภาพของอนาคต จึงใกล้กับ imagine a possible future situation",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    },
+    {
+      "id": "synonyms-28-q20",
+      "prompt": "Frequent equipment failures **frustrated** attempts to map the cave.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "publicize the local result about frustrate"
+        },
+        {
+          "id": "B",
+          "text": "prevent an effort from succeeding"
+        },
+        {
+          "id": "C",
+          "text": "record the available evidence about frustrate"
+        },
+        {
+          "id": "D",
+          "text": "question the stated method about frustrate"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "frustrate หมายถึงทำให้ความพยายามไม่บรรลุผล จึงใกล้กับ prevent an effort from succeeding",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "b2-c1",
+        "context"
+      ]
+    }
+  ]
+}
