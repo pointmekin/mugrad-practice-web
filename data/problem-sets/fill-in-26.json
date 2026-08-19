@@ -1,0 +1,648 @@
+{
+  "id": "fill-in-26",
+  "type": "fill-in",
+  "title": "Precision in Context — Set 26",
+  "difficulty": "C1–C2 Advanced",
+  "questions": [
+    {
+      "id": "fill-in-26-q01",
+      "prompt": "The audit exposed several procedural __ in the existing complaints system.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "inadequacies"
+        },
+        {
+          "id": "B",
+          "text": "inadequate"
+        },
+        {
+          "id": "C",
+          "text": "inadequately"
+        },
+        {
+          "id": "D",
+          "text": "inadequacy"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง several procedural ต้องใช้คำนามพหูพจน์ inadequacies",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q02",
+      "prompt": "Her conclusion depends on a highly __ reading of the statute.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "select"
+        },
+        {
+          "id": "B",
+          "text": "selective"
+        },
+        {
+          "id": "C",
+          "text": "selection"
+        },
+        {
+          "id": "D",
+          "text": "selectively"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "ขยาย reading ต้องใช้ adjective selective",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q03",
+      "prompt": "The panel remained __ unconvinced by the revised financial projections.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "decide"
+        },
+        {
+          "id": "B",
+          "text": "decision"
+        },
+        {
+          "id": "C",
+          "text": "decidedly"
+        },
+        {
+          "id": "D",
+          "text": "decisive"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยาย adjective unconvinced ต้องใช้ adverb decidedly",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q04",
+      "prompt": "The intervention's long-term __ has not yet been established.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "effective"
+        },
+        {
+          "id": "B",
+          "text": "effectively"
+        },
+        {
+          "id": "C",
+          "text": "effectuate"
+        },
+        {
+          "id": "D",
+          "text": "effectiveness"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "ประธานของประโยคต้องเป็นคำนาม effectiveness",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q05",
+      "prompt": "The summary was criticised for its excessive __ of a deeply contested issue.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "simplify"
+        },
+        {
+          "id": "B",
+          "text": "simplified"
+        },
+        {
+          "id": "C",
+          "text": "simplification"
+        },
+        {
+          "id": "D",
+          "text": "simplistically"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง excessive ต้องใช้คำนาม simplification",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q06",
+      "prompt": "At the time of the merger, both institutes __ independently for more than fifty years.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "operated"
+        },
+        {
+          "id": "B",
+          "text": "were operating"
+        },
+        {
+          "id": "C",
+          "text": "had operated"
+        },
+        {
+          "id": "D",
+          "text": "had been operating"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "for more than fifty years ก่อนจุดหนึ่งในอดีตเน้นความต่อเนื่อง จึงใช้ past perfect continuous",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q07",
+      "prompt": "Under no circumstances __ before the participants have been fully briefed.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "may the recordings begin"
+        },
+        {
+          "id": "B",
+          "text": "the recordings may begin"
+        },
+        {
+          "id": "C",
+          "text": "do the recordings begin"
+        },
+        {
+          "id": "D",
+          "text": "the recordings begin"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "Under no circumstances ขึ้นต้นประโยคต้อง inversion กับ modal may",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q08",
+      "prompt": "The regulations require every alteration __ in the public register.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to be recorded"
+        },
+        {
+          "id": "B",
+          "text": "recording"
+        },
+        {
+          "id": "C",
+          "text": "to record"
+        },
+        {
+          "id": "D",
+          "text": "being recorded"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "require + object + passive to-infinitive: require every alteration to be recorded",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q09",
+      "prompt": "Little __ that the apparently minor amendment would transform the entire scheme.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the drafters realised"
+        },
+        {
+          "id": "B",
+          "text": "did the drafters realise"
+        },
+        {
+          "id": "C",
+          "text": "had the drafters realised"
+        },
+        {
+          "id": "D",
+          "text": "the drafters had realised"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "Little ที่มีความหมายเชิงปฏิเสธขึ้นต้นประโยคต้อง inversion ด้วย did",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q10",
+      "prompt": "__ repeatedly to disclose the methodology, the contractor eventually lost the commission.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Failing"
+        },
+        {
+          "id": "B",
+          "text": "Failed"
+        },
+        {
+          "id": "C",
+          "text": "Having failed"
+        },
+        {
+          "id": "D",
+          "text": "Being failed"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "การไม่เปิดเผยเกิดซ้ำก่อนเสียสัญญา จึงใช้ Having failed",
+      "grammarTopicIds": [
+        "participles"
+      ],
+      "tags": [
+        "participles",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q11",
+      "prompt": "The new protocol is compatible __ international standards for research integrity.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to"
+        },
+        {
+          "id": "B",
+          "text": "with"
+        },
+        {
+          "id": "C",
+          "text": "for"
+        },
+        {
+          "id": "D",
+          "text": "into"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "collocation คือ compatible with",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q12",
+      "prompt": "The committee considered the omission sufficiently __ to warrant a new hearing.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "consequence"
+        },
+        {
+          "id": "B",
+          "text": "consequently"
+        },
+        {
+          "id": "C",
+          "text": "consequentially"
+        },
+        {
+          "id": "D",
+          "text": "consequential"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "หลัง considered + object และ sufficiently ต้องใช้ adjective consequential",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q13",
+      "prompt": "The witness answered with a degree of __ that surprised the investigators.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "forthright"
+        },
+        {
+          "id": "B",
+          "text": "forthrightly"
+        },
+        {
+          "id": "C",
+          "text": "forthrightness"
+        },
+        {
+          "id": "D",
+          "text": "forthcoming"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง a degree of ต้องใช้คำนาม forthrightness",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q14",
+      "prompt": "The allocation formula has been criticised as fundamentally __.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "equity"
+        },
+        {
+          "id": "B",
+          "text": "equitable"
+        },
+        {
+          "id": "C",
+          "text": "equitably"
+        },
+        {
+          "id": "D",
+          "text": "equalise"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง as และ fundamentally ต้องใช้ adjective equitable",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q15",
+      "prompt": "The editor requested the __ of several claims that exceeded the available evidence.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "modification"
+        },
+        {
+          "id": "B",
+          "text": "modify"
+        },
+        {
+          "id": "C",
+          "text": "modified"
+        },
+        {
+          "id": "D",
+          "text": "modifying"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง requested the ต้องใช้คำนาม modification",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q16",
+      "prompt": "The missing files seem __ during the office relocation.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to disappear"
+        },
+        {
+          "id": "B",
+          "text": "to be disappearing"
+        },
+        {
+          "id": "C",
+          "text": "to have been disappeared"
+        },
+        {
+          "id": "D",
+          "text": "to have disappeared"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "การหายเกิดก่อน seem ในปัจจุบัน จึงใช้ perfect infinitive",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q17",
+      "prompt": "The researchers objected to __ as consultants after the analysis was complete.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "being treated"
+        },
+        {
+          "id": "B",
+          "text": "treating"
+        },
+        {
+          "id": "C",
+          "text": "having treated"
+        },
+        {
+          "id": "D",
+          "text": "be treated"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "object to ตามด้วย gerund และ researchers เป็นผู้ถูกปฏิบัติ จึงใช้ being treated",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q18",
+      "prompt": "The larger sample is no more representative __ the original one.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "as"
+        },
+        {
+          "id": "B",
+          "text": "from"
+        },
+        {
+          "id": "C",
+          "text": "to"
+        },
+        {
+          "id": "D",
+          "text": "than"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "โครงสร้างเปรียบเทียบคือ no more ... than",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q19",
+      "prompt": "The final decision rests __ whether the evidence meets the statutory threshold.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "at"
+        },
+        {
+          "id": "B",
+          "text": "for"
+        },
+        {
+          "id": "C",
+          "text": "on"
+        },
+        {
+          "id": "D",
+          "text": "towards"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "collocation คือ rest on",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-26-q20",
+      "prompt": "The authors acknowledged __ the regional data too broadly.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to generalise"
+        },
+        {
+          "id": "B",
+          "text": "having generalised"
+        },
+        {
+          "id": "C",
+          "text": "generalising"
+        },
+        {
+          "id": "D",
+          "text": "to have generalised"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "acknowledge ตามด้วย gerund และการกระทำเกิดก่อนการยอมรับ จึงใช้ having generalised",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    }
+  ]
+}

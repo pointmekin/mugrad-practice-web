@@ -1,0 +1,608 @@
+{
+  "id": "synonyms-30",
+  "type": "synonym",
+  "title": "Academic Evaluation — Set 30",
+  "difficulty": "C1 Advanced",
+  "questions": [
+    {
+      "id": "synonyms-30-q01",
+      "prompt": "The shortage became **acute** when three laboratories began competing for the same specialised equipment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "stable"
+        },
+        {
+          "id": "B",
+          "text": "severe"
+        },
+        {
+          "id": "C",
+          "text": "gradual"
+        },
+        {
+          "id": "D",
+          "text": "limited"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "acute ในบริบทนี้หมายถึงรุนแรงและต้องแก้ไขเร่งด่วน จึงใกล้กับ severe",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "acute"
+      ]
+    },
+    {
+      "id": "synonyms-30-q02",
+      "prompt": "The reviewers considered the sample **adequate** for an exploratory study, though not for a national comparison.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "restricted"
+        },
+        {
+          "id": "B",
+          "text": "estimated"
+        },
+        {
+          "id": "C",
+          "text": "negligible"
+        },
+        {
+          "id": "D",
+          "text": "sufficient"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "adequate หมายถึงมีปริมาณหรือคุณภาพเพียงพอ จึงใกล้กับ sufficient",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "adequate"
+      ]
+    },
+    {
+      "id": "synonyms-30-q03",
+      "prompt": "The two regulatory systems are broadly **analogous**, despite important differences in how complaints are investigated.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "independent"
+        },
+        {
+          "id": "B",
+          "text": "opposed"
+        },
+        {
+          "id": "C",
+          "text": "comparable"
+        },
+        {
+          "id": "D",
+          "text": "conclusive"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "analogous หมายถึงคล้ายกันในแง่ที่นำมาเปรียบเทียบได้ จึงใกล้กับ comparable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "analogous"
+      ]
+    },
+    {
+      "id": "synonyms-30-q04",
+      "prompt": "The **apparent** improvement disappeared once the researchers adjusted the results for age and prior experience.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "inherent"
+        },
+        {
+          "id": "B",
+          "text": "simultaneous"
+        },
+        {
+          "id": "C",
+          "text": "intentional"
+        },
+        {
+          "id": "D",
+          "text": "seeming"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "apparent ในที่นี้หมายถึงสิ่งที่ดูเหมือนเป็นจริงแต่อาจไม่ใช่ จึงใกล้กับ seeming",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "apparent"
+      ]
+    },
+    {
+      "id": "synonyms-30-q05",
+      "prompt": "During the hearing, the student representative gave an **articulate** account of the problems affecting part-time learners.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "impartial"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "eloquent"
+        },
+        {
+          "id": "D",
+          "text": "accumulated"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "articulate หมายถึงสื่อสารความคิดได้ชัดเจน จึงใกล้กับ eloquent",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "articulate"
+      ]
+    },
+    {
+      "id": "synonyms-30-q06",
+      "prompt": "The final review was **comprehensive**, covering financial controls, staff training, data security, and student welfare.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "selective"
+        },
+        {
+          "id": "B",
+          "text": "thorough"
+        },
+        {
+          "id": "C",
+          "text": "estimated"
+        },
+        {
+          "id": "D",
+          "text": "concurrent"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "comprehensive หมายถึงครอบคลุมทุกส่วนสำคัญ จึงใกล้กับ thorough",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "comprehensive"
+      ]
+    },
+    {
+      "id": "synonyms-30-q07",
+      "prompt": "Because the two investigations were **concurrent**, witnesses sometimes received requests for the same documents on the same day.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "successive"
+        },
+        {
+          "id": "B",
+          "text": "independent"
+        },
+        {
+          "id": "C",
+          "text": "restricted"
+        },
+        {
+          "id": "D",
+          "text": "simultaneous"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "concurrent หมายถึงเกิดขึ้นในช่วงเวลาเดียวกัน จึงใกล้กับ simultaneous",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "concurrent"
+      ]
+    },
+    {
+      "id": "synonyms-30-q08",
+      "prompt": "The **cumulative** effect of several minor delays eventually forced the research team to revise its publication schedule.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "accumulated"
+        },
+        {
+          "id": "B",
+          "text": "negligible"
+        },
+        {
+          "id": "C",
+          "text": "immediate"
+        },
+        {
+          "id": "D",
+          "text": "isolated"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "cumulative หมายถึงเพิ่มขึ้นจากการสะสมหลายส่วนตามเวลา จึงใกล้กับ accumulated",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "cumulative"
+      ]
+    },
+    {
+      "id": "synonyms-30-q09",
+      "prompt": "The omission was **deliberate**, according to emails showing that senior managers had discussed excluding the figures.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "observational"
+        },
+        {
+          "id": "B",
+          "text": "evident"
+        },
+        {
+          "id": "C",
+          "text": "intentional"
+        },
+        {
+          "id": "D",
+          "text": "unavoidable"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "deliberate หมายถึงทำโดยตั้งใจ จึงใกล้กับ intentional",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "deliberate"
+      ]
+    },
+    {
+      "id": "synonyms-30-q10",
+      "prompt": "The report relies mainly on **empirical** evidence gathered through interviews, observations, and controlled trials.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "logical"
+        },
+        {
+          "id": "B",
+          "text": "persuasive"
+        },
+        {
+          "id": "C",
+          "text": "inherent"
+        },
+        {
+          "id": "D",
+          "text": "observational"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "empirical หมายถึงอิงข้อมูลจากการสังเกตหรือทดลองจริง จึงใกล้กับ observational",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "empirical"
+      ]
+    },
+    {
+      "id": "synonyms-30-q11",
+      "prompt": "It became **evident** during the second round of interviews that participants had interpreted the question differently.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "restricted"
+        },
+        {
+          "id": "B",
+          "text": "comparable"
+        },
+        {
+          "id": "C",
+          "text": "intentional"
+        },
+        {
+          "id": "D",
+          "text": "obvious"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "evident หมายถึงเห็นได้ชัดจากหลักฐาน จึงใกล้กับ obvious",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "evident"
+      ]
+    },
+    {
+      "id": "synonyms-30-q12",
+      "prompt": "The consent form gives **explicit** instructions about how participants may withdraw their personal information.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "selective"
+        },
+        {
+          "id": "B",
+          "text": "unambiguous"
+        },
+        {
+          "id": "C",
+          "text": "estimated"
+        },
+        {
+          "id": "D",
+          "text": "simultaneous"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "explicit หมายถึงกล่าวไว้อย่างชัดเจนและตรงไปตรงมา จึงใกล้กับ unambiguous",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "explicit"
+      ]
+    },
+    {
+      "id": "synonyms-30-q13",
+      "prompt": "Trust is **fundamental** to any mentoring programme in which students are expected to discuss personal difficulties.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "considerable"
+        },
+        {
+          "id": "B",
+          "text": "observational"
+        },
+        {
+          "id": "C",
+          "text": "essential"
+        },
+        {
+          "id": "D",
+          "text": "conclusive"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "fundamental หมายถึงเป็นส่วนสำคัญพื้นฐาน จึงใกล้กับ essential",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "fundamental"
+      ]
+    },
+    {
+      "id": "synonyms-30-q14",
+      "prompt": "Some uncertainty is **intrinsic** to forecasting because future conditions cannot be observed directly.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "impartial"
+        },
+        {
+          "id": "B",
+          "text": "inherent"
+        },
+        {
+          "id": "C",
+          "text": "accumulated"
+        },
+        {
+          "id": "D",
+          "text": "evident"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "intrinsic หมายถึงเป็นคุณสมบัติที่มีอยู่ในสิ่งนั้นโดยธรรมชาติ จึงใกล้กับ inherent",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "intrinsic"
+      ]
+    },
+    {
+      "id": "synonyms-30-q15",
+      "prompt": "The selection panel appointed an **objective** assessor who had no previous connection with any candidate.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "impartial"
+        },
+        {
+          "id": "B",
+          "text": "intentional"
+        },
+        {
+          "id": "C",
+          "text": "dominant"
+        },
+        {
+          "id": "D",
+          "text": "restricted"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "objective หมายถึงเป็นกลางและไม่ถูกอคติส่วนตัวชี้นำ จึงใกล้กับ impartial",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "objective"
+      ]
+    },
+    {
+      "id": "synonyms-30-q16",
+      "prompt": "Cost was the **predominant** concern in the survey, although respondents also mentioned reliability and accessibility.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "dominant"
+        },
+        {
+          "id": "B",
+          "text": "negligible"
+        },
+        {
+          "id": "C",
+          "text": "simultaneous"
+        },
+        {
+          "id": "D",
+          "text": "comparable"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "predominant หมายถึงสำคัญหรือพบมากกว่าปัจจัยอื่น จึงใกล้กับ dominant",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "predominant"
+      ]
+    },
+    {
+      "id": "synonyms-30-q17",
+      "prompt": "The policy had a **profound** effect on rural schools, changing both staffing patterns and access to specialist courses.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "gradual"
+        },
+        {
+          "id": "B",
+          "text": "deep"
+        },
+        {
+          "id": "C",
+          "text": "selective"
+        },
+        {
+          "id": "D",
+          "text": "estimated"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "profound หมายถึงลึกซึ้งและมีผลอย่างมาก จึงใกล้กับ deep",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "profound"
+      ]
+    },
+    {
+      "id": "synonyms-30-q18",
+      "prompt": "The committee offered a **rational** explanation for prioritising safety improvements over cosmetic renovation.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "intentional"
+        },
+        {
+          "id": "B",
+          "text": "observational"
+        },
+        {
+          "id": "C",
+          "text": "logical"
+        },
+        {
+          "id": "D",
+          "text": "restricted"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "rational หมายถึงตั้งอยู่บนเหตุผล จึงใกล้กับ logical",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "rational"
+      ]
+    },
+    {
+      "id": "synonyms-30-q19",
+      "prompt": "The revised procedure represents a **significant** change in how allegations of research misconduct are assessed.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "consequential"
+        },
+        {
+          "id": "B",
+          "text": "negligible"
+        },
+        {
+          "id": "C",
+          "text": "simultaneous"
+        },
+        {
+          "id": "D",
+          "text": "inherent"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "significant หมายถึงสำคัญและมีผลตามมา จึงใกล้กับ consequential",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "significant"
+      ]
+    },
+    {
+      "id": "synonyms-30-q20",
+      "prompt": "The university made a **substantial** investment in digital archives, staff training, and secure data storage.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "considerable"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "estimated"
+        },
+        {
+          "id": "D",
+          "text": "selective"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "substantial หมายถึงมากหรือสำคัญในระดับสูง จึงใกล้กับ considerable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "substantial"
+      ]
+    }
+  ]
+}

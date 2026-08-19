@@ -1,0 +1,608 @@
+{
+  "id": "synonyms-33",
+  "type": "synonym",
+  "title": "Judgement and Response — Set 33",
+  "difficulty": "C1 Advanced",
+  "questions": [
+    {
+      "id": "synonyms-33-q01",
+      "prompt": "Completing the archive within six months is **attainable** if the project receives the staff already promised.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "unavoidable"
+        },
+        {
+          "id": "B",
+          "text": "negligible"
+        },
+        {
+          "id": "C",
+          "text": "opposed"
+        },
+        {
+          "id": "D",
+          "text": "achievable"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "attainable หมายถึงสามารถทำให้สำเร็จได้จริง จึงใกล้กับ achievable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "attainable"
+      ]
+    },
+    {
+      "id": "synonyms-33-q02",
+      "prompt": "The committee took a **cautious** approach, approving a limited pilot before committing funds nationally.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "antagonistic"
+        },
+        {
+          "id": "B",
+          "text": "prudent"
+        },
+        {
+          "id": "C",
+          "text": "developed"
+        },
+        {
+          "id": "D",
+          "text": "sustained"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "cautious หมายถึงรอบคอบเพื่อหลีกเลี่ยงความเสี่ยง จึงใกล้กับ prudent",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "cautious"
+      ]
+    },
+    {
+      "id": "synonyms-33-q03",
+      "prompt": "The adviser was **discreet** when discussing the complaint, revealing only the information needed to resolve it.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "exact"
+        },
+        {
+          "id": "B",
+          "text": "tactful"
+        },
+        {
+          "id": "C",
+          "text": "opposed"
+        },
+        {
+          "id": "D",
+          "text": "remarkable"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "discreet หมายถึงระมัดระวังคำพูดและการเปิดเผยข้อมูล จึงใกล้กับ tactful",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "discreet"
+      ]
+    },
+    {
+      "id": "synonyms-33-q04",
+      "prompt": "The framework is sufficiently **flexible** to accommodate both small colleges and large research universities.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "adaptable"
+        },
+        {
+          "id": "B",
+          "text": "antagonistic"
+        },
+        {
+          "id": "C",
+          "text": "unavoidable"
+        },
+        {
+          "id": "D",
+          "text": "negligible"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "flexible หมายถึงปรับให้เหมาะกับสถานการณ์ต่าง ๆ ได้ จึงใกล้กับ adaptable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "flexible"
+      ]
+    },
+    {
+      "id": "synonyms-33-q05",
+      "prompt": "Her **forthright** response acknowledged the department's mistakes without attempting to shift responsibility.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "candid"
+        },
+        {
+          "id": "B",
+          "text": "prudent"
+        },
+        {
+          "id": "C",
+          "text": "selective"
+        },
+        {
+          "id": "D",
+          "text": "sustained"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "forthright หมายถึงตรงไปตรงมาและไม่หลบเลี่ยง จึงใกล้กับ candid",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "forthright"
+      ]
+    },
+    {
+      "id": "synonyms-33-q06",
+      "prompt": "The proposal received a **hostile** response from residents who feared losing access to local services.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "open-minded"
+        },
+        {
+          "id": "B",
+          "text": "attentive"
+        },
+        {
+          "id": "C",
+          "text": "reasoned"
+        },
+        {
+          "id": "D",
+          "text": "antagonistic"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "hostile หมายถึงแสดงการต่อต้านหรือความไม่เป็นมิตร จึงใกล้กับ antagonistic",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "hostile"
+      ]
+    },
+    {
+      "id": "synonyms-33-q07",
+      "prompt": "Some disruption was **inevitable** once the archive began moving two million records to a new building.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "achievable"
+        },
+        {
+          "id": "B",
+          "text": "negligible"
+        },
+        {
+          "id": "C",
+          "text": "unavoidable"
+        },
+        {
+          "id": "D",
+          "text": "adaptable"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "inevitable หมายถึงไม่สามารถหลีกเลี่ยงได้ จึงใกล้กับ unavoidable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "inevitable"
+      ]
+    },
+    {
+      "id": "synonyms-33-q08",
+      "prompt": "Regular feedback is **integral** to the programme because participants revise their projects throughout the year.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "selective"
+        },
+        {
+          "id": "B",
+          "text": "opposed"
+        },
+        {
+          "id": "C",
+          "text": "developed"
+        },
+        {
+          "id": "D",
+          "text": "central"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "integral หมายถึงเป็นส่วนสำคัญที่ขาดไม่ได้ จึงใกล้กับ central",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "integral"
+      ]
+    },
+    {
+      "id": "synonyms-33-q09",
+      "prompt": "The researchers faced **intense** pressure to publish before they had completed the final checks.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "negligible"
+        },
+        {
+          "id": "B",
+          "text": "tactful"
+        },
+        {
+          "id": "C",
+          "text": "open-minded"
+        },
+        {
+          "id": "D",
+          "text": "extreme"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "intense หมายถึงรุนแรงหรืออยู่ในระดับสูงมาก จึงใกล้กับ extreme",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "intense"
+      ]
+    },
+    {
+      "id": "synonyms-33-q10",
+      "prompt": "The recommendation is **logical** because it follows directly from the risks identified in the audit.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "antagonistic"
+        },
+        {
+          "id": "B",
+          "text": "selective"
+        },
+        {
+          "id": "C",
+          "text": "reasoned"
+        },
+        {
+          "id": "D",
+          "text": "sustained"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "logical หมายถึงตั้งอยู่บนเหตุผลที่เชื่อมโยงกัน จึงใกล้กับ reasoned",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "logical"
+      ]
+    },
+    {
+      "id": "synonyms-33-q11",
+      "prompt": "After ten years of testing, the technology is now **mature** enough for routine clinical use.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "achievable"
+        },
+        {
+          "id": "B",
+          "text": "developed"
+        },
+        {
+          "id": "C",
+          "text": "opposed"
+        },
+        {
+          "id": "D",
+          "text": "negligible"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "mature หมายถึงพัฒนาเต็มที่และพร้อมใช้งาน จึงใกล้กับ developed",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "mature"
+      ]
+    },
+    {
+      "id": "synonyms-33-q12",
+      "prompt": "The change had a **minimal** effect on overall costs because only one small department was affected.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "remarkable"
+        },
+        {
+          "id": "B",
+          "text": "sustained"
+        },
+        {
+          "id": "C",
+          "text": "extreme"
+        },
+        {
+          "id": "D",
+          "text": "negligible"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "minimal หมายถึงเล็กน้อยจนแทบไม่มีผล จึงใกล้กับ negligible",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "minimal"
+      ]
+    },
+    {
+      "id": "synonyms-33-q13",
+      "prompt": "The study is **notable** for including participants who are often absent from national surveys.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "remarkable"
+        },
+        {
+          "id": "B",
+          "text": "selective"
+        },
+        {
+          "id": "C",
+          "text": "opposed"
+        },
+        {
+          "id": "D",
+          "text": "exact"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "notable หมายถึงโดดเด่นและควรได้รับความสนใจ จึงใกล้กับ remarkable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "notable"
+      ]
+    },
+    {
+      "id": "synonyms-33-q14",
+      "prompt": "The reviewer's **perceptive** comments identified a weakness that none of the original authors had noticed.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "insightful"
+        },
+        {
+          "id": "B",
+          "text": "tactful"
+        },
+        {
+          "id": "C",
+          "text": "unavoidable"
+        },
+        {
+          "id": "D",
+          "text": "developed"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "perceptive หมายถึงเข้าใจและสังเกตประเด็นสำคัญได้ดี จึงใกล้กับ insightful",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "perceptive"
+      ]
+    },
+    {
+      "id": "synonyms-33-q15",
+      "prompt": "A **persistent** difference between the two groups remained even after the researchers controlled for income.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "negligible"
+        },
+        {
+          "id": "B",
+          "text": "sustained"
+        },
+        {
+          "id": "C",
+          "text": "adaptable"
+        },
+        {
+          "id": "D",
+          "text": "reasoned"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "persistent หมายถึงดำรงอยู่ต่อเนื่องและไม่หายไปง่าย ๆ จึงใกล้กับ sustained",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "persistent"
+      ]
+    },
+    {
+      "id": "synonyms-33-q16",
+      "prompt": "The protocol gives **precise** instructions about when samples must be collected, labelled, and refrigerated.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "selective"
+        },
+        {
+          "id": "B",
+          "text": "antagonistic"
+        },
+        {
+          "id": "C",
+          "text": "exact"
+        },
+        {
+          "id": "D",
+          "text": "achievable"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "precise หมายถึงแม่นยำและระบุรายละเอียดชัดเจน จึงใกล้กับ exact",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "precise"
+      ]
+    },
+    {
+      "id": "synonyms-33-q17",
+      "prompt": "Senior managers were surprisingly **receptive** to proposals submitted by recently appointed staff.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "opposed"
+        },
+        {
+          "id": "B",
+          "text": "extreme"
+        },
+        {
+          "id": "C",
+          "text": "open-minded"
+        },
+        {
+          "id": "D",
+          "text": "sustained"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "receptive หมายถึงพร้อมรับฟังหรือพิจารณาแนวคิดใหม่ จึงใกล้กับ open-minded",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "receptive"
+      ]
+    },
+    {
+      "id": "synonyms-33-q18",
+      "prompt": "Several departments remained **resistant** to the common reporting system because they feared losing local control.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "attentive"
+        },
+        {
+          "id": "B",
+          "text": "opposed"
+        },
+        {
+          "id": "C",
+          "text": "adaptable"
+        },
+        {
+          "id": "D",
+          "text": "remarkable"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "resistant หมายถึงต่อต้านหรือไม่เต็มใจยอมรับการเปลี่ยนแปลง จึงใกล้กับ opposed",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "resistant"
+      ]
+    },
+    {
+      "id": "synonyms-33-q19",
+      "prompt": "The support team was highly **responsive**, answering urgent questions within an hour throughout the enrolment period.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "attentive"
+        },
+        {
+          "id": "B",
+          "text": "selective"
+        },
+        {
+          "id": "C",
+          "text": "unavoidable"
+        },
+        {
+          "id": "D",
+          "text": "extreme"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "responsive หมายถึงเอาใจใส่และตอบสนองอย่างรวดเร็ว จึงใกล้กับ attentive",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "responsive"
+      ]
+    },
+    {
+      "id": "synonyms-33-q20",
+      "prompt": "The journal is **selective**, accepting only a small proportion of papers after detailed peer review.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "open-minded"
+        },
+        {
+          "id": "B",
+          "text": "sustained"
+        },
+        {
+          "id": "C",
+          "text": "discriminating"
+        },
+        {
+          "id": "D",
+          "text": "achievable"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "selective หมายถึงเลือกอย่างพิจารณาและรับเพียงบางส่วน จึงใกล้กับ discriminating",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "selective"
+      ]
+    }
+  ]
+}

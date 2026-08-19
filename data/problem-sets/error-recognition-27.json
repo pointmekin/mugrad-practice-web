@@ -1,0 +1,1230 @@
+{
+  "id": "error-recognition-27",
+  "type": "error-recognition",
+  "title": "C1 Grammar Diagnostics — Set 27",
+  "difficulty": "C1 Advanced",
+  "questions": [
+    {
+      "id": "error-recognition-27-q01",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Over the ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "past eighteen months",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", the research team has expanded into ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "twelve provinces",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "completed interviews",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " with more than six hundred participants, and established partnerships with ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "three universities",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "has completed interviews",
+      "explanationTh": "over the past eighteen months เชื่อมถึงปัจจุบัน จึงใช้ present perfect",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tense",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q02",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The proportion of applicants receiving financial assistance ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "have declined",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " steadily over the past decade, even though the number of applications from ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "low-income families",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " has risen in ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "every region",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " except the ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "capital district",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "has declined",
+      "explanationTh": "ประธานคือ proportion เอกพจน์ จึงใช้ has declined",
+      "grammarTopicIds": [
+        "subject-verb-agreement"
+      ],
+      "tags": [
+        "agreement",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q03",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The safeguards appear ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "appropriate for",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " routine surveys and ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "sufficiently detailed",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " for experienced researchers but ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "wholly inadequately",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " for high-risk studies involving vulnerable participants or ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "sensitive records",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "wholly inadequate",
+      "explanationTh": "appear เป็น linking verb จึงตามด้วย adjective inadequate",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "adjective",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q04",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Although the original complaint concerned recruitment, the ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "new evidence bears",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "with the allegation",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " that officials manipulated performance figures, concealed internal warnings, and misled the ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "oversight committee",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " during the ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "annual review",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "on the allegation",
+      "explanationTh": "collocation คือ bear on หมายถึงเกี่ยวข้องกับ",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "preposition",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q05",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "According to the evaluation, ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the updated guidance",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " is considerably clearer, more comprehensive, and easier for applicants to follow ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "without assistance",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " across each stage of the ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "selection process",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "as",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": " the former version.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "than",
+      "explanationTh": "comparative clearer/more comprehensive/easier ใช้ than",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparison",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q06",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The decision remains contingent on whether ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the partner institutions",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " can agree on ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "common standards",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", share the additional costs, and bring their existing procedures ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "into conformity",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "to",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": " the new regulations within six months.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "with",
+      "explanationTh": "collocation คือ bring something into conformity with a rule",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "preposition",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q07",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The amendment affects ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "all senior officials",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", including directors ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "appointed before",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " the merger and managers working abroad, ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "some of which",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " oversee departments with ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "substantial budgets",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": " and hundreds of employees.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "some of whom",
+      "explanationTh": "senior officials เป็นบุคคล จึงใช้ whom",
+      "grammarTopicIds": [
+        "relative-clauses"
+      ],
+      "tags": [
+        "relative-clause",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q08",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The new strategy involves ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "reducing delays",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to simplify forms",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", improving communication with candidates, and publishing clearer guidance in the ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "three languages",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " most widely used by ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "local applicants",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "simplifying forms",
+      "explanationTh": "รายการหลัง involves ต้องเป็น gerunds ขนานกัน",
+      "grammarTopicIds": [
+        "parallelism"
+      ],
+      "tags": [
+        "parallelism",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q09",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Although the authors acknowledged the unusually high attrition rate, ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "they failed",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " to account ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "for regional mobility",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "of",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " the seasonal work that caused many participants to leave, or for changes in ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "contact details",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "for",
+      "explanationTh": "collocation คือ account for",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "preposition",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q10",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "During its six-month inquiry, ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the panel received",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "written submissions",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "numerous testimony",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " from employees at every organisational level, and statements from ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "former executives",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": " and two external auditors.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "C",
+      "correction": "extensive testimony",
+      "explanationTh": "testimony เป็นนามนับไม่ได้ จึงไม่ใช้ numerous",
+      "grammarTopicIds": [
+        "articles",
+        "noun-forms"
+      ],
+      "tags": [
+        "countability",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q11",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "To ensure that no evidence was omitted, ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the tribunal required",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "the agency producing",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " all relevant correspondence, meeting notes, and financial records within ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "fourteen days",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " of receiving the ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "formal order",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "the agency to produce",
+      "explanationTh": "require + object + to-infinitive",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-pattern",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q12",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The independent review concluded that ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the agency",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " had ignored ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "repeated warnings",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", failed to investigate complaints that staff raised, and concealed documents that managers ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "knew existed",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " but ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "have never disclosed",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "had never disclosed",
+      "explanationTh": "การไม่เปิดเผยเกิดก่อน review concluded จึงใช้ past perfect",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tense",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q13",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Because the unpublished material could influence the jury, the disclosure was ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "prejudicial for",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " the defendant's right to receive a ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "fair hearing",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " before an ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "impartial judge",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " in the ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "criminal court",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "prejudicial to",
+      "explanationTh": "collocation คือ prejudicial to",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "preposition",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q14",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "After testing the rule against several borderline cases, the committee found the distinction ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "conceptually ambiguity",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", difficult to explain to ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "new staff",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", and impossible to apply with ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "reasonable consistency",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " across ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "regional offices",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "conceptually ambiguous",
+      "explanationTh": "หลัง adverb conceptually ต้องใช้ adjective ambiguous",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "adjective",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q15",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "The explanation ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "appeared convincing",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " initially but ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "remained superficial attractive",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " until reviewers examined the missing data, compared the two versions, and questioned the ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "statistical assumptions",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " behind the ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "final conclusion",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "remained superficially attractive",
+      "explanationTh": "attractive เป็น adjective จึงต้องขยายด้วย adverb superficially",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "adjective",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q16",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "By the end of the hearing, the principal witness ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "has been testifying",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " for nearly seven hours, had answered questions from three lawyers, and had reviewed ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "dozens of emails",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " without consulting ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "personal notes",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " or requesting a ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "formal break",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "had been testifying",
+      "explanationTh": "by the end และ for seven hours ใช้ past perfect continuous ไม่ใช่ present perfect continuous",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tense",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q17",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "When inspectors arrived without warning, ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "they discovered",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " that the contractor ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "conceals records",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " requested three weeks earlier, removed labels from several boxes, and disabled the ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "security cameras",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " near the ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "storage room",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "B",
+      "correction": "had concealed records",
+      "explanationTh": "การซ่อนเกิดก่อน inspectors arrived จึงใช้ past perfect",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tense",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q18",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Although the director denied authorising the transfer, ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "the signed form",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " showed that she had reviewed the amount, approved the recipient, and instructed the finance team ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "to process payment",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "before noon",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " despite ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "to know",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": " the risks.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "knowing",
+      "explanationTh": "despite เป็น preposition จึงตามด้วย gerund knowing",
+      "grammarTopicIds": [
+        "verb-patterns",
+        "prepositions"
+      ],
+      "tags": [
+        "verb-pattern",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q19",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Before the institution appointed her as mediator, she ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "has worked",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": " for several ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "public agencies",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": ", advised organisations operating under ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "strict regulation",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": ", and investigated disputes in several ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "European countries",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": ".",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "A",
+      "correction": "had worked",
+      "explanationTh": "งานเกิดก่อน appointed ซึ่งเป็นอดีต จึงใช้ past perfect",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tense",
+        "mixed-grammar",
+        "c1"
+      ]
+    },
+    {
+      "id": "error-recognition-27-q20",
+      "segments": [
+        {
+          "id": "x1",
+          "text": "Although the recommendations remain ",
+          "underlined": false
+        },
+        {
+          "id": "A",
+          "text": "politically contentious",
+          "underlined": true
+        },
+        {
+          "id": "x2",
+          "text": ", they are supported by the evidence and ",
+          "underlined": false
+        },
+        {
+          "id": "B",
+          "text": "practical to implement",
+          "underlined": true
+        },
+        {
+          "id": "x3",
+          "text": " across all regions, but they are not yet ",
+          "underlined": false
+        },
+        {
+          "id": "C",
+          "text": "administratively",
+          "underlined": true
+        },
+        {
+          "id": "x4",
+          "text": " ",
+          "underlined": false
+        },
+        {
+          "id": "D",
+          "text": "feasibility",
+          "underlined": true
+        },
+        {
+          "id": "x5",
+          "text": " under current rules.",
+          "underlined": false
+        }
+      ],
+      "correctSegmentId": "D",
+      "correction": "feasible",
+      "explanationTh": "หลัง are ต้องใช้ adjective feasible ไม่ใช่ noun feasibility",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "adjective",
+        "mixed-grammar",
+        "c1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,648 @@
+{
+  "id": "fill-in-27",
+  "type": "fill-in",
+  "title": "C1–C2 Form and Structure — Set 27",
+  "difficulty": "C1–C2 Advanced",
+  "questions": [
+    {
+      "id": "fill-in-27-q01",
+      "prompt": "The revised procedure offers greater procedural __ than its predecessor.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "transparent"
+        },
+        {
+          "id": "B",
+          "text": "transparently"
+        },
+        {
+          "id": "C",
+          "text": "transparency"
+        },
+        {
+          "id": "D",
+          "text": "transpire"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง greater procedural ต้องใช้คำนาม transparency",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q02",
+      "prompt": "The report was written with deliberate __ to avoid implicating individual staff members.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ambiguity"
+        },
+        {
+          "id": "B",
+          "text": "ambiguous"
+        },
+        {
+          "id": "C",
+          "text": "ambiguously"
+        },
+        {
+          "id": "D",
+          "text": "ambivalence"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง with deliberate ต้องใช้คำนาม ambiguity",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q03",
+      "prompt": "The chair dismissed the objection as legally __.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "irrelevance"
+        },
+        {
+          "id": "B",
+          "text": "irrelevant"
+        },
+        {
+          "id": "C",
+          "text": "irrelevantly"
+        },
+        {
+          "id": "D",
+          "text": "irrelative"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง as และ legally ต้องใช้ adjective irrelevant",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q04",
+      "prompt": "The evidence was presented selectively and therefore somewhat __.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "misleading"
+        },
+        {
+          "id": "B",
+          "text": "mislead"
+        },
+        {
+          "id": "C",
+          "text": "misled"
+        },
+        {
+          "id": "D",
+          "text": "misleadingly"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "บรรยาย evidence ซึ่งทำให้ผู้อื่นเข้าใจผิด จึงใช้ -ing adjective misleading",
+      "grammarTopicIds": [
+        "participles"
+      ],
+      "tags": [
+        "participles",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q05",
+      "prompt": "The inquiry highlighted the financial __ of relying on short-term grants.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "precarious"
+        },
+        {
+          "id": "B",
+          "text": "precariously"
+        },
+        {
+          "id": "C",
+          "text": "precaution"
+        },
+        {
+          "id": "D",
+          "text": "precariousness"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "หลัง financial ต้องใช้คำนามที่หมายถึงความไม่มั่นคง จึงใช้ precariousness",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q06",
+      "prompt": "Before the archive reopened, conservators __ every damaged volume.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "had catalogued"
+        },
+        {
+          "id": "B",
+          "text": "catalogued"
+        },
+        {
+          "id": "C",
+          "text": "were cataloguing"
+        },
+        {
+          "id": "D",
+          "text": "have catalogued"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "การจัดทำรายการเสร็จก่อน archive reopened จึงใช้ past perfect",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q07",
+      "prompt": "Seldom __ such a marked discrepancy between official and independently collected data.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "we observe"
+        },
+        {
+          "id": "B",
+          "text": "do we observe"
+        },
+        {
+          "id": "C",
+          "text": "we have observed"
+        },
+        {
+          "id": "D",
+          "text": "have we been observing"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "Seldom ขึ้นต้นประโยคต้อง inversion; ข้อความเป็นข้อสังเกตทั่วไปจึงใช้ do we observe",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q08",
+      "prompt": "The court ordered that the confidential annex __ from the published judgment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "is removed"
+        },
+        {
+          "id": "B",
+          "text": "be removed"
+        },
+        {
+          "id": "C",
+          "text": "was removed"
+        },
+        {
+          "id": "D",
+          "text": "would remove"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "order that ใช้ subjunctive; annex ถูกนำออกจึงใช้ be removed",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q09",
+      "prompt": "Not only __ the figures, but it also omitted the underlying assumptions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the report distorted"
+        },
+        {
+          "id": "B",
+          "text": "the report had distorted"
+        },
+        {
+          "id": "C",
+          "text": "had distorted the report"
+        },
+        {
+          "id": "D",
+          "text": "did the report distort"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "Not only ขึ้นต้นประโยคต้อง subject–auxiliary inversion: did the report distort",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q10",
+      "prompt": "__ by two independent experts, the translation was accepted as authoritative.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Verifying"
+        },
+        {
+          "id": "B",
+          "text": "Having verified"
+        },
+        {
+          "id": "C",
+          "text": "To verifying"
+        },
+        {
+          "id": "D",
+          "text": "Verified"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "translation เป็นสิ่งที่ถูกตรวจสอบ จึงใช้ past participle Verified",
+      "grammarTopicIds": [
+        "participles"
+      ],
+      "tags": [
+        "participles",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q11",
+      "prompt": "The revised code is predicated __ the assumption that all parties disclose conflicts.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "at"
+        },
+        {
+          "id": "B",
+          "text": "from"
+        },
+        {
+          "id": "C",
+          "text": "upon"
+        },
+        {
+          "id": "D",
+          "text": "beside"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "collocation คือ be predicated on/upon",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q12",
+      "prompt": "The memorandum is deliberately __ about who bears ultimate responsibility.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "noncommitment"
+        },
+        {
+          "id": "B",
+          "text": "noncommittal"
+        },
+        {
+          "id": "C",
+          "text": "noncommittally"
+        },
+        {
+          "id": "D",
+          "text": "noncommitted"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง is และ deliberately ต้องใช้ adjective noncommittal",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q13",
+      "prompt": "The committee underestimated the political __ of closing the regional offices.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "sensitivity"
+        },
+        {
+          "id": "B",
+          "text": "sensitive"
+        },
+        {
+          "id": "C",
+          "text": "sensitively"
+        },
+        {
+          "id": "D",
+          "text": "sensitise"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง political ต้องใช้คำนาม sensitivity",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q14",
+      "prompt": "The proposed distinction is analytically __ and cannot be applied consistently.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "sustain"
+        },
+        {
+          "id": "B",
+          "text": "sustainable"
+        },
+        {
+          "id": "C",
+          "text": "sustainably"
+        },
+        {
+          "id": "D",
+          "text": "unsustainable"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "หลัง is และ analytically ต้องใช้ adjective ที่สอดคล้องกับ cannot be applied คือ unsustainable",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q15",
+      "prompt": "The witness's sudden __ prompted the tribunal to adjourn.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "withdraw"
+        },
+        {
+          "id": "B",
+          "text": "withdrawn"
+        },
+        {
+          "id": "C",
+          "text": "withdrawal"
+        },
+        {
+          "id": "D",
+          "text": "withdraws"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง possessive witness's และ sudden ต้องใช้คำนาม withdrawal",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q16",
+      "prompt": "The records are thought __ before the statutory retention period expired.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to destroy"
+        },
+        {
+          "id": "B",
+          "text": "to be destroyed"
+        },
+        {
+          "id": "C",
+          "text": "to have been destroyed"
+        },
+        {
+          "id": "D",
+          "text": "to have destroyed"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "records ถูกทำลายในอดีตก่อนเวลาที่คิดในปัจจุบัน จึงใช้ perfect passive infinitive",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q17",
+      "prompt": "The department regrets __ applicants before the funding decision was final.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "having informed"
+        },
+        {
+          "id": "B",
+          "text": "to inform"
+        },
+        {
+          "id": "C",
+          "text": "informing"
+        },
+        {
+          "id": "D",
+          "text": "to have informed"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "เสียใจต่อการกระทำที่เกิดไปแล้ว จึงใช้ regret having informed",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q18",
+      "prompt": "The second explanation is every bit as plausible __ the first.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "than"
+        },
+        {
+          "id": "B",
+          "text": "like"
+        },
+        {
+          "id": "C",
+          "text": "as"
+        },
+        {
+          "id": "D",
+          "text": "to"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "โครงสร้างคือ every bit as + adjective + as",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q19",
+      "prompt": "The decision is tantamount __ abandoning the original commitment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "with"
+        },
+        {
+          "id": "B",
+          "text": "for"
+        },
+        {
+          "id": "C",
+          "text": "as"
+        },
+        {
+          "id": "D",
+          "text": "to"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "collocation คือ tantamount to และ to เป็น preposition จึงตามด้วย gerund",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-27-q20",
+      "prompt": "The investigators refrained from __ motives to the officials without evidence.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "attribute"
+        },
+        {
+          "id": "B",
+          "text": "attributing"
+        },
+        {
+          "id": "C",
+          "text": "attributed"
+        },
+        {
+          "id": "D",
+          "text": "having attribute"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "refrain from ตามด้วย gerund จึงใช้ attributing",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    }
+  ]
+}

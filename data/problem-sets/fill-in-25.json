@@ -1,0 +1,648 @@
+{
+  "id": "fill-in-25",
+  "type": "fill-in",
+  "title": "Nuanced Academic Forms — Set 25",
+  "difficulty": "C1–C2 Advanced",
+  "questions": [
+    {
+      "id": "fill-in-25-q01",
+      "prompt": "The committee questioned the empirical __ of the consultant's projections.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "validity"
+        },
+        {
+          "id": "B",
+          "text": "valid"
+        },
+        {
+          "id": "C",
+          "text": "validly"
+        },
+        {
+          "id": "D",
+          "text": "validate"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง empirical ต้องใช้คำนาม validity",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q02",
+      "prompt": "The spokesperson answered with calculated __ whenever the allegations were mentioned.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "evasive"
+        },
+        {
+          "id": "B",
+          "text": "evasively"
+        },
+        {
+          "id": "C",
+          "text": "evade"
+        },
+        {
+          "id": "D",
+          "text": "evasiveness"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "calculated ขยายคำนามที่เป็นลักษณะพฤติกรรม จึงใช้ evasiveness",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q03",
+      "prompt": "The researchers interpreted the anomalous result too __.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "literal"
+        },
+        {
+          "id": "B",
+          "text": "literality"
+        },
+        {
+          "id": "C",
+          "text": "literally"
+        },
+        {
+          "id": "D",
+          "text": "literalism"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "ขยายกริยา interpreted ต้องใช้ adverb literally",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q04",
+      "prompt": "The minister's account was internally __ and contradicted the documentary record.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "inconsistency"
+        },
+        {
+          "id": "B",
+          "text": "inconsistently"
+        },
+        {
+          "id": "C",
+          "text": "inconsistencies"
+        },
+        {
+          "id": "D",
+          "text": "inconsistent"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "หลัง was และถูกขยายด้วย internally ต้องใช้ adjective inconsistent",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q05",
+      "prompt": "Officials questioned the policy's practical __—whether it could be put into effect at all.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "implement"
+        },
+        {
+          "id": "B",
+          "text": "implementability"
+        },
+        {
+          "id": "C",
+          "text": "implementation"
+        },
+        {
+          "id": "D",
+          "text": "implementable"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "คำอธิบายหลัง dash ถามว่านโยบายนำไปใช้ได้หรือไม่ จึงใช้คำนาม implementability",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q06",
+      "prompt": "By next June, the longitudinal study __ participants for a full decade.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "will track"
+        },
+        {
+          "id": "B",
+          "text": "will have tracked"
+        },
+        {
+          "id": "C",
+          "text": "has been tracking"
+        },
+        {
+          "id": "D",
+          "text": "will have been tracking"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "by next June และ for a full decade เน้นระยะต่อเนื่องถึงอนาคต จึงใช้ future perfect continuous",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q07",
+      "prompt": "Only after the files were declassified __ the extent of the surveillance.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "did researchers understand"
+        },
+        {
+          "id": "B",
+          "text": "researchers understood"
+        },
+        {
+          "id": "C",
+          "text": "had researchers understood"
+        },
+        {
+          "id": "D",
+          "text": "researchers had understood"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "Only after ขึ้นต้นประโยคทำให้ main clause ต้อง inversion: did researchers understand",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q08",
+      "prompt": "The board recommended that no applicant __ solely on the basis of an automated score.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "is rejected"
+        },
+        {
+          "id": "B",
+          "text": "was rejected"
+        },
+        {
+          "id": "C",
+          "text": "be rejected"
+        },
+        {
+          "id": "D",
+          "text": "would be rejected"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "recommend that ใช้ subjunctive base form; passive คือ be rejected",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q09",
+      "prompt": "Not until the replication failed __ flaws in the original sampling procedure.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the team acknowledged"
+        },
+        {
+          "id": "B",
+          "text": "the team had acknowledged"
+        },
+        {
+          "id": "C",
+          "text": "did the team acknowledge"
+        },
+        {
+          "id": "D",
+          "text": "had the team been acknowledging"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "Not until ขึ้นต้นประโยคทำให้ main clause ต้อง inversion ด้วย did",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q10",
+      "prompt": "__ independently, the two reports nevertheless reached nearly identical conclusions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Conducting"
+        },
+        {
+          "id": "B",
+          "text": "Conducted"
+        },
+        {
+          "id": "C",
+          "text": "Having conducted"
+        },
+        {
+          "id": "D",
+          "text": "Being conducting"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "reports เป็นสิ่งที่ถูกดำเนินการ จึงใช้ past participle Conducted",
+      "grammarTopicIds": [
+        "participles"
+      ],
+      "tags": [
+        "participles",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q11",
+      "prompt": "The outcome was attributable __ several interacting institutional constraints.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "for"
+        },
+        {
+          "id": "B",
+          "text": "with"
+        },
+        {
+          "id": "C",
+          "text": "from"
+        },
+        {
+          "id": "D",
+          "text": "to"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "collocation คือ attributable to",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q12",
+      "prompt": "The witness gave an unusually __ account of the informal negotiations.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "detail"
+        },
+        {
+          "id": "B",
+          "text": "detailing"
+        },
+        {
+          "id": "C",
+          "text": "detailingly"
+        },
+        {
+          "id": "D",
+          "text": "detailed"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "ขยาย account ต้องใช้ adjective detailed",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q13",
+      "prompt": "The apparent __ between the two findings disappears under closer examination.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "contradiction"
+        },
+        {
+          "id": "B",
+          "text": "contradict"
+        },
+        {
+          "id": "C",
+          "text": "contradictory"
+        },
+        {
+          "id": "D",
+          "text": "contradictorily"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง apparent ต้องใช้คำนาม contradiction",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q14",
+      "prompt": "The guidelines were drafted with sufficient __ to accommodate exceptional cases.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "flexible"
+        },
+        {
+          "id": "B",
+          "text": "flexibility"
+        },
+        {
+          "id": "C",
+          "text": "flexibly"
+        },
+        {
+          "id": "D",
+          "text": "flexing"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "หลัง sufficient ต้องใช้คำนาม flexibility",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q15",
+      "prompt": "The revised estimate is considerably more __ than the figure released last month.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "defensible"
+        },
+        {
+          "id": "B",
+          "text": "defend"
+        },
+        {
+          "id": "C",
+          "text": "defensibly"
+        },
+        {
+          "id": "D",
+          "text": "defence"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง more ต้องใช้ adjective defensible",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q16",
+      "prompt": "The university appears __ the warning signs until the crisis became public.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to ignore"
+        },
+        {
+          "id": "B",
+          "text": "ignoring"
+        },
+        {
+          "id": "C",
+          "text": "to have ignored"
+        },
+        {
+          "id": "D",
+          "text": "to be ignored"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "การเพิกเฉยเกิดก่อน appears ในปัจจุบัน จึงใช้ perfect infinitive",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q17",
+      "prompt": "The agency denied __ confidential records to an external contractor.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to transfer"
+        },
+        {
+          "id": "B",
+          "text": "having transferred"
+        },
+        {
+          "id": "C",
+          "text": "to have transferred"
+        },
+        {
+          "id": "D",
+          "text": "being transferred"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "deny ตามด้วย gerund และเหตุการณ์เกิดก่อนการปฏิเสธ จึงใช้ having transferred",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q18",
+      "prompt": "The evidence was not so much inconclusive __ systematically misinterpreted.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "as"
+        },
+        {
+          "id": "B",
+          "text": "than"
+        },
+        {
+          "id": "C",
+          "text": "but"
+        },
+        {
+          "id": "D",
+          "text": "rather"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "โครงสร้างคือ not so much X as Y",
+      "grammarTopicIds": [
+        "comparatives"
+      ],
+      "tags": [
+        "comparatives",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q19",
+      "prompt": "The report is notable __ its careful distinction between correlation and causation.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "of"
+        },
+        {
+          "id": "B",
+          "text": "for"
+        },
+        {
+          "id": "C",
+          "text": "with"
+        },
+        {
+          "id": "D",
+          "text": "by"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "collocation คือ notable for",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-25-q20",
+      "prompt": "There is little prospect of the dispute __ without independent mediation.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "resolving"
+        },
+        {
+          "id": "B",
+          "text": "having resolved"
+        },
+        {
+          "id": "C",
+          "text": "being resolved"
+        },
+        {
+          "id": "D",
+          "text": "to be resolved"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง prospect of ใช้ gerund และ dispute ถูกแก้ไข จึงใช้ being resolved",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    }
+  ]
+}

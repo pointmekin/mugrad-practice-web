@@ -1,0 +1,608 @@
+{
+  "id": "synonyms-31",
+  "type": "synonym",
+  "title": "Academic Actions — Set 31",
+  "difficulty": "C1 Advanced",
+  "questions": [
+    {
+      "id": "synonyms-31-q01",
+      "prompt": "The database can **aggregate** information from several regional offices into a single national report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "omit"
+        },
+        {
+          "id": "B",
+          "text": "vary"
+        },
+        {
+          "id": "C",
+          "text": "cite"
+        },
+        {
+          "id": "D",
+          "text": "combine"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "aggregate หมายถึงรวบรวมหลายส่วนเข้าด้วยกัน จึงใกล้กับ combine",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "aggregate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q02",
+      "prompt": "The authors agreed to **alter** the conclusion after receiving stronger evidence from the follow-up study.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "establish"
+        },
+        {
+          "id": "B",
+          "text": "commence"
+        },
+        {
+          "id": "C",
+          "text": "portray"
+        },
+        {
+          "id": "D",
+          "text": "modify"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "alter หมายถึงปรับเปลี่ยนบางส่วน จึงใกล้กับ modify",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "alter"
+      ]
+    },
+    {
+      "id": "synonyms-31-q03",
+      "prompt": "The interview findings **contradict** the official claim that all applicants received identical guidance.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "signify"
+        },
+        {
+          "id": "B",
+          "text": "conflict"
+        },
+        {
+          "id": "C",
+          "text": "utilise"
+        },
+        {
+          "id": "D",
+          "text": "expand"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "contradict หมายถึงไม่สอดคล้องหรือขัดแย้งกับข้อกล่าวอ้าง จึงใกล้กับ conflict",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "contradict"
+      ]
+    },
+    {
+      "id": "synonyms-31-q04",
+      "prompt": "From the pattern of missing responses, the researchers could **deduce** that one section of the form was confusing.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "portray"
+        },
+        {
+          "id": "B",
+          "text": "omit"
+        },
+        {
+          "id": "C",
+          "text": "infer"
+        },
+        {
+          "id": "D",
+          "text": "commence"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "deduce หมายถึงสรุปโดยใช้เหตุผลจากหลักฐาน จึงใกล้กับ infer",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "deduce"
+      ]
+    },
+    {
+      "id": "synonyms-31-q05",
+      "prompt": "The repeated trials **demonstrate** that the revised procedure produces more consistent measurements.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "establish"
+        },
+        {
+          "id": "B",
+          "text": "misrepresent"
+        },
+        {
+          "id": "C",
+          "text": "diverge"
+        },
+        {
+          "id": "D",
+          "text": "cite"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "demonstrate หมายถึงแสดงให้เห็นอย่างน่าเชื่อถือ จึงใกล้กับ establish",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "demonstrate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q06",
+      "prompt": "In the chart, darker shading is used to **denote** districts with above-average participation.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "signify"
+        },
+        {
+          "id": "B",
+          "text": "evaluate"
+        },
+        {
+          "id": "C",
+          "text": "combine"
+        },
+        {
+          "id": "D",
+          "text": "omit"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "denote หมายถึงใช้แสดงหรือหมายถึงสิ่งหนึ่ง จึงใกล้กับ signify",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "denote"
+      ]
+    },
+    {
+      "id": "synonyms-31-q07",
+      "prompt": "The documentary attempts to **depict** daily life in communities affected by the new transport policy.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "modify"
+        },
+        {
+          "id": "B",
+          "text": "infer"
+        },
+        {
+          "id": "C",
+          "text": "utilise"
+        },
+        {
+          "id": "D",
+          "text": "portray"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "depict หมายถึงพรรณนาหรือนำเสนอภาพของสิ่งหนึ่ง จึงใกล้กับ portray",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "depict"
+      ]
+    },
+    {
+      "id": "synonyms-31-q08",
+      "prompt": "Routine checks failed to **detect** the error because it appeared only when two systems exchanged data.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "formulate"
+        },
+        {
+          "id": "B",
+          "text": "identify"
+        },
+        {
+          "id": "C",
+          "text": "vary"
+        },
+        {
+          "id": "D",
+          "text": "cite"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "detect หมายถึงค้นพบหรือสังเกตเห็นสิ่งที่ซ่อนอยู่ จึงใกล้กับ identify",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "detect"
+      ]
+    },
+    {
+      "id": "synonyms-31-q09",
+      "prompt": "Results from the final site **deviate** noticeably from the pattern observed in the other four locations.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "diverge"
+        },
+        {
+          "id": "B",
+          "text": "combine"
+        },
+        {
+          "id": "C",
+          "text": "establish"
+        },
+        {
+          "id": "D",
+          "text": "commence"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "deviate หมายถึงเบี่ยงออกหรือแตกต่างจากแนวทั่วไป จึงใกล้กับ diverge",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "deviate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q10",
+      "prompt": "The working group was asked to **devise** a fair method for distributing the limited research funds.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "omit"
+        },
+        {
+          "id": "B",
+          "text": "formulate"
+        },
+        {
+          "id": "C",
+          "text": "vary"
+        },
+        {
+          "id": "D",
+          "text": "portray"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "devise หมายถึงคิดและสร้างแผนหรือวิธีการ จึงใกล้กับ formulate",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "devise"
+      ]
+    },
+    {
+      "id": "synonyms-31-q11",
+      "prompt": "Presenting percentages without the underlying totals can **distort** how readers understand the findings.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "assess"
+        },
+        {
+          "id": "B",
+          "text": "commence"
+        },
+        {
+          "id": "C",
+          "text": "cite"
+        },
+        {
+          "id": "D",
+          "text": "misrepresent"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "distort หมายถึงนำเสนอจนทำให้ความจริงผิดไป จึงใกล้กับ misrepresent",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "distort"
+      ]
+    },
+    {
+      "id": "synonyms-31-q12",
+      "prompt": "The authors were asked to **elaborate** on how local conditions might have influenced the results.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "expand"
+        },
+        {
+          "id": "B",
+          "text": "omit"
+        },
+        {
+          "id": "C",
+          "text": "identify"
+        },
+        {
+          "id": "D",
+          "text": "combine"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "elaborate หมายถึงให้รายละเอียดเพิ่มเติม จึงใกล้กับ expand",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "elaborate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q13",
+      "prompt": "The scholarship aims to **elevate** participation among students who have traditionally been underrepresented.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "vary"
+        },
+        {
+          "id": "B",
+          "text": "portray"
+        },
+        {
+          "id": "C",
+          "text": "raise"
+        },
+        {
+          "id": "D",
+          "text": "cite"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "elevate หมายถึงเพิ่มระดับของสิ่งหนึ่ง จึงใกล้กับ raise",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "elevate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q14",
+      "prompt": "Additional training should **enhance** the consistency of decisions made across different regional offices.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "misrepresent"
+        },
+        {
+          "id": "B",
+          "text": "omit"
+        },
+        {
+          "id": "C",
+          "text": "diverge"
+        },
+        {
+          "id": "D",
+          "text": "strengthen"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "enhance หมายถึงปรับปรุงให้มีคุณภาพหรือประสิทธิภาพสูงขึ้น จึงใกล้กับ strengthen",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "enhance"
+      ]
+    },
+    {
+      "id": "synonyms-31-q15",
+      "prompt": "Independent specialists will **evaluate** whether the programme delivered the benefits promised in its proposal.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "commence"
+        },
+        {
+          "id": "B",
+          "text": "combine"
+        },
+        {
+          "id": "C",
+          "text": "assess"
+        },
+        {
+          "id": "D",
+          "text": "portray"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "evaluate หมายถึงประเมินคุณภาพหรือผลลัพธ์อย่างเป็นระบบ จึงใกล้กับ assess",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "evaluate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q16",
+      "prompt": "The review had to **exclude** responses submitted after the deadline because those participants saw the revised instructions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "establish"
+        },
+        {
+          "id": "B",
+          "text": "modify"
+        },
+        {
+          "id": "C",
+          "text": "omit"
+        },
+        {
+          "id": "D",
+          "text": "cite"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "exclude หมายถึงไม่นำบางสิ่งมารวมในการพิจารณา จึงใกล้กับ omit",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "exclude"
+      ]
+    },
+    {
+      "id": "synonyms-31-q17",
+      "prompt": "The project will **exploit** existing satellite records rather than commission an entirely new survey.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "misrepresent"
+        },
+        {
+          "id": "B",
+          "text": "utilise"
+        },
+        {
+          "id": "C",
+          "text": "formulate"
+        },
+        {
+          "id": "D",
+          "text": "commence"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "exploit ในบริบทนี้หมายถึงนำทรัพยากรที่มีอยู่มาใช้ให้เกิดประโยชน์ จึงใกล้กับ utilise",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "exploit"
+      ]
+    },
+    {
+      "id": "synonyms-31-q18",
+      "prompt": "Attendance tends to **fluctuate** during examination periods, making weekly comparisons unreliable.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "vary"
+        },
+        {
+          "id": "B",
+          "text": "establish"
+        },
+        {
+          "id": "C",
+          "text": "expand"
+        },
+        {
+          "id": "D",
+          "text": "omit"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "fluctuate หมายถึงเปลี่ยนแปลงขึ้นลงอย่างไม่คงที่ จึงใกล้กับ vary",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "fluctuate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q19",
+      "prompt": "The formal investigation will **initiate** interviews only after all participants receive written information about confidentiality.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "infer"
+        },
+        {
+          "id": "B",
+          "text": "commence"
+        },
+        {
+          "id": "C",
+          "text": "combine"
+        },
+        {
+          "id": "D",
+          "text": "portray"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "initiate หมายถึงเริ่มกระบวนการอย่างเป็นทางการ จึงใกล้กับ commence",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "initiate"
+      ]
+    },
+    {
+      "id": "synonyms-31-q20",
+      "prompt": "The report **invokes** the principle of equal treatment to support its recommendation for a common admissions standard.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "modify"
+        },
+        {
+          "id": "B",
+          "text": "diverge"
+        },
+        {
+          "id": "C",
+          "text": "cites"
+        },
+        {
+          "id": "D",
+          "text": "identify"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "invokes หมายถึงอ้างหลักการเพื่อสนับสนุนเหตุผล จึงใกล้กับ cites",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "invokes"
+      ]
+    }
+  ]
+}

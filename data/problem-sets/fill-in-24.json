@@ -1,0 +1,648 @@
+{
+  "id": "fill-in-24",
+  "type": "fill-in",
+  "title": "Advanced Word Formation — Set 24",
+  "difficulty": "C1–C2 Advanced",
+  "questions": [
+    {
+      "id": "fill-in-24-q01",
+      "prompt": "The review praised the analytical __ of the revised framework.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "robust"
+        },
+        {
+          "id": "B",
+          "text": "robustly"
+        },
+        {
+          "id": "C",
+          "text": "robustness"
+        },
+        {
+          "id": "D",
+          "text": "robustify"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง analytical ต้องใช้คำนาม จึงใช้ robustness",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q02",
+      "prompt": "The chair responded to the hostile questions with remarkable __.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "equanimous"
+        },
+        {
+          "id": "B",
+          "text": "equanimously"
+        },
+        {
+          "id": "C",
+          "text": "equanimity"
+        },
+        {
+          "id": "D",
+          "text": "equanimise"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง with remarkable ต้องใช้คำนาม จึงใช้ equanimity",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q03",
+      "prompt": "The two independently collected datasets were __ consistent.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "remark"
+        },
+        {
+          "id": "B",
+          "text": "remarkably"
+        },
+        {
+          "id": "C",
+          "text": "remarkable"
+        },
+        {
+          "id": "D",
+          "text": "remarked"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "consistent เป็น adjective จึงต้องขยายด้วย adverb remarkably",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q04",
+      "prompt": "The taxonomy relies on a __ distinction between temporary and structural causes.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "conceptually"
+        },
+        {
+          "id": "B",
+          "text": "conceptualise"
+        },
+        {
+          "id": "C",
+          "text": "conceptualisation"
+        },
+        {
+          "id": "D",
+          "text": "conceptual"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "distinction ต้องขยายด้วย adjective conceptual",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q05",
+      "prompt": "The argument rests on several unexamined __ about rational behaviour.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "presuppose"
+        },
+        {
+          "id": "B",
+          "text": "presupposed"
+        },
+        {
+          "id": "C",
+          "text": "presuppositions"
+        },
+        {
+          "id": "D",
+          "text": "presupposing"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หลัง several unexamined ต้องใช้คำนามพหูพจน์ presuppositions",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q06",
+      "prompt": "Since the anomaly was first detected, the laboratory __ the readings continuously.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "has been monitoring"
+        },
+        {
+          "id": "B",
+          "text": "monitored"
+        },
+        {
+          "id": "C",
+          "text": "has monitored"
+        },
+        {
+          "id": "D",
+          "text": "had been monitoring"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "since และ continuously เน้นกิจกรรมต่อเนื่องจากอดีตถึงปัจจุบัน จึงใช้ present perfect continuous",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q07",
+      "prompt": "No sooner __ the preliminary figures than journalists began requesting interviews.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "had the agency released"
+        },
+        {
+          "id": "B",
+          "text": "the agency released"
+        },
+        {
+          "id": "C",
+          "text": "the agency had released"
+        },
+        {
+          "id": "D",
+          "text": "did the agency release"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "No sooner ขึ้นต้นประโยคใช้ inversion: had + subject + past participle",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q08",
+      "prompt": "The ethics board demanded that the raw recordings __ securely.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "are stored"
+        },
+        {
+          "id": "B",
+          "text": "be stored"
+        },
+        {
+          "id": "C",
+          "text": "were stored"
+        },
+        {
+          "id": "D",
+          "text": "being stored"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "demand that ใช้ subjunctive base form และ passive เป็น be stored",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q09",
+      "prompt": "Rarely __ such a comprehensive account of the negotiations.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "historians encounter"
+        },
+        {
+          "id": "B",
+          "text": "have historians encountered"
+        },
+        {
+          "id": "C",
+          "text": "do historians encounter"
+        },
+        {
+          "id": "D",
+          "text": "historians have encountered"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "Rarely ขึ้นต้นประโยคต้อง inversion และบริบทกล่าวถึงประสบการณ์ถึงปัจจุบัน จึงใช้ have historians encountered",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q10",
+      "prompt": "__ access to the primary archive, the biographer relied on published correspondence.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Denying"
+        },
+        {
+          "id": "B",
+          "text": "Denied"
+        },
+        {
+          "id": "C",
+          "text": "Having denied"
+        },
+        {
+          "id": "D",
+          "text": "Having been denied"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "ผู้เขียนชีวประวัติเป็นผู้ถูกปฏิเสธ และเหตุการณ์เกิดก่อนการพึ่งจดหมาย จึงใช้ Having been denied",
+      "grammarTopicIds": [
+        "participles"
+      ],
+      "tags": [
+        "participles",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q11",
+      "prompt": "The agreement remained legally binding, __ the change of government.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "whereas"
+        },
+        {
+          "id": "B",
+          "text": "albeit"
+        },
+        {
+          "id": "C",
+          "text": "notwithstanding"
+        },
+        {
+          "id": "D",
+          "text": "inasmuch as"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "หน้าคำนามวลี the change of government ใช้ preposition notwithstanding",
+      "grammarTopicIds": [
+        "prepositions"
+      ],
+      "tags": [
+        "prepositions",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q12",
+      "prompt": "The sampling procedure was criticised as methodologically __.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "indefensibly"
+        },
+        {
+          "id": "B",
+          "text": "indefensibility"
+        },
+        {
+          "id": "C",
+          "text": "undefended"
+        },
+        {
+          "id": "D",
+          "text": "indefensible"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "หลัง was criticised as และถูกขยายด้วย methodologically ต้องใช้ adjective indefensible",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q13",
+      "prompt": "The apparent __ of the explanation diminished once the omitted evidence emerged.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "plausibility"
+        },
+        {
+          "id": "B",
+          "text": "plausible"
+        },
+        {
+          "id": "C",
+          "text": "plausibly"
+        },
+        {
+          "id": "D",
+          "text": "plausibleness"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง The apparent ต้องใช้คำนาม plausibility",
+      "grammarTopicIds": [
+        "noun-forms"
+      ],
+      "tags": [
+        "noun-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q14",
+      "prompt": "The report had __ overstated the reliability of the initial estimates.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "inadvertence"
+        },
+        {
+          "id": "B",
+          "text": "inadvertently"
+        },
+        {
+          "id": "C",
+          "text": "inadvertent"
+        },
+        {
+          "id": "D",
+          "text": "inadverted"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "ขยายกริยา had overstated ต้องใช้ adverb inadvertently",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q15",
+      "prompt": "The tribunal found the residency requirement indirectly __.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "discriminatory"
+        },
+        {
+          "id": "B",
+          "text": "discriminate"
+        },
+        {
+          "id": "C",
+          "text": "discriminating"
+        },
+        {
+          "id": "D",
+          "text": "discrimination"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "หลัง found + object ต้องใช้ adjective complement discriminatory",
+      "grammarTopicIds": [
+        "word-forms"
+      ],
+      "tags": [
+        "word-forms",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q16",
+      "prompt": "The director would rather researchers __ uncertainties than conceal them.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "disclose"
+        },
+        {
+          "id": "B",
+          "text": "had disclosed"
+        },
+        {
+          "id": "C",
+          "text": "disclosing"
+        },
+        {
+          "id": "D",
+          "text": "disclosed"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "would rather + different subject ใช้ past simple เพื่อกล่าวถึงความต้องการในปัจจุบัน",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q17",
+      "prompt": "The archive __ the correspondence; the restriction was lifted before the deadline.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "need not withhold"
+        },
+        {
+          "id": "B",
+          "text": "must not have withheld"
+        },
+        {
+          "id": "C",
+          "text": "need not have withheld"
+        },
+        {
+          "id": "D",
+          "text": "would not withhold"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "กล่าวถึงการกระทำในอดีตที่เกิดขึ้นแต่ไม่จำเป็น จึงใช้ need not have withheld",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q18",
+      "prompt": "The discrepancy is believed __ from an error in the original coding scheme.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to originate"
+        },
+        {
+          "id": "B",
+          "text": "to have originated"
+        },
+        {
+          "id": "C",
+          "text": "originating"
+        },
+        {
+          "id": "D",
+          "text": "to be originated"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "ความผิดพลาดเกิดก่อนเวลาที่เชื่อในปัจจุบัน จึงใช้ perfect infinitive to have originated",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q19",
+      "prompt": "Scarcely __ the consultation closed when two major stakeholders withdrew.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "had the consultation"
+        },
+        {
+          "id": "B",
+          "text": "the consultation had"
+        },
+        {
+          "id": "C",
+          "text": "did the consultation"
+        },
+        {
+          "id": "D",
+          "text": "has the consultation"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "Scarcely ขึ้นต้นประโยคใช้ inverted past perfect: had the consultation closed",
+      "grammarTopicIds": [
+        "tenses"
+      ],
+      "tags": [
+        "tenses",
+        "c1-c2",
+        "academic-context"
+      ]
+    },
+    {
+      "id": "fill-in-24-q20",
+      "prompt": "Far from __, the results raise several new methodological questions.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "conclusive"
+        },
+        {
+          "id": "B",
+          "text": "conclusively"
+        },
+        {
+          "id": "C",
+          "text": "conclusiveness"
+        },
+        {
+          "id": "D",
+          "text": "being conclusive"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "far from ตามด้วย gerund จึงใช้ being conclusive",
+      "grammarTopicIds": [
+        "verb-patterns"
+      ],
+      "tags": [
+        "verb-patterns",
+        "c1-c2",
+        "academic-context"
+      ]
+    }
+  ]
+}

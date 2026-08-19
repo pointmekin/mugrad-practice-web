@@ -1,0 +1,608 @@
+{
+  "id": "synonyms-32",
+  "type": "synonym",
+  "title": "Institutions and Policy — Set 32",
+  "difficulty": "C1 Advanced",
+  "questions": [
+    {
+      "id": "synonyms-32-q01",
+      "prompt": "Department heads are **accountable** for ensuring that every expenditure can be traced to an approved purpose.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "restricted"
+        },
+        {
+          "id": "B",
+          "text": "responsible"
+        },
+        {
+          "id": "C",
+          "text": "coherent"
+        },
+        {
+          "id": "D",
+          "text": "estimated"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "accountable หมายถึงต้องรับผิดชอบต่อการตัดสินใจและผลลัพธ์ จึงใกล้กับ responsible",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "accountable"
+      ]
+    },
+    {
+      "id": "synonyms-32-q02",
+      "prompt": "The committee concluded that a short written warning was the most **appropriate** response to the minor breach.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "conclusive"
+        },
+        {
+          "id": "B",
+          "text": "independent"
+        },
+        {
+          "id": "C",
+          "text": "flawed"
+        },
+        {
+          "id": "D",
+          "text": "suitable"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "appropriate หมายถึงเหมาะสมกับสถานการณ์หรือวัตถุประสงค์ จึงใกล้กับ suitable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "appropriate"
+      ]
+    },
+    {
+      "id": "synonyms-32-q03",
+      "prompt": "The **approximate** cost is included for planning purposes, but suppliers have not yet submitted final quotations.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "restricted"
+        },
+        {
+          "id": "B",
+          "text": "productive"
+        },
+        {
+          "id": "C",
+          "text": "lawful"
+        },
+        {
+          "id": "D",
+          "text": "estimated"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "approximate หมายถึงคำนวณไว้ใกล้เคียงแต่ยังไม่ใช่ค่าที่แน่นอน จึงใกล้กับ estimated",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "approximate"
+      ]
+    },
+    {
+      "id": "synonyms-32-q04",
+      "prompt": "Although publicly funded, the institute remains **autonomous** in choosing its research priorities and appointing senior staff.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "responsible"
+        },
+        {
+          "id": "B",
+          "text": "self-governing"
+        },
+        {
+          "id": "C",
+          "text": "restricted"
+        },
+        {
+          "id": "D",
+          "text": "typical"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "autonomous หมายถึงมีอำนาจบริหารและตัดสินใจด้วยตนเอง จึงใกล้กับ self-governing",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "autonomous"
+      ]
+    },
+    {
+      "id": "synonyms-32-q05",
+      "prompt": "The project adopted a **collaborative** approach in which teachers, parents, and researchers designed the survey together.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "methodical"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "conclusive"
+        },
+        {
+          "id": "D",
+          "text": "cooperative"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "collaborative หมายถึงทำงานร่วมกันเพื่อเป้าหมายเดียวกัน จึงใกล้กับ cooperative",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "collaborative"
+      ]
+    },
+    {
+      "id": "synonyms-32-q06",
+      "prompt": "The panel found the candidate **competent** to manage the archive, although further technical training was recommended.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "flawed"
+        },
+        {
+          "id": "B",
+          "text": "capable"
+        },
+        {
+          "id": "C",
+          "text": "estimated"
+        },
+        {
+          "id": "D",
+          "text": "cooperative"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "competent หมายถึงมีความสามารถเพียงพอที่จะทำงานนั้น จึงใกล้กับ capable",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "competent"
+      ]
+    },
+    {
+      "id": "synonyms-32-q07",
+      "prompt": "Interview recordings remain **confidential** and may be accessed only by the named research team.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "productive"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "typical"
+        },
+        {
+          "id": "D",
+          "text": "methodical"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "confidential หมายถึงจำกัดการเปิดเผยหรือการเข้าถึง จึงใกล้กับ restricted",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "confidential"
+      ]
+    },
+    {
+      "id": "synonyms-32-q08",
+      "prompt": "The three recommendations are **consistent** with the evidence presented in the body of the report.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "flawed"
+        },
+        {
+          "id": "B",
+          "text": "estimated"
+        },
+        {
+          "id": "C",
+          "text": "coherent"
+        },
+        {
+          "id": "D",
+          "text": "self-governing"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "consistent หมายถึงสอดคล้องกันโดยไม่มีความขัดแย้ง จึงใกล้กับ coherent",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "consistent"
+      ]
+    },
+    {
+      "id": "synonyms-32-q09",
+      "prompt": "The reviewers offered **constructive** criticism, identifying weaknesses while suggesting practical ways to address them.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "productive"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "conclusive"
+        },
+        {
+          "id": "D",
+          "text": "typical"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "constructive หมายถึงมุ่งช่วยให้เกิดการปรับปรุง จึงใกล้กับ productive",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "constructive"
+      ]
+    },
+    {
+      "id": "synonyms-32-q10",
+      "prompt": "The newly recovered emails provided **decisive** evidence that the figures had been altered before publication.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "estimated"
+        },
+        {
+          "id": "B",
+          "text": "cooperative"
+        },
+        {
+          "id": "C",
+          "text": "conclusive"
+        },
+        {
+          "id": "D",
+          "text": "methodical"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "decisive หมายถึงชัดเจนพอที่จะยุติข้อสงสัย จึงใกล้กับ conclusive",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "decisive"
+      ]
+    },
+    {
+      "id": "synonyms-32-q11",
+      "prompt": "Engineers replaced the **defective** sensors after discovering that they consistently recorded temperatures too high.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "capable"
+        },
+        {
+          "id": "B",
+          "text": "lawful"
+        },
+        {
+          "id": "C",
+          "text": "flawed"
+        },
+        {
+          "id": "D",
+          "text": "corresponding"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "defective หมายถึงมีข้อบกพร่องจนทำงานไม่ถูกต้อง จึงใกล้กับ flawed",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "defective"
+      ]
+    },
+    {
+      "id": "synonyms-32-q12",
+      "prompt": "A **distinctive** feature of the programme is that students design a community project before beginning formal coursework.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "characteristic"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "estimated"
+        },
+        {
+          "id": "D",
+          "text": "cooperative"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "distinctive หมายถึงเป็นลักษณะเฉพาะที่ทำให้แตกต่างจากสิ่งอื่น จึงใกล้กับ characteristic",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "distinctive"
+      ]
+    },
+    {
+      "id": "synonyms-32-q13",
+      "prompt": "The revised booking system is more **efficient**, processing applications with fewer staff hours and less duplicated work.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "conclusive"
+        },
+        {
+          "id": "B",
+          "text": "typical"
+        },
+        {
+          "id": "C",
+          "text": "economical"
+        },
+        {
+          "id": "D",
+          "text": "flawed"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "efficient หมายถึงให้ผลดีโดยใช้เวลาและทรัพยากรน้อย จึงใกล้กับ economical",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "efficient"
+      ]
+    },
+    {
+      "id": "synonyms-32-q14",
+      "prompt": "The two qualifications are considered **equivalent**, so holders may apply for the same professional licence.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "corresponding"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "productive"
+        },
+        {
+          "id": "D",
+          "text": "lawful"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "equivalent หมายถึงมีคุณค่าหรือสถานะเทียบเท่ากัน จึงใกล้กับ corresponding",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "equivalent"
+      ]
+    },
+    {
+      "id": "synonyms-32-q15",
+      "prompt": "The consultation was designed to be **inclusive**, with accessible formats and meetings in every district.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "estimated"
+        },
+        {
+          "id": "B",
+          "text": "conclusive"
+        },
+        {
+          "id": "C",
+          "text": "flawed"
+        },
+        {
+          "id": "D",
+          "text": "broad-based"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "inclusive หมายถึงเปิดให้คนหลายกลุ่มมีส่วนร่วม จึงใกล้กับ broad-based",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "inclusive"
+      ]
+    },
+    {
+      "id": "synonyms-32-q16",
+      "prompt": "The review team remained **independent**, refusing funding or logistical support from organisations being investigated.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "cooperative"
+        },
+        {
+          "id": "B",
+          "text": "restricted"
+        },
+        {
+          "id": "C",
+          "text": "typical"
+        },
+        {
+          "id": "D",
+          "text": "unaffiliated"
+        }
+      ],
+      "correctChoiceId": "D",
+      "explanationTh": "independent ในบริบทนี้หมายถึงไม่สังกัดหรือเกี่ยวข้องกับฝ่ายที่ถูกตรวจสอบ จึงใกล้กับ unaffiliated",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "independent"
+      ]
+    },
+    {
+      "id": "synonyms-32-q17",
+      "prompt": "The initial article was highly **influential**, shaping both later research and the language used in national policy.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "estimated"
+        },
+        {
+          "id": "B",
+          "text": "impactful"
+        },
+        {
+          "id": "C",
+          "text": "methodical"
+        },
+        {
+          "id": "D",
+          "text": "flawed"
+        }
+      ],
+      "correctChoiceId": "B",
+      "explanationTh": "influential หมายถึงส่งผลต่อแนวคิดและการตัดสินใจในวงกว้าง จึงใกล้กับ impactful",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "influential"
+      ]
+    },
+    {
+      "id": "synonyms-32-q18",
+      "prompt": "The tribunal found the restriction **legitimate** because it was authorised by statute and applied consistently.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "lawful"
+        },
+        {
+          "id": "B",
+          "text": "productive"
+        },
+        {
+          "id": "C",
+          "text": "restricted"
+        },
+        {
+          "id": "D",
+          "text": "cooperative"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "legitimate หมายถึงถูกต้องตามกฎหมายหรือหลักที่ยอมรับ จึงใกล้กับ lawful",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "legitimate"
+      ]
+    },
+    {
+      "id": "synonyms-32-q19",
+      "prompt": "The selected schools are broadly **representative** of the region in terms of size, location, and student background.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "typical"
+        },
+        {
+          "id": "B",
+          "text": "conclusive"
+        },
+        {
+          "id": "C",
+          "text": "self-governing"
+        },
+        {
+          "id": "D",
+          "text": "flawed"
+        }
+      ],
+      "correctChoiceId": "A",
+      "explanationTh": "representative หมายถึงสะท้อนลักษณะทั่วไปของกลุ่มใหญ่ได้ จึงใกล้กับ typical",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "representative"
+      ]
+    },
+    {
+      "id": "synonyms-32-q20",
+      "prompt": "The investigators used a **systematic** process, checking each document against the same sequence of criteria.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "estimated"
+        },
+        {
+          "id": "B",
+          "text": "cooperative"
+        },
+        {
+          "id": "C",
+          "text": "methodical"
+        },
+        {
+          "id": "D",
+          "text": "lawful"
+        }
+      ],
+      "correctChoiceId": "C",
+      "explanationTh": "systematic หมายถึงดำเนินการอย่างเป็นระบบและเป็นขั้นตอน จึงใกล้กับ methodical",
+      "grammarTopicIds": [],
+      "tags": [
+        "academic-vocabulary",
+        "c1",
+        "systematic"
+      ]
+    }
+  ]
+}
